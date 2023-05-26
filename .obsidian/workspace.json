@@ -11,8 +11,12 @@
             "id": "acdb18e3e750064a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,7 +148,23 @@
   },
   "active": "051d88004b3120d1",
   "lastOpenFiles": [
-    "test.md",
-    "react.md"
+    "FSA/Server & Databases.md",
+    "FSA/React.md",
+    "FSA/MISC.md",
+    "FSA/Course Review.md",
+    "FSA/23 May 23.md",
+    "FSA",
+    "LESS CSS.md",
+    "JavaScript.md",
+    "JavaScript Misc.md",
+    "First App Search.md",
+    "Building your first Application.md",
+    "25 May 23 - Authentication.md",
+    "Refractor to react.md",
+    "React misc.md",
+    "Comonents & Adv JSX.md",
+    "React",
+    "react.md",
+    "test.md"
   ]
 }
