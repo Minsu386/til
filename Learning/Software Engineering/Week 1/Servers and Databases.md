@@ -1,3 +1,4 @@
+
 ## Modules
 ----
 
@@ -18,7 +19,7 @@
 ## Express & Async
 ----
 
-### Express
+### [[Express]]
 
 ```JavaScript
 const express = require('express')
@@ -34,10 +35,10 @@ app.get('/about', (req,res, next) => {
 
 app.listen(3000)
 ```
-you will also need to install express via NPM
+you will also need to install express via [[NPM]]
 `npm i express`
 
-Start freash	 
+Start fresh	 
 ```zsh
 mkdir expressDemo && cd $_
 npm init -y
@@ -55,7 +56,7 @@ in package.json add this line  in the "scripts: {
 to start
 `npm run start:dev`
 
-## Express & Sequelize
+## [[Express]] & [[Sequelize]]
 ____
 
 
