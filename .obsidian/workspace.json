@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "FSA/Server & Databases.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ccf0c2ed3c248cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25 May 23 - Authentication.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "25 May 23 - Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "25 May 23 - Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "25 May 23 - Authentication.md"
               }
             }
+          },
+          {
+            "id": "51311e5877126e4f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "051d88004b3120d1",
+  "active": "028cc6ffb601b70e",
   "lastOpenFiles": [
+    "test.md",
     "FSA/Server & Databases.md",
-    "FSA/React.md",
+    "JavaScript Misc.md",
     "FSA/MISC.md",
+    "FSA/React.md",
+    "React/What is data binding.md",
+    "README.md",
     "FSA/Course Review.md",
     "FSA/23 May 23.md",
     "FSA",
     "LESS CSS.md",
     "JavaScript.md",
-    "JavaScript Misc.md",
     "First App Search.md",
     "Building your first Application.md",
     "25 May 23 - Authentication.md",
@@ -164,7 +188,6 @@
     "React misc.md",
     "Comonents & Adv JSX.md",
     "React",
-    "react.md",
-    "test.md"
+    "react.md"
   ]
 }
