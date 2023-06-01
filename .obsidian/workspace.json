@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "053eb1592eaa2225",
+        "id": "9385e341af7ca02a",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b3630c668e9ab2",
+            "id": "581f16f725a26ca5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning/CodeCademy/Create an Advanced Web App with React and Redux Skill Path.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/CodeCademy/Create an Advanced Web App with React and Redux Skill Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/CodeCademy/Create an Advanced Web App with React and Redux Skill Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/CodeCademy/Create an Advanced Web App with React and Redux Skill Path.md"
+              }
             }
           },
           {
@@ -146,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b3630c668e9ab2",
+  "active": "581f16f725a26ca5",
   "lastOpenFiles": [
     "React/React.md",
     "Learning/CodeCademy/Create an Advanced Web App with React and Redux Skill Path.md",
