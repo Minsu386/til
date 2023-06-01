@@ -2,7 +2,7 @@
 
 ## Table of Contents
 ----
-[[React/React#References]]
+1) [[#References]]
 
 ## React Routes
 ----
@@ -14,8 +14,7 @@ fetch variable Async thunk
 
 
 
-
 # References
 -----
-[[Authorization Form]]
-[[Components]]
+[[Authorization Form | CodeCademy - Basic Authorization Form]]
+[[Components | CodeCademy - Components]]

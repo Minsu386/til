@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React.md",
-                "mode": "preview",
+                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React.md",
+                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React.md",
+                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React.md"
+                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "c0149fd111cc70e0",
   "lastOpenFiles": [
+    "React/React.md",
+    "References.md",
     "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
     "Learning/CodeCademy/React & Redux/Authorization Form.md",
     "Meta/Pasted image 20230531200435.png",
-    "React/React.md",
     "Excalidraw/Drawing 2023-06-01 09.19.31.excalidraw.md",
     "Excalidraw/Drawing 2023-06-01 09.19.02.excalidraw.md",
     "LESS CSS.md",
