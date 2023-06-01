@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "330fd45d4f4745af",
+        "id": "cb5afaf75862850c",
         "type": "tabs",
         "children": [
           {
-            "id": "8ccf0c2ed3c248cc",
+            "id": "c2dbfe212da189a6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Learning/Software Engineering/Week 1/Servers and Databases.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Software Engineering/Week 1/Servers and Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Software Engineering/Week 1/Servers and Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Software Engineering/Week 1/Servers and Databases.md"
+              }
             }
           },
           {
@@ -146,12 +151,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ccf0c2ed3c248cc",
+  "active": "c2dbfe212da189a6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-31 19.59.40.excalidraw.md",
     "Learning/Software Engineering/Week 1/Servers and Databases.md",
+    "Excalidraw",
     "Learning/Software Engineering/Server & Databases.md",
     "Learning/Software Engineering/23 May 23.md",
     "Learning/Software Engineering/Week 1",
