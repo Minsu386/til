@@ -1,4 +1,5 @@
 ----
+	#react 
 
 ### Objective
 - How components can  reference other components
@@ -8,4 +9,7 @@
 
 
 ## Returning Another Component
-- 
+----
+
+Each [[Reac]]
+
