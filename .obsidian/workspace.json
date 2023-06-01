@@ -23,26 +23,16 @@
             "id": "c0149fd111cc70e0",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Meta/Pasted image 20230531200435.png"
-              }
-            }
-          },
-          {
-            "id": "c4c2f887f2d4ed46",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
-                "mode": "source",
+                "file": "React/React.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
+                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
+                "file": "React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/CodeCademy/React & Redux/Components Interacting/Components.md"
+                "file": "React/React.md"
               }
             }
           },
@@ -178,18 +168,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4c2f887f2d4ed46",
+  "active": "c0149fd111cc70e0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-06-01 09.19.31.excalidraw.md",
     "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
-    "Excalidraw/Drawing 2023-06-01 09.19.02.excalidraw.md",
-    "Meta/Pasted image 20230531200435.png",
-    "LESS CSS.md",
     "Learning/CodeCademy/React & Redux/Authorization Form.md",
+    "Meta/Pasted image 20230531200435.png",
+    "React/React.md",
+    "Excalidraw/Drawing 2023-06-01 09.19.31.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-01 09.19.02.excalidraw.md",
+    "LESS CSS.md",
     "test.md",
     "Excalidraw",
     "Untitled.canvas",
-    "React/React.md",
     "Learning/CodeCademy/React & Redux/Components Interacting",
     "Learning/CodeCademy/Untitled.md",
     "Learning/CodeCademy/React & Redux",
