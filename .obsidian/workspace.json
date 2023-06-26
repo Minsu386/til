@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30a10783462e1113",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0149fd111cc70e0",
+  "active": "30a10783462e1113",
   "lastOpenFiles": [
     "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
     "Learning/CodeCademy/React & Redux/Components Interacting/Props.md",
