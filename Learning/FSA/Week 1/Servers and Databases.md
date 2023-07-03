@@ -60,7 +60,7 @@ in package.json add this line  in the "scripts: {
 to start
 `npm run start:dev`
 
-## [[Express]] & [[Sequelize]]
+## [[Express]] & [[Sequelize]] [[Backend]]
 ____
 
 
