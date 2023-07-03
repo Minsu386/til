@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy/Untitled.md",
+                "file": "Udemy/Reusable wrapper.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy/Untitled.md",
+                "file": "Udemy/Reusable wrapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy/Untitled.md",
+                "file": "Udemy/Reusable wrapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy/Untitled.md"
+                "file": "Udemy/Reusable wrapper.md"
               }
             }
           },
@@ -193,7 +193,7 @@
   "active": "d209de756258c7c4",
   "lastOpenFiles": [
     "Udemy/What are Spread and Rest Operator.md",
-    "Udemy/Untitled.md",
+    "Udemy/Reusable wrapper.md",
     "Udemy/What is Destructing.md",
     "Udemy/Revisiting Function.md",
     "JavaScript Misc.md",
