@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript Misc.md",
+                "file": "Udemy/What is Destructing.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript Misc.md",
+                "file": "Udemy/What is Destructing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript Misc.md",
+                "file": "Udemy/What is Destructing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript Misc.md"
+                "file": "Udemy/What is Destructing.md"
               }
             }
           },
@@ -192,11 +192,13 @@
   },
   "active": "d209de756258c7c4",
   "lastOpenFiles": [
+    "Udemy/Revisiting Function.md",
+    "Udemy/What is Destructing.md",
+    "JavaScript Misc.md",
     "JavaScript.md",
     "First App Search.md",
     "Comonents & Adv JSX.md",
     "Building your first Application.md",
-    "Revisiting Function.md",
     "conflict-files-obsidian-git.md",
     "Udemy",
     "Redux/What are some important Redux Terms to know.md",
@@ -225,10 +227,8 @@
     "Meta",
     "Excalidraw/Drawing 2023-05-31 19.59.40.excalidraw.md",
     "Learning/Software Engineering/Server & Databases.md",
-    "Learning/FSA/23 May 23.md",
     "Learning/FSA/Week 1",
     "Learning",
-    "JavaScript Misc.md",
     "Learning/FSA"
   ]
 }
