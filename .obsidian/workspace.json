@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy/What is Destructing.md",
+                "file": "Udemy/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy/What is Destructing.md",
+                "file": "Udemy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy/What is Destructing.md",
+                "file": "Udemy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy/What is Destructing.md"
+                "file": "Udemy/Untitled.md"
               }
             }
           },
@@ -192,8 +192,10 @@
   },
   "active": "d209de756258c7c4",
   "lastOpenFiles": [
-    "Udemy/Revisiting Function.md",
+    "Udemy/What are Spread and Rest Operator.md",
+    "Udemy/Untitled.md",
     "Udemy/What is Destructing.md",
+    "Udemy/Revisiting Function.md",
     "JavaScript Misc.md",
     "JavaScript.md",
     "First App Search.md",
@@ -225,8 +227,6 @@
     "Learning/FSA/Week 1/Servers and Databases.md",
     "Learning/CodeCademy",
     "Meta",
-    "Excalidraw/Drawing 2023-05-31 19.59.40.excalidraw.md",
-    "Learning/Software Engineering/Server & Databases.md",
     "Learning/FSA/Week 1",
     "Learning",
     "Learning/FSA"
