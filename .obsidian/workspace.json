@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "038635815a252952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applying to Companies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c73671f1ba77916f",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Applying to Companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Applying to Companies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy ProShop.md"
+                "file": "Applying to Companies.md"
               }
             }
           },
@@ -168,10 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50feeb9b1cc68c77",
+  "active": "038635815a252952",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "Udemy ProShop.md",
+    "Applying to Companies.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "LESS CSS.md",
     "Udemy/Reusable wrapper.md",
