@@ -11,6 +11,8 @@ Original Repo - github.com/bradtraversy/proshop-v2
 File Structure
 - AnimeZon
 	- frontend - React UI & all front end dependencies (Redux, Bootstrap, etc)
+		- components - ui parts
+		- screens - pages/routes
 	- backend - Server-side code. Models, controllers & routes
 	- uploads - image uploads
 
