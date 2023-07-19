@@ -11,14 +11,11 @@
             "id": "50feeb9b1cc68c77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Udemy ProShop.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Udemy ProShop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Udemy ProShop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "Udemy ProShop.md"
               }
             }
           },
@@ -172,8 +170,8 @@
   },
   "active": "50feeb9b1cc68c77",
   "lastOpenFiles": [
-    "Udemy ProShop.md",
     "Untitled 1.canvas",
+    "Udemy ProShop.md",
     "Untitled.canvas",
     "LESS CSS.md",
     "Udemy/Reusable wrapper.md",
