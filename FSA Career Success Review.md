@@ -98,8 +98,13 @@ VA.GOV
 
 On Linkedin Msg:
 Devin Boyd - https://www.linkedin.com/in/devboyd/
-
+Brett Causey - https://www.linkedin.com/in/brett-causey-1a630a1b3/
+Leighton Pitman - https://www.linkedin.com/in/leighton-pitman/
+Erika H - https://www.linkedin.com/in/erika-hilty/
 
 
 ## ATS / Optimization
 ----
+Application Tracking System
+	Companies used to filter through applications
+
