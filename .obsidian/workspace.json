@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "f58e24bea8aa2b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c73671f1ba77916f",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FSA Career Success Review.md",
+                "file": "Technical Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FSA Career Success Review.md",
+                "file": "Technical Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FSA Career Success Review.md"
+                "file": "Technical Journal.md"
               }
             }
           },
@@ -192,10 +204,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2f2b5d74d2d3bd5",
+  "active": "051d88004b3120d1",
   "lastOpenFiles": [
-    "Udemy ProShop.md",
     "FSA Career Success Review.md",
+    "Technical Journal.md",
+    "Untitled",
+    "Udemy ProShop.md",
     "Applying to Companies.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -223,7 +237,6 @@
     "2 June 23.md",
     "Learning/CodeCademy/React & Redux/Components Interacting/Props.md",
     "References.md",
-    "Learning/CodeCademy/React & Redux/Authorization Form.md",
     "Meta/Pasted image 20230531200435.png",
     "Excalidraw",
     "Learning/CodeCademy/React & Redux/Components Interacting",
@@ -231,7 +244,6 @@
     "Learning/CodeCademy",
     "Meta",
     "Learning/FSA/Week 1",
-    "Learning",
-    "Learning/FSA"
+    "Learning"
   ]
 }
