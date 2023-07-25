@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d2f2b5d74d2d3bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c73671f1ba77916f",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy ProShop.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -180,10 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "038635815a252952",
+  "active": "d2f2b5d74d2d3bd5",
   "lastOpenFiles": [
-    "Applying to Companies.md",
     "Udemy ProShop.md",
+    "Untitled.md",
+    "Applying to Companies.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "LESS CSS.md",
@@ -212,7 +225,6 @@
     "References.md",
     "Learning/CodeCademy/React & Redux/Authorization Form.md",
     "Meta/Pasted image 20230531200435.png",
-    "Excalidraw/Drawing 2023-06-01 09.19.31.excalidraw.md",
     "Excalidraw",
     "Learning/CodeCademy/React & Redux/Components Interacting",
     "Learning/CodeCademy/React & Redux",
