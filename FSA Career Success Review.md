@@ -60,6 +60,8 @@ HUNTR and TEAL website
 ## Mindset / Confidence
 ----
 
+
+
 ## Networking & Leads
 ----
 
