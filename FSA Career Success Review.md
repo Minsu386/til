@@ -70,6 +70,10 @@ Result.
 
 ## Networking & Leads
 ----
+Awareness of what you can bring (skills)
+
+
+
 
 ## ATS / Optimization
 ----
