@@ -8,4 +8,6 @@ How do you feel about the job search process?
 - Excited
 - scary
 
-
+Coach Connection -
+-  Bookmark Yasmine Coach
+ - set monthly or bi-weekly 1on1 with Yasmine 

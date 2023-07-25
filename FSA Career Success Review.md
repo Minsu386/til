@@ -8,10 +8,29 @@
 - reflect on your developer journal weekly
 
 
-Time Management / Structure
+## Time Management / Structure
+----
 
-Mindset / Confidence
+Takes several days to develop habits. 
+small things consistently helps overcome. 
 
-Networking & Leads
+ interruption
+ - boundaries when focus
 
-ATS / Optimization
+Ex.
+Id 1 habit  - Exercise
+- when will you begin?
+	- Tomorrow
+- How will you guard it?
+	- set alarms
+- 1 distraction you anticipate?
+	- late night / bad weather
+
+## Mindset / Confidence
+----
+
+## Networking & Leads
+----
+
+## ATS / Optimization
+----
