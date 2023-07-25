@@ -86,5 +86,16 @@ If speaking Manager / Leader / Recruiter:
 - How could a developer position oneself to best apply for a role
 
 
+Find the People Slide.  finding your community  Slide 15
+
+10 Companies
+USAA
+DISNEY
+MOFFITT
+Sarasota Memorial Hospital
+VA.GOV
+
+
+
 ## ATS / Optimization
 ----
