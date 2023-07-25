@@ -60,6 +60,12 @@ HUNTR and TEAL website
 ## Mindset / Confidence
 ----
 
+STAR use to help increase speaking skills
+Situation
+TASK
+Action/Contribution
+Result.
+
 
 
 ## Networking & Leads
