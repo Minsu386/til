@@ -73,6 +73,17 @@ Result.
 Awareness of what you can bring (skills)
 
 
+Info Chat Questions
+- What was your experience like starting out as a developer?
+- What were some of your struggles on the job search?
+- What was an important learning moment for you on the search?
+- What do you do on your job now?
+- How do you keep up with new technologies?
+- What would you like to accomplish in a year or two?
+
+If speaking Manager / Leader / Recruiter:
+- What qualities do you look for in developers?
+- How could a developer position oneself to best apply for a role
 
 
 ## ATS / Optimization
