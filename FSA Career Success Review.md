@@ -55,6 +55,7 @@ Id 1 habit  - Exercise / meditate
 	- Slack Conversation
 
 
+HUNTR and TEAL website
 
 ## Mindset / Confidence
 ----
