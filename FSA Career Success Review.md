@@ -18,13 +18,19 @@ small things consistently helps overcome.
  - boundaries when focus
 
 Ex.
-Id 1 habit  - Exercise
+Id 1 habit  - Exercise / meditate
 - when will you begin?
 	- Tomorrow
 - How will you guard it?
 	- set alarms
 - 1 distraction you anticipate?
 	- late night / bad weather
+
+Organize Email
+- Application | Networking | Career Success | newsletters | follow-up | friends | others
+
+Activities
+
 
 ## Mindset / Confidence
 ----
