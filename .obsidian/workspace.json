@@ -206,7 +206,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a994a903fb97956",
+  "active": "028cc6ffb601b70e",
   "lastOpenFiles": [
     "Daily Journal/2023-07-25 - Learning ToDo.md",
     "Daily Journal/2023-07-26.md",
