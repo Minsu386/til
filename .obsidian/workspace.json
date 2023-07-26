@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/2023-07-25.md",
+                "file": "Daily Journal/2023-07-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/2023-07-25.md",
+                "file": "Daily Journal/2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/2023-07-25.md",
+                "file": "Daily Journal/2023-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/2023-07-25.md"
+                "file": "Daily Journal/2023-07-26.md"
               }
             }
           },
@@ -225,8 +225,9 @@
   },
   "active": "7a994a903fb97956",
   "lastOpenFiles": [
+    "Daily Journal/2023-07-25 - Learning ToDo.md",
+    "Daily Journal/2023-07-26.md",
     "Applying to Companies.md",
-    "Daily Journal/2023-07-25.md",
     "Daily Journal/2 June 23.md",
     "Daily Journal/25 May 23 - Authentication.md",
     "2023-07-25.md",
@@ -253,7 +254,6 @@
     "JavaScript.md",
     "First App Search.md",
     "Comonents & Adv JSX.md",
-    "Building your first Application.md",
     "Udemy",
     "Redux",
     "Meta/Pasted image 20230531200435.png",
