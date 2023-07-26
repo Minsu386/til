@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend.md",
+                "file": "Daily Journal/2023-07-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,12 +141,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "cd944c6efd6debca",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f366fd9cc9ef8f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "028cc6ffb601b70e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend.md",
+                "file": "Daily Journal/2023-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,20 +182,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend.md",
+                "file": "Daily Journal/2023-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1f366fd9cc9ef8f8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -186,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend.md"
+                "file": "Daily Journal/2023-07-25.md"
               }
             }
           },
@@ -198,12 +206,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,14 +225,18 @@
   },
   "active": "7a994a903fb97956",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Daily Journal/2 June 23.md",
+    "Daily Journal/25 May 23 - Authentication.md",
+    "2023-07-25.md",
+    "Daily Journal/2023-07-25.md",
+    "Daily Journal",
     "Backend.md",
+    "Untitled.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Udemy ProShop.md",
     "Technical Journal.md",
     "FSA Career Success Review.md",
-    "Untitled",
     "Applying to Companies.md",
     "LESS CSS.md",
     "Udemy/Reusable wrapper.md",
@@ -243,11 +254,8 @@
     "First App Search.md",
     "Comonents & Adv JSX.md",
     "Building your first Application.md",
-    "conflict-files-obsidian-git.md",
     "Udemy",
-    "Redux/Application Contents of React Redux.md",
     "Redux",
-    "2 June 23.md",
     "Meta/Pasted image 20230531200435.png",
     "Excalidraw",
     "Learning/CodeCademy/React & Redux/Components Interacting",
