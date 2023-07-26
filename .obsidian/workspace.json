@@ -78,9 +78,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b20ef16ae6424cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/2023-07-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62287cff854a1f13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -224,12 +244,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "028cc6ffb601b70e",
+  "active": "7b20ef16ae6424cd",
   "lastOpenFiles": [
-    "Daily Journal/2023-07-25 - Learning ToDo.md",
-    "Daily Journal/2023-07-26.md",
-    "Applying to Companies.md",
     "Daily Journal/2 June 23.md",
+    "What is Zettelkasten.md",
+    "Daily Journal/2023-07-26.md",
+    "Daily Journal/2023-07-25 - Learning ToDo.md",
+    "Applying to Companies.md",
     "Daily Journal/25 May 23 - Authentication.md",
     "2023-07-25.md",
     "Daily Journal",
@@ -254,7 +275,6 @@
     "JavaScript Misc.md",
     "JavaScript.md",
     "First App Search.md",
-    "Comonents & Adv JSX.md",
     "Udemy",
     "Redux",
     "Meta/Pasted image 20230531200435.png",
