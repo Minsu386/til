@@ -2,7 +2,7 @@
 ES2015 was released in 2015. It is also commonly called ES6. It was a pivotal update to JavaScript.
 
 ES stands for ECMAScript, which is the language standard of JavaScript. [ECMA InternationalLinks to an external site.](https://www.ecma-international.org/) is an organization that develops international standards for information technology and they control the standards for JavaScript.
-
+Recliner with chase
 Formerly, ES2015 was called ES6 until the committee that controls ECMAScript editions decided to release annual updates. New versions of ECMAScript are now associated with the year the version is released. With this decision in mind, the ECMAScript committee changed ES6 to ES2015.
 
 Before ES2015, the new edition of JavaScript followed the naming convention ES[version number]. Now each new edition follows the convention ES[release year]. Here is a list of ECMAScript versions:
@@ -21,9 +21,6 @@ Before ES2015, the new edition of JavaScript followed the naming convention ES[v
 - ES2021 (June 2021, the 12th edition of ECMAScript)
 - ES2022 (June 2022, the 13th edition of ECMAScript)
 - Next (refers to the next version that will be released)
-
-In this section, we take a look at a handful of the new features added in ES2015. The goal is not to master the features; it is to gain just enough familiarity to apply them in your code. We will continue diving deeper into new features throughout Foundations and the Immersive. If you only know ES5 syntax, this section is primarily for you.
-
 
 
 

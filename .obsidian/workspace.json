@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is ES2015.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is ES2015.md",
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is ES2015.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is ES2015.md"
+                "file": "JavaScript.md"
               }
             }
           },
@@ -164,11 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "051d88004b3120d1",
+  "active": "5403113ff9402d03",
   "lastOpenFiles": [
+    "What is ES2015.md",
     "Untitled",
     "JavaScript.md",
-    "What is ES2015.md",
     "Daily Journal/27 Jul 23.md",
     "Daily Journal/26 Jul 23.md",
     "Daily Journal/25 May 23.md",
@@ -203,7 +203,6 @@
     "Learning/CodeCademy/React & Redux/Components Interacting",
     "Learning/CodeCademy/React & Redux",
     "Learning/CodeCademy",
-    "Meta",
-    "Learning/FSA/Week 1"
+    "Meta"
   ]
 }
