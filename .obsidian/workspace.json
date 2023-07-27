@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/26 Jul 23.md",
+                "file": "Daily Journal/27 Jul 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/26 Jul 23.md",
+                "file": "Daily Journal/27 Jul 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/26 Jul 23.md",
+                "file": "Daily Journal/27 Jul 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/26 Jul 23.md"
+                "file": "Daily Journal/27 Jul 23.md"
               }
             }
           },
@@ -259,10 +259,11 @@
   },
   "active": "bc927715ec29525e",
   "lastOpenFiles": [
+    "Daily Journal/26 Jul 23.md",
+    "Daily Journal/27 Jul 23.md",
     "Daily Journal/25 May 23.md",
     "Daily Journal/25 Jul 23.md",
     "Daily Journal/2 Jun 23.md",
-    "Daily Journal/26 Jul 23.md",
     "Daily Journal/2023-07-26.md",
     "Templates/Daily Journal.md",
     "Templates",
@@ -288,7 +289,6 @@
     "Udemy/What are Spread and Rest Operator.md",
     "Udemy/What is Destructing.md",
     "JavaScript Misc.md",
-    "JavaScript.md",
     "Udemy",
     "Redux",
     "Meta/Pasted image 20230531200435.png",
