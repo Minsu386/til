@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
+                "file": "Daily Journal/27 Jul 23.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Daily Journal/27 Jul 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Daily Journal/27 Jul 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "Daily Journal/27 Jul 23.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "5403113ff9402d03",
   "lastOpenFiles": [
+    "JavaScript.md",
     "What is ES2015.md",
     "Untitled",
-    "JavaScript.md",
     "Daily Journal/27 Jul 23.md",
     "Daily Journal/26 Jul 23.md",
     "Daily Journal/25 May 23.md",
