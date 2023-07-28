@@ -4,115 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ef292c8c921dda85",
+        "id": "f351df91cd3d24ce",
         "type": "tabs",
         "children": [
           {
-            "id": "50feeb9b1cc68c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy ProShop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "038635815a252952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy ProShop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2f2b5d74d2d3bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FSA Career Success Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f58e24bea8aa2b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FSA Career Success Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c73671f1ba77916f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy ProShop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a994a903fb97956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Journal/25 Jul 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b20ef16ae6424cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Journal/2 Jun 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc927715ec29525e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Journal/26 Jul 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62287cff854a1f13",
+            "id": "a4e88c238e331e29",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/26 Jul 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/26 Jul 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Journal/26 Jul 23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -256,14 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc927715ec29525e",
+  "active": "a4e88c238e331e29",
   "lastOpenFiles": [
     "Daily Journal/25 May 23.md",
     "Daily Journal/25 Jul 23.md",
     "Daily Journal/2 Jun 23.md",
+    "Templates/Daily Journal.md",
     "Daily Journal/26 Jul 23.md",
     "Daily Journal/2023-07-26.md",
-    "Templates/Daily Journal.md",
     "Templates",
     "What is Zettelkasten.md",
     "Applying to Companies.md",
