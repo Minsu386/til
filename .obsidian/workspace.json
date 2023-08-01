@@ -157,13 +157,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9183ca23667b181",
+  "active": "cd944c6efd6debca",
   "lastOpenFiles": [
     "JavaScript.md",
     "Daily Journal/01 Aug 23.md",
