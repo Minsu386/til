@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/27 Jul 23.md",
-                "mode": "preview",
+                "file": "Daily Journal/01 Aug 23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "869f9a62d49f1c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML5.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/27 Jul 23.md",
+                "file": "Daily Journal/01 Aug 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/27 Jul 23.md",
+                "file": "Daily Journal/01 Aug 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/27 Jul 23.md"
+                "file": "Daily Journal/01 Aug 23.md"
               }
             }
           },
@@ -166,10 +178,12 @@
   },
   "active": "5403113ff9402d03",
   "lastOpenFiles": [
+    "HTML5.md",
+    "Daily Journal/01 Aug 23.md",
+    "Daily Journal/27 Jul 23.md",
     "JavaScript.md",
     "What is ES2015.md",
     "Untitled",
-    "Daily Journal/27 Jul 23.md",
     "Daily Journal/26 Jul 23.md",
     "Daily Journal/25 May 23.md",
     "Daily Journal/25 Jul 23.md",
@@ -195,7 +209,6 @@
     "Sequelize.md",
     "Redux/What are some important Redux Terms to know.md",
     "Udemy/Revisiting Function.md",
-    "Excalidraw/Drawing 2023-07-03 17.20.56.excalidraw.md",
     "Udemy",
     "Redux",
     "Meta/Pasted image 20230531200435.png",
