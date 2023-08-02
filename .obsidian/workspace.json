@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/01 Aug 23.md",
+                "file": "Daily Journal/02 Aug 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/01 Aug 23.md",
+                "file": "Daily Journal/02 Aug 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/01 Aug 23.md",
+                "file": "Daily Journal/02 Aug 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/01 Aug 23.md"
+                "file": "Daily Journal/02 Aug 23.md"
               }
             }
           },
@@ -174,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd944c6efd6debca",
+  "active": "b9183ca23667b181",
   "lastOpenFiles": [
-    "JavaScript.md",
     "Daily Journal/01 Aug 23.md",
+    "Daily Journal/02 Aug 23.md",
+    "JavaScript.md",
     "CSS.md",
     "Meta/lu425962um75c.tmp",
     "Meta/Pasted image 20230531200435.png",
@@ -210,7 +211,6 @@
     "React/React.md",
     "Learning/FSA/Week 1/Servers and Databases.md",
     "Sequelize.md",
-    "Redux/What are some important Redux Terms to know.md",
     "Udemy",
     "Redux",
     "Excalidraw",
