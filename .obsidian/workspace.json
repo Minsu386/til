@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/02 Aug 23.md",
+                "file": "Udemy ProShop.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/02 Aug 23.md",
+                "file": "Udemy ProShop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/02 Aug 23.md",
+                "file": "Udemy ProShop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/02 Aug 23.md"
+                "file": "Udemy ProShop.md"
               }
             }
           },
@@ -189,8 +189,18 @@
   },
   "active": "75cdfd61e9155689",
   "lastOpenFiles": [
-    "Daily Journal/01 Aug 23.md",
+    "Udemy/Revisiting Function.md",
+    "Udemy/What is Destructing.md",
+    "Udemy/What are Spread and Rest Operator.md",
+    "Udemy/Reusable wrapper.md",
+    "Daily Journal/27 Jul 23.md",
+    "Daily Journal/26 Jul 23.md",
+    "Daily Journal/25 Jul 23.md",
+    "Daily Journal/25 May 23.md",
+    "Daily Journal/2 Jun 23.md",
+    "Technical Journal.md",
     "Daily Journal/02 Aug 23.md",
+    "Daily Journal/01 Aug 23.md",
     "JavaScript.md",
     "CSS.md",
     "Meta/lu425962um75c.tmp",
@@ -198,13 +208,8 @@
     "Meta/html_element_2023-08-01 073038.jpg",
     "Meta/html_element.png",
     "HTML5.md",
-    "Daily Journal/27 Jul 23.md",
     "What is ES2015.md",
     "Untitled",
-    "Daily Journal/26 Jul 23.md",
-    "Daily Journal/25 May 23.md",
-    "Daily Journal/25 Jul 23.md",
-    "Daily Journal/2 Jun 23.md",
     "Daily Journal/2023-07-26.md",
     "Templates/Daily Journal.md",
     "Templates",
@@ -216,14 +221,9 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Udemy ProShop.md",
-    "Technical Journal.md",
     "FSA Career Success Review.md",
     "LESS CSS.md",
-    "Udemy/Reusable wrapper.md",
     "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
-    "React/React.md",
-    "Learning/FSA/Week 1/Servers and Databases.md",
-    "Sequelize.md",
     "Udemy",
     "Redux",
     "Excalidraw",
