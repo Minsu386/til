@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/03 Aug 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/03 Aug 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/03 Aug 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy ProShop.md"
+                "file": "Daily Journal/03 Aug 23.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "75cdfd61e9155689",
   "lastOpenFiles": [
+    "Udemy ProShop.md",
+    "Daily Journal/03 Aug 23.md",
     "Udemy/Revisiting Function.md",
     "Udemy/What is Destructing.md",
     "Udemy/What are Spread and Rest Operator.md",
@@ -220,10 +222,8 @@
     "Backend.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Udemy ProShop.md",
     "FSA Career Success Review.md",
     "LESS CSS.md",
-    "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
     "Udemy",
     "Redux",
     "Excalidraw",
