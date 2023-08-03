@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "75cdfd61e9155689",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "98f2394bc9b71396",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +185,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9183ca23667b181",
+  "active": "75cdfd61e9155689",
   "lastOpenFiles": [
     "Daily Journal/01 Aug 23.md",
     "Daily Journal/02 Aug 23.md",
