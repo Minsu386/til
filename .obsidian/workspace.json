@@ -11,11 +11,14 @@
             "id": "b9183ca23667b181",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -188,8 +191,9 @@
   },
   "active": "b9183ca23667b181",
   "lastOpenFiles": [
-    "Daily Journal/02 Aug 23.md",
     "Daily Journal/05 Aug 23.md",
+    "Untitled.canvas",
+    "Daily Journal/02 Aug 23.md",
     "AWS Solutions Architect Associate SAA-C03.md",
     "AWS.md",
     "Daily Journal/04 Aug 23.md",
@@ -219,9 +223,7 @@
     "Templates/Daily Journal.md",
     "Templates",
     "What is Zettelkasten.md",
-    "Applying to Companies.md",
     "Daily Journal",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Udemy",
     "Redux",
