@@ -11,21 +11,6 @@
             "id": "b9183ca23667b181",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Meta/AWS Region.canvas",
-                "viewState": {
-                  "x": -33.5,
-                  "y": -117.5,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "75cdfd61e9155689",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily Journal/05 Aug 23.md",
@@ -33,9 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75cdfd61e9155689",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Meta/Pasted image 20230531200435.png"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,15 +172,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75cdfd61e9155689",
+  "active": "b9183ca23667b181",
   "lastOpenFiles": [
-    "Meta/AWS Region.canvas",
+    "Daily Journal/04 Aug 23.md",
+    "AWS Region.canvas",
     "Daily Journal/05 Aug 23.md",
+    "Meta/Pasted image 20230531200435.png",
+    "Meta/AWS Region.jpg",
+    "Meta/AWS Region.canvas",
     "AWS Solutions Architect Associate SAA-C03.md",
     "JavaScript.md",
     "Daily Journal/02 Aug 23.md",
     "AWS.md",
-    "Daily Journal/04 Aug 23.md",
     "Udemy ProShop.md",
     "Daily Journal/03 Aug 23.md",
     "Udemy/Revisiting Function.md",
@@ -202,7 +199,6 @@
     "Daily Journal/01 Aug 23.md",
     "CSS.md",
     "Meta/lu425962um75c.tmp",
-    "Meta/Pasted image 20230531200435.png",
     "Meta/html_element_2023-08-01 073038.jpg",
     "Meta/html_element.png",
     "HTML5.md",
