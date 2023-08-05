@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/02 Aug 23.md",
+                "file": "Daily Journal/05 Aug 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/04 Aug 23.md",
+                "file": "AWS Solutions Architect Associate SAA-C03.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/04 Aug 23.md",
+                "file": "Daily Journal/05 Aug 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/04 Aug 23.md",
+                "file": "Daily Journal/05 Aug 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/04 Aug 23.md"
+                "file": "Daily Journal/05 Aug 23.md"
               }
             }
           },
@@ -187,10 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75cdfd61e9155689",
+  "active": "b9183ca23667b181",
   "lastOpenFiles": [
-    "Udemy ProShop.md",
+    "Daily Journal/02 Aug 23.md",
+    "Daily Journal/05 Aug 23.md",
+    "AWS Solutions Architect Associate SAA-C03.md",
+    "AWS.md",
     "Daily Journal/04 Aug 23.md",
+    "Udemy ProShop.md",
     "Daily Journal/03 Aug 23.md",
     "Udemy/Revisiting Function.md",
     "Udemy/What is Destructing.md",
@@ -202,7 +205,6 @@
     "Daily Journal/25 May 23.md",
     "Daily Journal/2 Jun 23.md",
     "Technical Journal.md",
-    "Daily Journal/02 Aug 23.md",
     "Daily Journal/01 Aug 23.md",
     "JavaScript.md",
     "CSS.md",
@@ -218,12 +220,9 @@
     "Templates",
     "What is Zettelkasten.md",
     "Applying to Companies.md",
-    "2023-07-25.md",
     "Daily Journal",
-    "Backend.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "FSA Career Success Review.md",
     "Udemy",
     "Redux",
     "Excalidraw",
