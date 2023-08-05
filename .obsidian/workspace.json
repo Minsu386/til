@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Meta/AWS Region.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -33.5,
+                  "y": -117.5,
                   "zoom": 0
                 }
               }
@@ -28,25 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect Associate SAA-C03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98f2394bc9b71396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
+                "file": "Daily Journal/05 Aug 23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Daily Journal/05 Aug 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Daily Journal/05 Aug 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Daily Journal/05 Aug 23.md"
               }
             }
           },
@@ -189,12 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9183ca23667b181",
+  "active": "75cdfd61e9155689",
   "lastOpenFiles": [
+    "Meta/AWS Region.canvas",
     "Daily Journal/05 Aug 23.md",
-    "Untitled.canvas",
-    "Daily Journal/02 Aug 23.md",
     "AWS Solutions Architect Associate SAA-C03.md",
+    "JavaScript.md",
+    "Daily Journal/02 Aug 23.md",
     "AWS.md",
     "Daily Journal/04 Aug 23.md",
     "Udemy ProShop.md",
@@ -210,7 +200,6 @@
     "Daily Journal/2 Jun 23.md",
     "Technical Journal.md",
     "Daily Journal/01 Aug 23.md",
-    "JavaScript.md",
     "CSS.md",
     "Meta/lu425962um75c.tmp",
     "Meta/Pasted image 20230531200435.png",

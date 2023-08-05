@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"AWS Region\nSydney: ap-southeast-2","id":"d8d71c407b62faed","x":-387,"y":-375,"width":707,"height":515},
+		{"type":"text","text":"\tap-southeast-2a","id":"6d10fbccbd60601e","x":-340,"y":-260,"width":250,"height":115},
+		{"type":"text","text":"ap-southeast-2b","id":"5e7ed56596dd6b20","x":20,"y":-260,"width":250,"height":115},
+		{"type":"text","text":"ap-southeast-2c","id":"15fcbdd332fb5c72","x":-158,"y":-60,"width":250,"height":115}
+	],
+	"edges":[]
+}
