@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md",
+                "file": "AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md",
+                "file": "AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md",
+                "file": "AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/05 Aug 23.md"
+                "file": "AWS.md"
               }
             }
           },
@@ -174,10 +174,10 @@
   },
   "active": "b9183ca23667b181",
   "lastOpenFiles": [
+    "Daily Journal/05 Aug 23.md",
     "Meta/AWS_IAM_Users_Groups.jpg",
     "Meta/IAM_Users_Groups.jpg",
     "Untitled.md",
-    "Daily Journal/05 Aug 23.md",
     "Daily Journal/04 Aug 23.md",
     "AWS Region.canvas",
     "Meta/Pasted image 20230531200435.png",
