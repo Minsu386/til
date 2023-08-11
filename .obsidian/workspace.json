@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/11 Aug 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/11 Aug 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/11 Aug 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy ProShop.md"
+                "file": "Daily Journal/11 Aug 23.md"
               }
             }
           },
@@ -174,6 +174,8 @@
   },
   "active": "b9183ca23667b181",
   "lastOpenFiles": [
+    "Udemy ProShop.md",
+    "Daily Journal/11 Aug 23.md",
     "Building your first Application.md",
     "AWS.md",
     "Daily Journal/05 Aug 23.md",
@@ -188,7 +190,6 @@
     "AWS Solutions Architect Associate SAA-C03.md",
     "JavaScript.md",
     "Daily Journal/02 Aug 23.md",
-    "Udemy ProShop.md",
     "Daily Journal/03 Aug 23.md",
     "Udemy/Revisiting Function.md",
     "Udemy/What is Destructing.md",
@@ -209,7 +210,6 @@
     "What is ES2015.md",
     "Untitled",
     "Daily Journal/2023-07-26.md",
-    "Templates/Daily Journal.md",
     "Templates",
     "Daily Journal",
     "Untitled 1.canvas",
