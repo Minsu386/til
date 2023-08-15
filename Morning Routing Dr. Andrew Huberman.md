@@ -7,5 +7,5 @@
 
 - Once sunrise starts - go outside 10-30 minutes
 	- Spend this time to write in your journal, or go walk / run
-		- (Maximizing Productity)[https://www.youtube.com/watch?v=aXvDEmo6uS4]
+		- [Maximizing Productivity](https://www.youtube.com/watch?v=aXvDEmo6uS4)
 		- 
