@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "125d7f296e7d8c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Routing Dr. Andrew Huberman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "75cdfd61e9155689",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/11 Aug 23.md",
+                "file": "Morning Routing Dr. Andrew Huberman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Journal/11 Aug 23.md",
+                "file": "Morning Routing Dr. Andrew Huberman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/11 Aug 23.md"
+                "file": "Morning Routing Dr. Andrew Huberman.md"
               }
             }
           },
@@ -172,16 +185,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9183ca23667b181",
+  "active": "125d7f296e7d8c23",
   "lastOpenFiles": [
-    "Udemy ProShop.md",
     "Daily Journal/11 Aug 23.md",
+    "Morning Routing Dr. Andrew Huberman.md",
+    "Udemy ProShop.md",
     "Building your first Application.md",
     "AWS.md",
     "Daily Journal/05 Aug 23.md",
     "Meta/AWS_IAM_Users_Groups.jpg",
     "Meta/IAM_Users_Groups.jpg",
-    "Untitled.md",
     "Daily Journal/04 Aug 23.md",
     "AWS Region.canvas",
     "Meta/Pasted image 20230531200435.png",
