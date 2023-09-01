@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/01 Sep 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/01 Sep 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "Daily Journal/01 Sep 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy ProShop.md"
+                "file": "Daily Journal/01 Sep 23.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "23a81e39e26a9102",
   "lastOpenFiles": [
-    "Daily Journal/17 Aug 23.md",
     "Udemy ProShop.md",
+    "Daily Journal/01 Sep 23.md",
+    "Daily Journal/17 Aug 23.md",
     "Daily Journal/11 Aug 23.md",
     "Morning Routing Dr. Andrew Huberman.md",
     "Daily Journal/05 Aug 23.md",
@@ -221,7 +222,6 @@
     "Meta/html_element_2023-08-01 073038.jpg",
     "Meta/html_element.png",
     "HTML5.md",
-    "What is ES2015.md",
     "Untitled",
     "Templates",
     "Daily Journal",
