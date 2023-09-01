@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "23a81e39e26a9102",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "75cdfd61e9155689",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "125d7f296e7d8c23",
+  "active": "23a81e39e26a9102",
   "lastOpenFiles": [
     "Daily Journal/17 Aug 23.md",
     "Udemy ProShop.md",
