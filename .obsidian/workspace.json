@@ -23,9 +23,11 @@
             "id": "23a81e39e26a9102",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Udemy ProShop.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
