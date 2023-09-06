@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "231d6b89ea612a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/1.1.2 Computing Basic.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/1.1.2 Computing Basic.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/1.1.2 Computing Basic.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -191,10 +203,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f8a17c70aa580fc",
+  "active": "231d6b89ea612a79",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "CompTIA A+/1.1.2 Computing Basic.md",
+    "conflict-files-obsidian-git.md",
+    "Morning Routing Dr. Andrew Huberman.md",
+    "Meta/html_element_2023-08-01 073038.jpg",
+    "Meta/html_element.png",
+    "Meta/AWS_IAM_Users_Groups.jpg",
+    "Meta/AWS Region.jpg",
+    "HTML5.md",
+    "Daily Journal/17 Aug 23.md",
+    "Daily Journal/11 Aug 23.md",
+    "Daily Journal/05 Aug 23.md",
+    "Daily Journal/04 Aug 23.md",
+    "Daily Journal/03 Aug 23.md",
+    "Daily Journal/02 Aug 23.md",
+    "Daily Journal/01 Sep 23.md",
+    "Daily Journal/01 Aug 23.md",
+    "CSS.md",
+    "AWS.md",
+    "AWS Solutions Architect Associate SAA-C03.md",
+    "AWS Region.canvas",
     "CompTIA A+/Introduction.md",
     "Untitled.md",
     "CompTIA A+",
@@ -208,22 +238,9 @@
     "Daily Journal/2023-07-26.md",
     "Templates",
     "What is Zettelkasten.md",
-    "Applying to Companies.md",
-    "2023-07-25.md",
     "Daily Journal",
-    "Backend.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Udemy ProShop.md",
-    "Technical Journal.md",
-    "FSA Career Success Review.md",
-    "LESS CSS.md",
-    "Udemy/Reusable wrapper.md",
-    "Learning/CodeCademy/React & Redux/Components Interacting/Components.md",
-    "React/React.md",
-    "Learning/FSA/Week 1/Servers and Databases.md",
-    "Sequelize.md",
-    "Redux/What are some important Redux Terms to know.md",
     "Udemy",
     "Redux",
     "Meta/Pasted image 20230531200435.png",
