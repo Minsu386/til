@@ -13,4 +13,8 @@ TestOut PC Pro cert measure how much you know and what you can do. It essentiall
 You will perform real-world task. Will not answer multiple choice questions. 
 
 
-A+ cert covers generic P concepts. It is not focused on one particular vendors hardware or software. This will test how much you know. It does not 
+A+ cert covers generic P concepts. It is not focused on one particular vendors hardware or software. This will test how much you know. It does not focus on what you can do. It will be composed of multiple choice questions. 
+
+220-1101 test your knowledge of mobile devices, networking, computer hardware, virtualization and cloud computing, and hardware and network troubleshooting. 
+
+220-1102 test your knowledge of OS, security, software troubleshooting and Operational procedures. 
