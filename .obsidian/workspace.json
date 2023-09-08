@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CompTIA A+/1.1.2 Computing Basic.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -165,6 +165,7 @@
   },
   "active": "a4e88c238e331e29",
   "lastOpenFiles": [
+    "CompTIA A+/Introduction.md",
     "CompTIA A+/1.1.2 Computing Basic.md",
     "conflict-files-obsidian-git.md",
     "Morning Routing Dr. Andrew Huberman.md",
@@ -185,7 +186,6 @@
     "AWS.md",
     "AWS Solutions Architect Associate SAA-C03.md",
     "AWS Region.canvas",
-    "CompTIA A+/Introduction.md",
     "Untitled.md",
     "CompTIA A+",
     "What is ES2015.md",
