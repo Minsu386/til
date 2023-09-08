@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Introduction.md",
+                "file": "CompTIA A+/1.1 Course Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Introduction.md",
+                "file": "CompTIA A+/1.1 Course Intro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Introduction.md",
+                "file": "CompTIA A+/1.1 Course Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Introduction.md"
+                "file": "CompTIA A+/1.1 Course Intro.md"
               }
             }
           },
@@ -163,9 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4e88c238e331e29",
+  "active": "051d88004b3120d1",
   "lastOpenFiles": [
-    "CompTIA A+/1.1.2 Computing Basic.md",
+    "CompTIA A+/2.0 PC Technician Responsibilities.md",
+    "Untitled.md",
+    "CompTIA A+/1.1 Course Intro.md",
     "CompTIA A+/Introduction.md",
     "conflict-files-obsidian-git.md",
     "Morning Routing Dr. Andrew Huberman.md",
@@ -186,7 +188,6 @@
     "AWS.md",
     "AWS Solutions Architect Associate SAA-C03.md",
     "AWS Region.canvas",
-    "Untitled.md",
     "CompTIA A+",
     "What is ES2015.md",
     "Daily Journal/27 Jul 23.md",
@@ -197,7 +198,6 @@
     "Daily Journal/26 Jul 23.md",
     "Daily Journal/2023-07-26.md",
     "Templates",
-    "What is Zettelkasten.md",
     "Daily Journal",
     "Untitled.canvas",
     "Untitled 1.canvas",
