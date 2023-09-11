@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f351df91cd3d24ce",
+        "id": "8ce20597643f98c3",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e88c238e331e29",
+            "id": "125d7f296e7d8c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy ProShop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23a81e39e26a9102",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4bb816ded3a9226",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
+          },
+          {
+            "id": "75cdfd61e9155689",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Meta/Pasted image 20230531200435.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,7 +71,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -105,7 +138,7 @@
               "type": "backlink",
               "state": {
                 "file": "CompTIA A+/1.1 Course Intro.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -144,14 +177,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "16bd04bd390cbcd8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,54 +201,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "051d88004b3120d1",
+  "active": "b4bb816ded3a9226",
   "lastOpenFiles": [
-    "CompTIA A+/2.0 PC Technician Responsibilities.md",
-    "Untitled.md",
-    "CompTIA A+/1.1 Course Intro.md",
+    "Daily Journal/01 Sep 23.md",
     "CompTIA A+/Introduction.md",
-    "conflict-files-obsidian-git.md",
-    "Morning Routing Dr. Andrew Huberman.md",
-    "Meta/html_element_2023-08-01 073038.jpg",
-    "Meta/html_element.png",
-    "Meta/AWS_IAM_Users_Groups.jpg",
-    "Meta/AWS Region.jpg",
-    "HTML5.md",
+    "CompTIA A+/2.0 PC Technician Responsibilities.md",
+    "CompTIA A+/1.1 Course Intro.md",
+    "CompTIA A+",
+    "Udemy ProShop.md",
     "Daily Journal/17 Aug 23.md",
     "Daily Journal/11 Aug 23.md",
+    "Morning Routing Dr. Andrew Huberman.md",
     "Daily Journal/05 Aug 23.md",
-    "Daily Journal/04 Aug 23.md",
-    "Daily Journal/03 Aug 23.md",
-    "Daily Journal/02 Aug 23.md",
-    "Daily Journal/01 Sep 23.md",
-    "Daily Journal/01 Aug 23.md",
-    "CSS.md",
+    "Building your first Application.md",
     "AWS.md",
-    "AWS Solutions Architect Associate SAA-C03.md",
+    "Meta/AWS_IAM_Users_Groups.jpg",
+    "Meta/IAM_Users_Groups.jpg",
+    "Daily Journal/04 Aug 23.md",
     "AWS Region.canvas",
-    "CompTIA A+",
-    "What is ES2015.md",
+    "Meta/Pasted image 20230531200435.png",
+    "Meta/AWS Region.jpg",
+    "Meta/AWS Region.canvas",
+    "AWS Solutions Architect Associate SAA-C03.md",
+    "JavaScript.md",
+    "Daily Journal/02 Aug 23.md",
+    "Daily Journal/03 Aug 23.md",
+    "Udemy/Revisiting Function.md",
+    "Udemy/What is Destructing.md",
+    "Udemy/What are Spread and Rest Operator.md",
+    "Udemy/Reusable wrapper.md",
     "Daily Journal/27 Jul 23.md",
-    "Daily Journal/25 May 23.md",
-    "Daily Journal/25 Jul 23.md",
-    "Daily Journal/2 Jun 23.md",
-    "Templates/Daily Journal.md",
     "Daily Journal/26 Jul 23.md",
-    "Daily Journal/2023-07-26.md",
+    "Daily Journal/25 Jul 23.md",
+    "Daily Journal/25 May 23.md",
+    "Daily Journal/2 Jun 23.md",
+    "Technical Journal.md",
+    "Meta/lu425962um75c.tmp",
+    "Meta/html_element_2023-08-01 073038.jpg",
+    "Meta/html_element.png",
+    "Untitled",
     "Templates",
     "Daily Journal",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Udemy",
     "Redux",
-    "Meta/Pasted image 20230531200435.png",
     "Excalidraw",
     "Learning/CodeCademy/React & Redux/Components Interacting",
-    "Learning/CodeCademy/React & Redux",
-    "Learning/CodeCademy",
-    "Meta"
+    "Learning/CodeCademy/React & Redux"
   ]
 }
