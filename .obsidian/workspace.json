@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/2.1 Protection and Safety.md",
+                "file": "CompTIA A+/2.2 Environmental Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/2.1 Protection and Safety.md",
+                "file": "CompTIA A+/2.2 Environmental Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/2.1 Protection and Safety.md",
+                "file": "CompTIA A+/2.2 Environmental Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/2.1 Protection and Safety.md"
+                "file": "CompTIA A+/2.2 Environmental Control.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "b4bb816ded3a9226",
   "lastOpenFiles": [
-    "CompTIA A+/1.1 Course Intro.md",
     "CompTIA A+/2.1 Protection and Safety.md",
+    "CompTIA A+/2.2 Environmental Control.md",
+    "CompTIA A+/1.1 Course Intro.md",
     "Daily Journal/01 Sep 23.md",
     "CompTIA A+/Introduction.md",
     "CompTIA A+/2.0 PC Technician Responsibilities.md",
@@ -241,7 +242,6 @@
     "Daily Journal/26 Jul 23.md",
     "Daily Journal/25 Jul 23.md",
     "Daily Journal/25 May 23.md",
-    "Daily Journal/2 Jun 23.md",
     "Meta/lu425962um75c.tmp",
     "Meta/html_element_2023-08-01 073038.jpg",
     "Meta/html_element.png",
