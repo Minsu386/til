@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/2.4 Change Management.md",
+                "file": "CompTIA A+/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,23 +123,12 @@
             }
           },
           {
-            "id": "1f366fd9cc9ef8f8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "028cc6ffb601b70e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/2.4 Change Management.md",
+                "file": "CompTIA A+/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,12 +140,23 @@
             }
           },
           {
+            "id": "1f366fd9cc9ef8f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "41d5bdf60bf5ef0e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/2.4 Change Management.md",
+                "file": "CompTIA A+/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/2.4 Change Management.md"
+                "file": "CompTIA A+/Introduction.md"
               }
             }
           },
@@ -190,7 +190,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,13 +210,13 @@
   },
   "active": "b4bb816ded3a9226",
   "lastOpenFiles": [
-    "What is Zettelkasten.md",
+    "CompTIA A+/1.1 Course Intro.md",
     "CompTIA A+/2.4 Change Management.md",
+    "What is Zettelkasten.md",
     "CompTIA A+/2.3 Professionalism.md",
     "CompTIA A+/2.1 Protection and Safety.md",
     "CompTIA A+/2.2 Environmental Control.md",
     "Daily Journal/25 Jul 23.md",
-    "CompTIA A+/1.1 Course Intro.md",
     "Daily Journal/01 Sep 23.md",
     "CompTIA A+/Introduction.md",
     "CompTIA A+/2.0 PC Technician Responsibilities.md",

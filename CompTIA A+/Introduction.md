@@ -2,9 +2,12 @@
 
 Purpose of this course is to provide you with the equivalent knowledge of an entry-level computer tech with ~ 1 year experience. 
 
-We will discuss how computers and OS work. //
+We will discuss how computers system how they work, Maintain them , and how to repair them. 
 
-
+Assume few basic things, 
+	how to turn on the computer, 
+	interact with the computer with mouse and keyboard
+	run basic applications.
 
 
 At the end you will find both a PC Pro cert practice exam and A+ practice exam. 
