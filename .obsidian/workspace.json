@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Students.md",
+                "file": "CompTIA A+/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Students.md",
+                "file": "CompTIA A+/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Students.md",
+                "file": "CompTIA A+/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Students.md"
+                "file": "CompTIA A+/Introduction.md"
               }
             }
           },
@@ -222,8 +222,8 @@
   },
   "active": "7325bb6d9a33d1f7",
   "lastOpenFiles": [
-    "CompTIA A+/2.2 Environmental Control.md",
     "CompTIA A+/Students.md",
+    "CompTIA A+/2.2 Environmental Control.md",
     "CompTIA A+/2.1 Protection and Safety.md",
     "CompTIA A+/1.1 Course Intro.md",
     "CompTIA A+/Introduction.md",
