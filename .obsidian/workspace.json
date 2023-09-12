@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/2.2 Environmental Control.md",
+                "file": "CompTIA A+/Students.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/2.2 Environmental Control.md",
+                "file": "CompTIA A+/Students.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/2.2 Environmental Control.md",
+                "file": "CompTIA A+/Students.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/2.2 Environmental Control.md"
+                "file": "CompTIA A+/Students.md"
               }
             }
           },
@@ -222,13 +222,14 @@
   },
   "active": "7325bb6d9a33d1f7",
   "lastOpenFiles": [
+    "CompTIA A+/2.2 Environmental Control.md",
+    "CompTIA A+/Students.md",
     "CompTIA A+/2.1 Protection and Safety.md",
     "CompTIA A+/1.1 Course Intro.md",
     "CompTIA A+/Introduction.md",
     "CompTIA A+/2.4 Change Management.md",
     "What is Zettelkasten.md",
     "CompTIA A+/2.3 Professionalism.md",
-    "CompTIA A+/2.2 Environmental Control.md",
     "Daily Journal/25 Jul 23.md",
     "Daily Journal/01 Sep 23.md",
     "CompTIA A+/2.0 PC Technician Responsibilities.md",
@@ -254,7 +255,6 @@
     "Udemy/Revisiting Function.md",
     "Udemy/What is Destructing.md",
     "Udemy/What are Spread and Rest Operator.md",
-    "Udemy/Reusable wrapper.md",
     "Meta/lu425962um75c.tmp",
     "Meta/html_element_2023-08-01 073038.jpg",
     "Meta/html_element.png",
