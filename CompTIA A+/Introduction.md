@@ -10,6 +10,8 @@ Assume few basic things,
 	run basic applications.
 
 
+
+
 At the end you will find both a PC Pro cert practice exam and A+ practice exam. 
 
 TestOut PC Pro cert measure how much you know and what you can do. It essentially validates that you have the equivalent knowledge of a computer technician with about 1 year of work experience. It also demonstrates that you know the basics of how computer work and how to install and troubleshoot hardware and network connections.
