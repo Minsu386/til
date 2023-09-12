@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "7325bb6d9a33d1f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "75cdfd61e9155689",
             "type": "leaf",
             "state": {
@@ -54,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4bb816ded3a9226",
+  "active": "7325bb6d9a33d1f7",
   "lastOpenFiles": [
     "CompTIA A+/Introduction.md",
     "CompTIA A+/1.1 Course Intro.md",
