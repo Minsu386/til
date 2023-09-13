@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "b49436b2e4ff992f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "75cdfd61e9155689",
             "type": "leaf",
             "state": {
@@ -224,8 +236,9 @@
   },
   "active": "7325bb6d9a33d1f7",
   "lastOpenFiles": [
-    "CompTIA A+/2.05 PC Maintenance.md",
+    "Untitled.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices.md",
+    "CompTIA A+/2.05 PC Maintenance.md",
     "CompTIA A+/Core 1",
     "Meta/Pasted image 20230912214754.png",
     "CompTIA A+/Introduction.md",
@@ -258,7 +271,6 @@
     "AWS Solutions Architect Associate SAA-C03.md",
     "JavaScript.md",
     "Daily Journal/02 Aug 23.md",
-    "Daily Journal/03 Aug 23.md",
     "Meta/lu425962um75c.tmp",
     "Meta/html_element_2023-08-01 073038.jpg",
     "Meta/html_element.png",
