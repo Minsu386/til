@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "125d7f296e7d8c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy ProShop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23a81e39e26a9102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/1.1 Course Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4bb816ded3a9226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/1.1 Course Intro.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7325bb6d9a33d1f7",
             "type": "leaf",
             "state": {
@@ -54,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b49436b2e4ff992f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75cdfd61e9155689",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Meta/Pasted image 20230531200435.png"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
