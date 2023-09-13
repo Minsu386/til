@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -207,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +222,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7325bb6d9a33d1f7",
+  "active": "051d88004b3120d1",
   "lastOpenFiles": [
     "Meta/Pasted image 20230912214754.png",
     "CompTIA A+/Introduction.md",
