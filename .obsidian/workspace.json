@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -177,14 +176,14 @@
   },
   "active": "7325bb6d9a33d1f7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CompTIA A+/Test Schedule.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices.md",
+    "Untitled.md",
     "CompTIA A+/2.05 PC Maintenance.md",
     "CompTIA A+/Core 1",
     "Meta/Pasted image 20230912214754.png",
     "CompTIA A+/Introduction.md",
     "CompTIA A+/1.1 Course Intro.md",
-    "CompTIA A+/Test Schedule.md",
     "CompTIA A+/Students.md",
     "CompTIA A+/2.2 Environmental Control.md",
     "CompTIA A+/2.1 Protection and Safety.md",
