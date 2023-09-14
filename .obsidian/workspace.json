@@ -11,12 +11,8 @@
             "id": "7325bb6d9a33d1f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,8 +168,8 @@
   },
   "active": "7325bb6d9a33d1f7",
   "lastOpenFiles": [
-    "CompTIA A+/Test Schedule.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices.md",
+    "CompTIA A+/Test Schedule.md",
     "Untitled.md",
     "CompTIA A+/2.05 PC Maintenance.md",
     "CompTIA A+/Core 1",
