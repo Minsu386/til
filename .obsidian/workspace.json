@@ -11,8 +11,12 @@
             "id": "7325bb6d9a33d1f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md"
+              }
             }
           },
           {
@@ -168,7 +176,10 @@
   },
   "active": "7325bb6d9a33d1f7",
   "lastOpenFiles": [
-    "CompTIA A+/Core 1/1.0 Mobile Devices.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices",
     "CompTIA A+/Test Schedule.md",
     "Untitled.md",
     "CompTIA A+/2.05 PC Maintenance.md",
@@ -201,8 +212,6 @@
     "Meta/AWS Region.jpg",
     "Meta/AWS Region.canvas",
     "AWS Solutions Architect Associate SAA-C03.md",
-    "JavaScript.md",
-    "Daily Journal/02 Aug 23.md",
     "Meta/lu425962um75c.tmp",
     "Meta/html_element_2023-08-01 073038.jpg",
     "Meta/html_element.png",
@@ -212,7 +221,6 @@
     "Untitled 1.canvas",
     "Udemy",
     "Redux",
-    "Excalidraw",
-    "Learning/CodeCademy/React & Redux/Components Interacting"
+    "Excalidraw"
   ]
 }
