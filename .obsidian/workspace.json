@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md"
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "e8dee9a160d21459",
   "lastOpenFiles": [
-    "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+    "Meta/Pasted image 20230916124014.png",
+    "Meta/Pasted image 20230916123958.png",
     "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
     "Meta/Pasted image 20230916093351.png",
     "CompTIA A+/Core 1/2.0 Networking",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
@@ -220,7 +222,6 @@
     "Morning Routing Dr. Andrew Huberman.md",
     "Daily Journal/05 Aug 23.md",
     "Building your first Application.md",
-    "AWS.md",
     "Meta/AWS_IAM_Users_Groups.jpg",
     "Meta/IAM_Users_Groups.jpg",
     "AWS Region.canvas",
