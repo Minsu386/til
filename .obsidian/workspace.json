@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md"
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "e8dee9a160d21459",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "Meta/Pasted image 20230917145536.png",
     "Meta/Pasted image 20230917145155.png",
     "Meta/Pasted image 20230917145148.png",
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
-    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "Meta/Pasted image 20230917142642.png",
     "Meta/Pasted image 20230917140029.png",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
@@ -204,7 +204,6 @@
     "Meta/Pasted image 20230916141550.png",
     "Meta/Pasted image 20230916141217.png",
     "Meta/Pasted image 20230916141202.png",
-    "Meta/Pasted image 20230916135732.png",
     "CompTIA A+/Core 1/2.0 Networking",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
