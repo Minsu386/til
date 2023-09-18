@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md"
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "3affa38d998c4b02",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
@@ -196,7 +197,6 @@
     "Meta/Pasted image 20230917145536.png",
     "dynamic frequency selection (DFS).md",
     "CompTIA A+/Core 1/2.0 Networking",
-    "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices",
     "CompTIA A+/Test Schedule.md",
     "Untitled.md",
