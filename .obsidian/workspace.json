@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md"
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "3affa38d998c4b02",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
     "Meta/Pasted image 20230918153927.png",
     "Meta/Pasted image 20230918152529.png",
     "Meta/Pasted image 20230918150235.png",
@@ -187,14 +189,11 @@
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
     "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
-    "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
-    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
     "Meta/Pasted image 20230918084051.png",
     "Meta/Pasted image 20230918084001.png",
     "Meta/Pasted image 20230917221105.png",
     "Meta/Pasted image 20230917220940.png",
-    "Meta/Pasted image 20230917214512.png",
     "Udemy ProShop.md",
     "dynamic frequency selection (DFS).md",
     "CompTIA A+/Core 1/2.0 Networking",
