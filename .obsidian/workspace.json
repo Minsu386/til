@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md"
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md"
               }
             }
           },
@@ -176,14 +176,14 @@
   },
   "active": "3affa38d998c4b02",
   "lastOpenFiles": [
-    "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
-    "Meta/Pasted image 20230918202510.png",
-    "Meta/Pasted image 20230918201420.png",
-    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
     "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
+    "Meta/Pasted image 20230918202510.png",
+    "Meta/Pasted image 20230918201420.png",
     "CompTIA A+/Test Schedule.md",
     "Meta/Pasted image 20230918153927.png",
     "Meta/Pasted image 20230918152529.png",
