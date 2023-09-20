@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md"
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md"
               }
             }
           },
@@ -189,9 +189,10 @@
   },
   "active": "632784cf964311bf",
   "lastOpenFiles": [
-    "2.7 Compare & contrast Internet Connection Types, Network types, and their features.md",
-    "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
+    "2.7 Compare & contrast Internet Connection Types, Network types, and their features.md",
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
     "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
     "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
@@ -227,7 +228,6 @@
     "CompTIA A+/2.3 Professionalism.md",
     "Daily Journal/25 Jul 23.md",
     "Daily Journal/01 Sep 23.md",
-    "CompTIA A+/2.0 PC Technician Responsibilities.md",
     "CompTIA A+",
     "AWS Region.canvas",
     "Meta/AWS Region.canvas",
