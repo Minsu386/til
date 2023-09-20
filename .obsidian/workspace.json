@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md"
               }
             }
           },
@@ -189,6 +189,11 @@
   },
   "active": "632784cf964311bf",
   "lastOpenFiles": [
+    "Meta/Pasted image 20230920173550.png",
+    "Meta/Pasted image 20230920173450.png",
+    "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
+    "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
+    "CompTIA A+/Core 1/3.0 Hardware",
     "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
     "CompTIA A+/Core 1/2.0 Networking/2.8 Given a scenario, use networking tools.md",
@@ -203,7 +208,6 @@
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
     "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
     "2.7 Compare & contrast Internet Connection Types, Network types, and their features.md",
-    "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
     "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
     "Udemy ProShop.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
@@ -212,7 +216,6 @@
     "Meta/Pasted image 20230918202510.png",
     "Meta/Pasted image 20230918201420.png",
     "CompTIA A+/Test Schedule.md",
-    "Meta/Pasted image 20230918153927.png",
     "dynamic frequency selection (DFS).md",
     "CompTIA A+/Core 1/2.0 Networking",
     "CompTIA A+/Core 1/1.0 Mobile Devices",
@@ -226,12 +229,10 @@
     "CompTIA A+/2.1 Protection and Safety.md",
     "CompTIA A+/2.4 Change Management.md",
     "What is Zettelkasten.md",
-    "CompTIA A+/2.3 Professionalism.md",
     "CompTIA A+",
     "AWS Region.canvas",
     "Meta/AWS Region.canvas",
     "Meta/lu425962um75c.tmp",
-    "Untitled",
     "Templates",
     "Daily Journal",
     "Untitled 1.canvas",
