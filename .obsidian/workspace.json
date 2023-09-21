@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "632784cf964311bf",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
+    "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
     "Meta/Pasted image 20230921120335.png",
     "Meta/Pasted image 20230921115603.png",
     "Meta/Pasted image 20230921115223.png",
@@ -204,10 +206,8 @@
     "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
-    "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
     "Meta/Pasted image 20230920174608.png",
     "Meta/Pasted image 20230920174552.png",
-    "Meta/Pasted image 20230920174419.png",
     "CompTIA A+/Core 1/3.0 Hardware",
     "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
     "CompTIA A+/Core 1/2.0 Networking/2.8 Given a scenario, use networking tools.md",
