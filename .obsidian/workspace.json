@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy ProShop.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy ProShop.md"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "632784cf964311bf",
   "lastOpenFiles": [
+    "Udemy ProShop.md",
     "CompTIA A+/Core 1/Common ports.md",
     "Meta/Pasted image 20230920202320.png",
     "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
@@ -211,7 +212,6 @@
     "Meta/Pasted image 20230920170931.png",
     "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
     "2.7 Compare & contrast Internet Connection Types, Network types, and their features.md",
-    "Udemy ProShop.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
