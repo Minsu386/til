@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
+                "file": "Udemy ProShop.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
+                "file": "Udemy ProShop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
+                "file": "Udemy ProShop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md"
+                "file": "Udemy ProShop.md"
               }
             }
           },
@@ -189,9 +189,9 @@
   },
   "active": "632784cf964311bf",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/Common ports.md",
     "Meta/Pasted image 20230920202320.png",
     "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
-    "CompTIA A+/Core 1/Common ports.md",
     "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
     "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
@@ -209,7 +209,6 @@
     "CompTIA A+/Core 1/2.0 Networking/2.8 Given a scenario, use networking tools.md",
     "Meta/Pasted image 20230920171004.png",
     "Meta/Pasted image 20230920170931.png",
-    "Meta/Pasted image 20230920170744.png",
     "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
     "2.7 Compare & contrast Internet Connection Types, Network types, and their features.md",
     "Udemy ProShop.md",
