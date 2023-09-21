@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ddcc7d4e192ce8ad",
+        "id": "7224a60cd960229e",
         "type": "tabs",
         "children": [
           {
-            "id": "3affa38d998c4b02",
+            "id": "3e0f62c2c88b37c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "632784cf964311bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md"
+                "file": "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md"
               }
             }
           },
@@ -187,8 +174,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "632784cf964311bf",
+  "active": "3e0f62c2c88b37c2",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
+    "CompTIA A+/Core 1/Common ports.md",
+    "CompTIA A+/1.1 Course Intro.md",
+    "CompTIA A+/Introduction.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
     "Udemy ProShop.md",
     "test.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
@@ -201,18 +194,14 @@
     "Meta/Pasted image 20230921114739.png",
     "Meta/Pasted image 20230921112956.png",
     "Meta/Pasted image 20230921112829.png",
-    "CompTIA A+/Core 1/Common ports.md",
     "Meta/Pasted image 20230920202320.png",
-    "CompTIA A+/Core 1/2.0 Networking/2.6 Compare and Contrast common network configuration concepts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.5 Given a scenario, install and configure basic wired wireless SOHO networks.md",
-    "CompTIA A+/Core 1/2.0 Networking/2.4 Summarize Services provided by networked hosts.md",
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
     "Meta/Pasted image 20230920174608.png",
     "CompTIA A+/Core 1/3.0 Hardware",
     "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
     "CompTIA A+/Core 1/2.0 Networking/2.8 Given a scenario, use networking tools.md",
-    "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
     "2.7 Compare & contrast Internet Connection Types, Network types, and their features.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
@@ -224,8 +213,6 @@
     "Untitled.md",
     "CompTIA A+/2.05 PC Maintenance.md",
     "CompTIA A+/Core 1",
-    "CompTIA A+/Introduction.md",
-    "CompTIA A+/1.1 Course Intro.md",
     "CompTIA A+/Students.md",
     "CompTIA A+/2.2 Environmental Control.md",
     "CompTIA A+/2.1 Protection and Safety.md",
