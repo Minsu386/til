@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/Untitled.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "3e0f62c2c88b37c2",
   "lastOpenFiles": [
-    "Applying to Companies.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
+    "CompTIA A+/Core 1/3.0 Hardware/Untitled.md",
+    "Applying to Companies.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
     "Meta/Pasted image 20230924114650.png",
@@ -214,7 +215,6 @@
     "CompTIA A+/Core 1/2.0 Networking",
     "CompTIA A+/Core 1/1.0 Mobile Devices",
     "Untitled.md",
-    "CompTIA A+/2.05 PC Maintenance.md",
     "CompTIA A+/Core 1",
     "CompTIA A+",
     "AWS Region.canvas",
