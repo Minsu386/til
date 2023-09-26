@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md"
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md"
               }
             }
           },
