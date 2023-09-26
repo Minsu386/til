@@ -2,7 +2,7 @@
 
 ## Table of Contents
 ----
-1) [[#References]]
+1) [References](#References)
 
 ## React Routes
 ----
@@ -16,11 +16,11 @@ fetch variable Async thunk
 
 # References
 -----
-[[Authorization Form | CodeCademy - Basic Authorization Form]]
-[[Components | CodeCademy - Components]]
+[CodeCademy - Basic Authorization Form](Authorization%20Form.md)
+[CodeCademy - Components](Components.md)
 
 
 
 
 
-[[Backend]] [[Frontend]]
+[Backend](Backend.md) [Frontend](Frontend)

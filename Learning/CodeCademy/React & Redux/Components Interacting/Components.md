@@ -11,7 +11,7 @@
 ## Returning Another Component
 ----
 
-Each [[React]] component is responsible for one piece of the interface.
+Each [React](React.md) component is responsible for one piece of the interface.
 As the application grows in complexity, Components need to be able to interface w/ each other to support the features needed. 
 
 ```JavaScript

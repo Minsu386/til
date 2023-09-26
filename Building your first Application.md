@@ -1191,4 +1191,4 @@ in db/index.js
 - create a function for seed data
 - export seed data
 
-[[Refractor to react]]
+[Refractor to react](Refractor%20to%20react.md)

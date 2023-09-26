@@ -1,4 +1,4 @@
-![[Pasted image 20230531200435.png]]
+![](Pasted%20image%2020230531200435.png)
 
 
 
@@ -23,7 +23,7 @@
 ## Express & Async
 ----
 
-### [[Express]]
+### [Express](Express)
 
 ```JavaScript
 const express = require('express')
@@ -39,7 +39,7 @@ app.get('/about', (req,res, next) => {
 
 app.listen(3000)
 ```
-you will also need to install express via [[NPM]]
+you will also need to install express via [NPM](NPM)
 `npm i express`
 
 Start fresh	 
@@ -60,7 +60,7 @@ in package.json add this line  in the "scripts: {
 to start
 `npm run start:dev`
 
-## [[Express]] & [[Sequelize]] [[Backend]]
+## [Express](Express) & [Sequelize](Sequelize.md) [Backend](Backend.md)
 ____
 
 

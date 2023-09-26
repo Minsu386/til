@@ -1,6 +1,6 @@
 Amazon Web Services
 
-Cover over 30 [[AWS]] Services
+Cover over 30 [AWS](AWS.md) Services
 
 
 ## Global Infrastructure
@@ -32,7 +32,7 @@ Each region has many availability zones (usually 3, min is 3, max is 6) Examples
 - ap-southeast-2b
 - ap-southeast-2c
 
-![[AWS Region.jpg]]
+![](AWS%20Region.jpg)
 
 - Each Availability zone (AZ) is 1 or more discrete DC w/ redundant pwr, networking, and connectivity.
 - They're are separate from each other, so that they're isolated from disasters.
@@ -49,7 +49,7 @@ aws.amazon.com/about-aws/global-infrastructure/
 - **Users** are people within your organization, and can be grouped
 - **Groups** only contain users, not other groups
 - Users don't have to belong to a group, and user can belong to multiple groups
-![[AWS_IAM_Users_Groups.jpg]]
+![](AWS_IAM_Users_Groups.jpg)
 
 
 ### IAM: Permissions

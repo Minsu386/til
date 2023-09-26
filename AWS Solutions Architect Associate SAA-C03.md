@@ -1,2 +1,2 @@
 
-[[AWS]] Amazon Web Services
+[AWS](AWS.md) Amazon Web Services

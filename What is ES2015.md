@@ -27,4 +27,4 @@ Before ES2015, the new edition of JavaScript followed the naming convention ES[v
 
 ## Backlinks
 ----
-[[JavaScript]]
+[JavaScript](JavaScript.md)

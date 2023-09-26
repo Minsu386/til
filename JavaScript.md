@@ -112,4 +112,4 @@ const plantNeedsWater = day => day === 'Wednesday' ? true; false;
 
 ## BackLinks
 ----
-[[What is ES2015]]
+[What is ES2015](What%20is%20ES2015.md)

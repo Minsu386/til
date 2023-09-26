@@ -1,5 +1,5 @@
 
-## Basic [[Authorization]] with [[React]]
+## Basic [Authorization](Authorization) with [React](React.md)
 ----
 ```JavaScript
 import React, { useState } from 'react';  
@@ -50,4 +50,4 @@ function Contact() {
 export default Contact;
 ```
 
-![[AWS Region.canvas]]
+![](AWS%20Region.canvas)

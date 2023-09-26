@@ -1,1 +1,1 @@
-![[Pasted image 20230920202320.png]]
+![](Pasted%20image%2020230920202320.png)
