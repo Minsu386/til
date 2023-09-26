@@ -2,28 +2,47 @@
 2.7
 
 
-## Troubleshooting Process
+# LESSON INTRODUCTION
 
-The following chart describes a guide when troubleshooting issues:
+Troubleshooting is a core competency for the role of CompTIA A+ service technician. Whether it is trying to identify a fault in a new build system or assisting a user with a computer that has just stopped working, you will typically be required to demonstrate your troubleshooting skills on each and every day of your job.
 
-|Step|Description|
-|---|---|
-|Identify the Problem|Identification is often the easiest step. It may be accomplished via an inbound phone call from a user, a help desk ticket, an email message, a log file entry or any number of other sources. It is not at all uncommon for users to alert you to the problem.<br><br>It’s important to recognize that the root cause of specific issues is not always apparent. For example, a failed login attempt might seem to indicate a username or password problem, when instead the real issue may be a lack of network connectivity that prevents the authentication information from being checked against a remote server.<br><br>As troubleshooters, you want to be very careful to ensure you have identified the root cause of the error, misconfiguration or service interruption before making any changes.<br><br>Specific steps here may include:<br><br>- Gathering information from log files and error messages<br>- Questioning users<br>- Identifying symptoms<br>- Determining recent changes<br>- Duplicating the problem<br>- Approaching multiple problems one at a time<br>- Narrowing the scope of the problem|
-|Establish a Theory of Probable Cause|Words such as _theory_ and _probable_ indicate a guess on your part, even if it is a guess backed by data. Keep in mind that the root cause (as determined in identifying the problem) may not have been accurately identified. However, the cause is specific enough to begin troubleshooting.<br><br>This step may require significant research on your part. Vendor documentation, your organization’s own documentation, and a good old-fashioned Google search may all be required to provide the basis for your theory.<br><br>Specific steps here may include:<br><br>- Questioning the obvious<br>- Considering multiple approaches, including top-to-bottom or bottom-to-top for layered technologies (such as networks)|
-|Test the Theory to Determine the Cause|Notice that the first two steps don’t require you to make configuration changes. Changes should not be made until you are reasonably sure you have a solution that you’re ready to implement.  <br>  <br>This step is also part of the “information-gathering” phase.  <br>  <br>It is not uncommon for experienced administrators to move very quickly and informally through steps one, two and three. Problems and symptoms are often familiar, making it simple to predict the likely cause of an error message or failed device.  <br>  <br>At this stage, you may find yourself circling all the way back to step one: Identify the problem. If you test your theory to discover the likely cause and find that you were incorrect, you may need to start your research all over again. You can check in with users, dig more deeply into log files, etc.  <br>  <br>Once you’re confident you’ve found the fundamental issue, the next step is to prepare to solve the problem.|
-|Establish a Plan of Action and Implement the Solution|If you believe you know the root cause of the troubleshooting issue, you can now plan how to address it. Here are some reasons to plan ahead before blindly jumping into a course of action:<br><br>- Some fixes require reboots or other more significant forms of downtime<br>- You may need to download software, patches, drivers or entire operating system files before proceeding<br>- Your change management procedures may require you to test modifications to a system’s configuration in a staging environment before implementing the fix in production<br>- You may need to document a series of complex steps, commands and scripts<br>- You may need to back up data that might be put at risk during the recovery<br>- You may need approval from other IT staff members before making changes<br><br>Once you’ve completed this stage, you’re now ready to do whatever it is you believe you need to do to solve the problem.<br><br>These steps may include:<br><br>- Run your scripts<br>- Update your systems or software<br>- Edit configuration files<br>- Change firewall settings<br><br>Make sure that you have a rollback plan in place in case the fix you’re attempting does not address the issue. You must be able to reverse your settings to at least get back to where you began.<br><br>In some cases, implementing the proposed fix may be quicker than the research phases that preceded it. Those research phases are essential, however, to make sure you’re addressing the real issue and to minimize downtime.|
-|Verify Full System Functionality and Implement Preventive Measures|When possible, have the users that rely on the system test functionality for you. They are the ones that really know how the system is supposed to act and they can ensure that it responds to their specific requirements.<br><br>Depending on the problem, you may need to apply the fix to multiple servers or other devices. For example, if you’ve discovered a problem with a device driver on a server, you may need to update the drivers on several servers that rely on the same device.|
-|Document Findings|Documenting your troubleshooting steps, changes, updates, theories and research could all be useful in the future when a similar problem arises (or when the same problem turns out not to have been fixed after all).  <br>  <br>Another reason to keep good documentation as you go through the entire methodology is to communicate to others what you have tried so far. Such documentation is also useful in case your changes had unintended consequences. You are more easily able to reverse your changes or change configurations if you have good documentation on exactly what you did.|
+To become an effective troubleshooter, you need a wide range of knowledge, the ability to pay attention to details, and the readiness to be open and flexible in your approach to diagnosing issues. It is also important to learn and apply best practices and a structured methodology to give yourself the best chance of success when diagnosing complex troubleshooting scenarios.
 
-## Troubleshooting Tips
+Along with best practices, you also need to build knowledge of and experience with the common symptoms that affect PC system components and peripheral devices.
 
-Keep in mind the following tips when troubleshooting systems:
 
-- Often, the hardest part of troubleshooting is to reproduce the problem. You might need to ask the user questions to identify exactly how the problem occurred, or you might need to watch them perform the task again to reproduce the problem.
-- If a hardware device or a software program causes a specific error, check the manufacturer's website for additional help in troubleshooting the error.
-- To help diagnose issues, you can run special software tools supplied by the hardware manufacturer.
-- In addition to a basic toolkit, you can keep a few spare parts on hand that you know to be in working order. If you suspect that a component has failed, replace it with the known good spare. If that solves the problem, replace the faulty component.
-- Intermittent problems are difficult to troubleshoot. Check for environmental conditions such as kinked cables or overheated components.
-- If you have problems identifying a hardware error, you can simplify the system by removing all but necessary components (processor, memory, and hard disk). Add devices one at a time and restart the system. If an error occurs, remove the newly added device and troubleshoot that device. Another strategy would be to remove a single device and restart the system, seeing if removing that device corrects the problem.
-- Some problems might be caused by software errors, not hardware failures. You might need to begin by updating the drivers or unloading software.
-- Before you make changes, always consider corporate policies and procedures and the changes' impact on other people and components.
+
+
+
+
+# Apply Troubleshooting Methodology
+----
+
+To some extent, being an effective troubleshooter simply involves having a detailed knowledge of how something is supposed to work and of the sort of things that typically go wrong. However, the more complex a system is, the less likely it is that this sort of information will be at hand. Consequently, it is important to develop general troubleshooting skills to approach new and unexpected situations confidently.
+
+Troubleshooting starts with a process of problem-solving. It is important to realize that problems have causes, symptoms, and consequences. For example:
+
+- A computer system has a fault in the hard disk drive (cause).
+- Because the disk drive is faulty, the operating system is displaying a "blue screen" (symptom).
+- Because of the fault, the user cannot do any work (consequence).
+
+From a business point-of-view, resolving the consequences or impact of the problem is more important than solving the original cause. For example, the most effective solution might be to provide the user with another workstation, then get the drive replaced.
+
+Problems also need to be dealt with according to priority and severity. The disk issue affects a single user and cannot take priority over issues with wider impact, such as the data center suddenly losing power.
+
+It is also important to realize that the cause of a specific problem might be the symptom of a larger problem. This is particularly true if the same problem recurs. For example, you might ask why the disk drive is faulty—is it a one-off error or are there problems in the environment, supply chain, and so on?
+
+These issues mean that the troubleshooting procedures should be developed in the context of best practice methodologies and approaches. One such best practice framework is the CompTIA's A+ troubleshooting model. The steps in this model are as follows:
+
+1. Identify the problem:
+	a.  Gather information from the user, identify user changes, and, if applicable, perform backups before making changes.
+	b.  Inquire regarding environmental or infrastructure changes.
+2. Establish a theory of probable cause (question the obvious):
+	a.  If necessary, conduct external or internal research based on symptoms.
+3. Test the theory to determine the cause:
+	a.  Once the theory is confirmed, determine the next steps to resolve the problem.
+	b.  If the theory is not confirmed, re-establish a new theory or escalate.
+4. Establish a plan of action to resolve the problem and implement the solution:
+	a.  Refer to the vendor’s instructions for guidance.
+5. Verify full-system functionality and, if applicable, implement preventive measures.
+6. Document the findings, actions, and outcomes.
