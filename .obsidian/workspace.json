@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md"
               }
             }
           },
@@ -176,9 +176,10 @@
   },
   "active": "3e0f62c2c88b37c2",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
     "Meta/Pasted image 20230926084458.png",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
     "Meta/Pasted image 20230926083038.png",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
     "Meta/Pasted image 20230926082300.png",
@@ -189,7 +190,6 @@
     "Meta/Pasted image 20230926081508.png",
     "Meta/Pasted image 20230926081459.png",
     "Meta/Pasted image 20230926081342.png",
-    "Meta/Pasted image 20230926081148.png",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.1 Summarize Cloud-Computing concepts.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.2 Summarize aspects of client-side virtualization.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
@@ -198,7 +198,6 @@
     "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
-    "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
     "CompTIA A+/Core 1/2.0 Networking/2.8 Given a scenario, use networking tools.md",
     "CompTIA A+/Core 1/2.0 Networking/2.7 Compare and Contrast Internet Connection Types.md",
