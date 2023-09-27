@@ -19,3 +19,7 @@ IAM = Identity and Access Management
 #aws-iam-policy-password ![](../Meta/Pasted%20image%2020230927090712.png)
 ![](../Meta/Pasted%20image%2020230927090907.png)
 
+# AWS Access Keys, CLI & SDK
+----
+![](../Meta/Pasted%20image%2020230927091917.png)
+

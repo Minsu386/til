@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect/Day 01.md",
+                "file": "AWS Solutions Architect/IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect/Day 01.md",
+                "file": "AWS Solutions Architect/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect/Day 01.md",
+                "file": "AWS Solutions Architect/IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Solutions Architect/Day 01.md"
+                "file": "AWS Solutions Architect/IAM.md"
               }
             }
           },
@@ -189,11 +189,12 @@
   },
   "active": "7978dad23a0915c9",
   "lastOpenFiles": [
+    "Meta/Pasted image 20230927091917.png",
     "Meta/Pasted image 20230927090907.png",
     "Meta/Pasted image 20230927090712.png",
     "Meta/Pasted image 20230927081749.png",
     "Meta/Pasted image 20230927081707.png",
-    "AWS Solutions Architect/Day 01.md",
+    "AWS Solutions Architect/IAM.md",
     "AWS Solutions Architect",
     "CompTIA A+/Introduction.md",
     "CompTIA A+/Students.md",
@@ -210,7 +211,6 @@
     "Meta/Pasted image 20230926082243.png",
     "Meta/Pasted image 20230926082037.png",
     "Meta/Pasted image 20230926082032.png",
-    "Meta/Pasted image 20230926081752.png",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.1 Summarize Cloud-Computing concepts.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.2 Summarize aspects of client-side virtualization.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
