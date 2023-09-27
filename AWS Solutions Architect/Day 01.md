@@ -11,3 +11,9 @@ How to choose an AWS Region
 AWS Availability Zones
 3 min max 6
 Each availability zone has 1 or more data centers w/ redundant power networking and connectivity
+
+
+
+#aws-iam-policy ![](../Meta/Pasted%20image%2020230927081749.png)
+
+
