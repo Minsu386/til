@@ -1,6 +1,10 @@
 # How to connect to EC2
 ----
-in WSL term
+in WSL terminal
+	`ssh -i EC2Tutorial.pem ec2-user@18.188.114.73`
+ec2-user is default user made when spinning up EC2. @18.188 ip is found in the instance details tab.
+
+
 # Basics
 ----
 ![](../Meta/Pasted%20image%2020230927114151.png)
