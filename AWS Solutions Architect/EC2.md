@@ -34,3 +34,11 @@ instances.vantage.sh Compare AWS instances
 ![](../Meta/Pasted%20image%2020230927130730.png)
 
 ![](../Meta/Pasted%20image%2020230927130956.png)
+
+
+# EC2 Instances Purchasing Options
+----
+![](../Meta/Pasted%20image%2020230927140208.png)
+
+![](../Meta/Pasted%20image%2020230927140254.png)
+
