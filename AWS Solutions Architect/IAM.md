@@ -28,3 +28,8 @@ IAM = Identity and Access Management
 # IAM Security Tools
 ----
 ![](../Meta/Pasted%20image%2020230927111257.png)
+
+
+# IAM Guidelines and Best Practices
+----
+![](../Meta/Pasted%20image%2020230927112829.png)
