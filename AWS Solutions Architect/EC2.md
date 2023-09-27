@@ -1,4 +1,6 @@
-
+# How to connect to EC2
+----
+in WSL term
 # Basics
 ----
 ![](../Meta/Pasted%20image%2020230927114151.png)
