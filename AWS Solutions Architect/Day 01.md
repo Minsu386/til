@@ -13,7 +13,9 @@ AWS Availability Zones
 Each availability zone has 1 or more data centers w/ redundant power networking and connectivity
 
 
-
+IAM = Identity and Access Management
 #aws-iam-policy ![](../Meta/Pasted%20image%2020230927081749.png)
 
+#aws-iam-policy-password ![](../Meta/Pasted%20image%2020230927090712.png)
+![](../Meta/Pasted%20image%2020230927090907.png)
 
