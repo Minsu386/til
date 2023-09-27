@@ -23,3 +23,8 @@ IAM = Identity and Access Management
 ----
 ![](../Meta/Pasted%20image%2020230927091917.png)
 
+
+
+# IAM Security Tools
+----
+![](../Meta/Pasted%20image%2020230927111257.png)
