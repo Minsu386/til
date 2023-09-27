@@ -17,3 +17,6 @@
 ![](../Meta/Pasted%20image%2020230927121130.png)
 
 ![](../Meta/Pasted%20image%2020230927121219.png)
+
+instances.vantage.sh Compare AWS instances
+
