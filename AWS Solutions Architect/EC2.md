@@ -42,3 +42,19 @@ instances.vantage.sh Compare AWS instances
 
 ![](../Meta/Pasted%20image%2020230927140254.png)
 
+![](../Meta/Pasted%20image%2020230927140432.png)
+
+![](../Meta/Pasted%20image%2020230927140528.png)
+
+![](../Meta/Pasted%20image%2020230927140623.png)
+
+![](../Meta/Pasted%20image%2020230927140730.png)
+
+![](../Meta/Pasted%20image%2020230927140850.png)
+
+![](../Meta/Pasted%20image%2020230927140955.png)
+
+![](../Meta/Pasted%20image%2020230927141129.png)
+
+![](../Meta/Pasted%20image%2020230927141207.png)
+
