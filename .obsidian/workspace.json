@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect/EC2.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect/EC2.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect/EC2.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Solutions Architect/EC2.md"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "7978dad23a0915c9",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
+    "AWS Solutions Architect/EC2.md",
     "Meta/Pasted image 20230927141207.png",
     "Meta/Pasted image 20230927141129.png",
     "Meta/Pasted image 20230927140955.png",
@@ -199,15 +201,12 @@
     "Meta/Pasted image 20230927140432.png",
     "Meta/Pasted image 20230927140254.png",
     "Meta/Pasted image 20230927140208.png",
-    "Meta/Pasted image 20230927130956.png",
     "AWS Solutions Architect/IAM.md",
-    "AWS Solutions Architect/EC2.md",
     "AWS Solutions Architect",
     "CompTIA A+/Introduction.md",
     "CompTIA A+/Students.md",
     "CompTIA A+/Test Schedule.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
-    "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
