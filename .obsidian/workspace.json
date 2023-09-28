@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.6 Given a scenario deploy and config a multifunction device printer and settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.6 Given a scenario deploy and config a multifunction device printer and settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.6 Given a scenario deploy and config a multifunction device printer and settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.6 Given a scenario deploy and config a multifunction device printer and settings.md"
               }
             }
           },
@@ -176,12 +176,13 @@
   },
   "active": "3e0f62c2c88b37c2",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
+    "Meta/Pasted image 20230924151851.png",
     "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
     "Meta/Pasted image 20230924102823.png",
     "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
     "CompTIA A+/Core 1/Common ports.md",
     "Meta/Pasted image 20230924093650.png",
-    "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
     "AWS Solutions Architect/EC2.md",
     "Meta/Pasted image 20230927141207.png",
@@ -191,7 +192,6 @@
     "Meta/Pasted image 20230927140730.png",
     "Meta/Pasted image 20230927140623.png",
     "Meta/Pasted image 20230927140528.png",
-    "Meta/Pasted image 20230927140432.png",
     "AWS Solutions Architect/IAM.md",
     "AWS Solutions Architect",
     "CompTIA A+/Introduction.md",
