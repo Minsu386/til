@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7978dad23a0915c9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Meta/Pasted image 20230924093650.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Pasted image 20230924093650.png",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Pasted image 20230924093650.png",
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Pasted image 20230924093650.png"
+                "file": "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md"
               }
             }
           },
@@ -185,10 +174,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7978dad23a0915c9",
+  "active": "3e0f62c2c88b37c2",
   "lastOpenFiles": [
-    "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
+    "Meta/Pasted image 20230924102823.png",
+    "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
+    "CompTIA A+/Core 1/Common ports.md",
+    "Meta/Pasted image 20230924093650.png",
     "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.2 Install appropriate RAM.md",
     "AWS Solutions Architect/EC2.md",
@@ -200,8 +192,6 @@
     "Meta/Pasted image 20230927140623.png",
     "Meta/Pasted image 20230927140528.png",
     "Meta/Pasted image 20230927140432.png",
-    "Meta/Pasted image 20230927140254.png",
-    "Meta/Pasted image 20230927140208.png",
     "AWS Solutions Architect/IAM.md",
     "AWS Solutions Architect",
     "CompTIA A+/Introduction.md",
@@ -224,7 +214,6 @@
     "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
     "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing",
-    "Applying to Companies.md",
     "CompTIA A+/Core 1/3.0 Hardware",
     "CompTIA A+/Core 1/2.0 Networking",
     "CompTIA A+/Core 1/1.0 Mobile Devices",
