@@ -42,3 +42,11 @@ Benefits of using LLM
 
 Tuning is the process of adapting a model to a new domain or set of custom use cases by training the model on new data.  ie setting the model to specifically for legal or medical domain.
 
+Fine Tuning - Bring your own dataset of and retrain the model by tuning every weight in the LLM. This requires a big training job (really big) and hosting your own fine-tuned model.
+	-This is very expensive
+
+More efficient methods of tuning
+- Parameter-Efficient Tuning Methods (PETM)
+	- Method for tuning an LLM on your own custom data w/out duplicating the model. The base model itself is not altered. Instead, a small number of add-on layers are tuned, which can be swapped in and out at inference time.
+	- Prompt turning 
+		- One of the easiest parameter Efficient Tuning methods
