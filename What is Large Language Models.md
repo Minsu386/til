@@ -54,3 +54,135 @@ More efficient methods of tuning
 
 National Language Processing (NLP)
 Computer Vision (CV)
+
+
+## Review
+What are some of the challenges of using LLMs? Select three options.
+
+Note: To get credit for a multiple-select question, you must select all of the correct options and none of the incorrect ones.
+
+_close_After being developed, they only change when they are fed new data.
+
+Incorrect. Please review the course again.
+
+_check_They can be biased.
+
+You selected a correct option!
+
+They can be used to generate harmful content.
+
+_check_They can be expensive to train.
+
+You selected a correct option!
+
+_check_
+
+2.
+
+What are some of the applications of LLMs?
+
+LLMs can be used for many tasks, including:
+
+1. Writing
+2. Translating
+3. Coding
+4. Answering questions
+5. Summarizing text
+6. Generating non-creative discrete probabilities
+
+_check_LLMs can be used for many tasks, including:
+
+1. Writing
+2. Translating
+3. Coding
+4. Answering questions
+5. Summarizing text
+6. Generating creative content
+
+LLMs can be used for many tasks, including:
+
+1. Writing
+2. Translating
+3. Coding
+4. Answering questions
+5. Summarizing text
+6. Generating non-creative discrete predictions
+
+LLMs can be used for many tasks, including:
+
+1. Writing
+2. Translating
+3. Coding
+4. Answering questions
+5. Summarizing text
+6. Generating non-creative discrete classes
+
+LLMs can be used for many tasks, including:
+
+1. Writing
+2. Translating
+3. Coding
+4. Answering questions
+5. Summarizing text
+6. Generating non-creative discrete probabilities, classes, and predictions.
+
+Correct! LLMs can be used for many tasks, including: 1. Writing 2. Translating 3. Coding 4. Answering questions 5. Summarizing text 6. Generating creative content
+
+_check_
+
+3.
+
+What are some of the benefits of using large language models (LLMs)?
+
+LLMs have a number of benefits, including:
+
+1. They can generate human-quality text.
+2. They can be used for many tasks, such as text summarization and code generation.
+3. They can be trained on massive datasets of text, images, and code.
+4. They are constantly improving.
+
+LLMs have many benefits, including:
+
+1. They can generate discrete classes and human-quality text.
+2. They can be used for many tasks, such as text summarization and code generation.
+3. They can be trained on massive datasets of text and code.
+4. They are constantly improving.
+
+LLMs have many benefits, including:
+
+1. They can generate probabilities and human-quality text.
+2. They can be used for many tasks, such as text summarization and code generation.
+3. They can be trained on massive datasets of text and code.
+4. They are constantly being improved.
+
+_check_LLMs have many benefits, including:
+
+1. They can generate human-quality text.
+2. They can be used for a variety of tasks.
+3. They can be trained on massive datasets of text and code.
+4. They are constantly improved.
+
+LLMs have a number of benefits, including:
+
+1. They can generate non-probabilities and human-quality text.
+2. They can be used for many tasks, such as text summarization and code generation.
+3. They can be trained on massive datasets of text, image, and code.
+4. They are constantly improving.
+
+\Correct! LLMs have many benefits, including: \1. They can generate human-quality text. \2. They can be used for a variety of tasks. \3. They can be trained on massive datasets of text and code. \4. They are constantly improving. \
+
+_check_
+
+4.
+
+What are large language models (LLMs)?:
+
+Generative AI is a type of artificial intelligence (AI) that only can create new content, such as text, images, audio, and video by learning from new data and then using that knowledge to predict a classification output.
+
+Generative AI is a type of artificial intelligence (AI) that can create new content, such as discrete numbers, classes, and probabilities. It does this by learning from existing data and then using that knowledge to generate new and unique outputs.
+
+_check_An LLM is a type of artificial intelligence (AI) that can generate human-quality text. LLMs are trained on massive datasets of text and code, and they can be used for many tasks, such as writing, translating, and coding.
+
+Generative AI is a type of artificial intelligence (AI) that only can create new content, such as text, images, audio, and video by learning from new data and then using that knowledge to predict a discrete, supervised learning output.
+
+Correct! An LLM is a type of artificial intelligence (AI) that can generate human-quality text. LLMs are trained on massive datasets of text and code, and they can be used for a variety of tasks, such as writing, translating, and coding.
