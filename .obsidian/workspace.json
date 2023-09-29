@@ -44,26 +44,6 @@
             }
           },
           {
-            "id": "abe9c7c1639d056f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 13.46.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b8d81a7ac1106c9f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 13.46.24.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "88ccefc7cd6457ed",
             "type": "leaf",
             "state": {
@@ -82,14 +62,16 @@
             "id": "91c39311ae06758c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 13.47.00.excalidraw.md"
+                "file": "What is Generative AI.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 13.47.00.excalidraw.md",
+                "file": "What is Generative AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 13.47.00.excalidraw.md",
+                "file": "What is Generative AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 13.47.00.excalidraw.md"
+                "file": "What is Generative AI.md"
               }
             }
           },
@@ -246,13 +228,16 @@
   },
   "active": "91c39311ae06758c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2023-09-29 13.47.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 13.46.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 13.46.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 13.46.21.excalidraw.md",
-    "What is Generative AI.md",
+    "Meta/Pasted image 20230929135017.png",
+    "What is ES2015.md",
     "Excalidraw/Drawing 2023-09-29 13.42.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-29 13.46.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-29 13.46.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-29 13.46.51.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-29 13.47.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-03 17.20.56.excalidraw.md",
+    "Untitled.canvas",
+    "What is Generative AI.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.7 Given a Scenario, Install and replace Printer Consumables.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.2 Summarize aspects of client-side virtualization.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.1 Summarize Cloud-Computing concepts.md",
@@ -281,8 +266,6 @@
     "CompTIA A+/Students.md",
     "CompTIA A+/Test Schedule.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing",
     "CompTIA A+/Core 1/3.0 Hardware",
