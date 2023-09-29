@@ -40,5 +40,5 @@ Benefits of using LLM
 3. Dialog Tuned - Trained to have a dialog by predicting the next response.
 
 
-
+Tuning is the process of adapting a model to a new domain or set of custom use cases by training the model on new data.  ie setting the model to specifically for legal or medical domain.
 

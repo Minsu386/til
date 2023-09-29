@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is Large Language Models.md",
+                "file": "React/React interview questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Large Language Models.md",
+                "file": "React/React interview questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is Large Language Models.md",
+                "file": "React/React interview questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is Large Language Models.md"
+                "file": "React/React interview questions.md"
               }
             }
           },
@@ -186,9 +186,10 @@
   },
   "active": "f8a1350588a2936a",
   "lastOpenFiles": [
+    "What is Large Language Models.md",
+    "React/React interview questions.md",
     "Meta/Pasted image 20230929154843.png",
     "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md",
-    "What is Large Language Models.md",
     "What is Generative AI.md",
     "Untitled.canvas",
     "Meta/Pasted image 20230929135017.png",
@@ -219,7 +220,6 @@
     "Meta/Pasted image 20230927140955.png",
     "Meta/Pasted image 20230927140850.png",
     "Meta/Pasted image 20230927140730.png",
-    "Meta/Pasted image 20230927140623.png",
     "AWS Solutions Architect/IAM.md",
     "AWS Solutions Architect",
     "CompTIA A+/Introduction.md",
