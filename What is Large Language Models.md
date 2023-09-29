@@ -50,3 +50,7 @@ More efficient methods of tuning
 	- Method for tuning an LLM on your own custom data w/out duplicating the model. The base model itself is not altered. Instead, a small number of add-on layers are tuned, which can be swapped in and out at inference time.
 	- Prompt turning 
 		- One of the easiest parameter Efficient Tuning methods
+
+
+National Language Processing (NLP)
+Computer Vision (CV)
