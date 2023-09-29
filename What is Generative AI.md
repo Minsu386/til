@@ -30,7 +30,17 @@ Deep learning Model types
 	- predict next word in a sequence 
 
 
-# What is Generative AI?
+## What is Generative AI?
 ----
-- GenAi is a type of Artificial Intelligence that creates new content based on what is has learned from existing content.
-- The process of learning from existing content is called  training and 
+- GenAI is a type of Artificial Intelligence that creates new content based on what is has learned from existing content.
+- The process of learning from existing content is called  training and results in the creation of a statistical model
+- When given a prompt, GenAI uses this statistical model to predict what an expected response might be--and this generates new content
+- Pattern matching system
+
+### How it works
+
+Pretraining :
+- Large amounts of Data
+- Billions of parameters
+- Unsupervised learning
+
