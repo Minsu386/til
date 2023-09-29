@@ -2,9 +2,9 @@
 
 Type of AI tech that can produce various type of content
 
-AI is the theory and dev of computer system able to perform tasks normally requiring human intelligence.
+[[AI]] is the theory and dev of computer system able to perform tasks normally requiring human intelligence.
 
-ML - sub field of AI
+[[Machine Learning ]]- sub field of AI
 	program or system that trains a model from input system
 	- Gives the computer the ability to learn w/out explicit programming.
 
