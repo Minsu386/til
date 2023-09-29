@@ -15,3 +15,22 @@ Unsupervised ML models
 supervised ML model
 	implies the data is already labeled.
 		in supervised learning we are learning from past examples to predict future values
+
+
+## Deep learning
+----
+Deep learning Model types
+- Discriminative
+	- Used to classify or predict
+	- Typically trained on a dataset of labeled data
+	- Learns the relationship between the features of the data points and the labels
+- Generative
+	- Generates new data that is similar to data it was trained on
+	- Understands distribution of data and how likely a given example is
+	- predict next word in a sequence 
+
+
+# What is Generative AI?
+----
+- GenAi is a type of Artificial Intelligence that creates new content based on what is has learned from existing content.
+- The process of learning from existing content is called  training and 
