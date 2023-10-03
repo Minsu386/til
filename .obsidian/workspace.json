@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is Large Language Models.md",
+                "file": "CompTIA A+/Core 1/Common ports.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Large Language Models.md",
+                "file": "CompTIA A+/Core 1/Common ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is Large Language Models.md",
+                "file": "CompTIA A+/Core 1/Common ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is Large Language Models.md"
+                "file": "CompTIA A+/Core 1/Common ports.md"
               }
             }
           },
@@ -221,14 +221,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d17e972386072ba",
+  "active": "051d88004b3120d1",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
+    "What is Large Language Models.md",
     "What is Generative AI.md",
     "Interview.md",
     "JavaScript.md",
     "React/React interview questions.md",
     "React/React.md",
-    "What is Large Language Models.md",
     "Meta/Pasted image 20230929154843.png",
     "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md",
     "Untitled.canvas",
@@ -254,7 +255,6 @@
     "Meta/Pasted image 20230924102823.png",
     "CompTIA A+/Core 1/Common ports.md",
     "Meta/Pasted image 20230924093650.png",
-    "AWS Solutions Architect/EC2.md",
     "Meta/Pasted image 20230927141207.png",
     "Meta/Pasted image 20230927141129.png",
     "Meta/Pasted image 20230927140955.png",
