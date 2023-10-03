@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md"
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md"
               }
             }
           },
@@ -223,12 +223,17 @@
   },
   "active": "1d17e972386072ba",
   "lastOpenFiles": [
+    "Meta/Pasted image 20231003064455.png",
+    "Meta/Pasted image 20231003064420.png",
+    "Meta/Pasted image 20231003064414.png",
+    "Meta/Pasted image 20231003064226.png",
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
     "Meta/Pasted image 20231003062728.png",
     "Meta/Pasted image 20231003062441.png",
     "Meta/Pasted image 20231003062134.png",
     "Meta/Pasted image 20231003062103.png",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
     "Meta/Pasted image 20231003061009.png",
     "Meta/Pasted image 20231003060625.png",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
@@ -242,7 +247,6 @@
     "Meta/Pasted image 20230929154843.png",
     "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md",
     "Untitled.canvas",
-    "Meta/Pasted image 20230929135017.png",
     "What is ES2015.md",
     "Excalidraw/Drawing 2023-09-29 13.42.09.excalidraw.md",
     "Excalidraw/Drawing 2023-09-29 13.46.21.excalidraw.md",
@@ -256,10 +260,6 @@
     "CompTIA A+/Core 1/3.0 Hardware/3.6 Given a scenario deploy and config a multifunction device printer and settings.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.5 Given a scenario, install or replace the appropriate power supply.md",
     "CompTIA A+/Core 1/3.0 Hardware/3.4 Given a scenario, install and config Motherboard, CPU and add-on cards.md",
-    "CompTIA A+/Core 1/3.0 Hardware/3.3 Given a Scenario Select and Install Storage Devices.md",
-    "Meta/Pasted image 20230924151851.png",
-    "Meta/Pasted image 20230924102823.png",
-    "Meta/Pasted image 20230924093650.png",
     "AWS Solutions Architect",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing",
