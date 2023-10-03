@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md"
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md"
               }
             }
           },
@@ -223,12 +223,13 @@
   },
   "active": "1d17e972386072ba",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
     "Meta/Pasted image 20231003064455.png",
     "Meta/Pasted image 20231003064420.png",
     "Meta/Pasted image 20231003064414.png",
     "Meta/Pasted image 20231003064226.png",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
     "Meta/Pasted image 20231003062728.png",
     "Meta/Pasted image 20231003062441.png",
     "Meta/Pasted image 20231003062134.png",
@@ -244,7 +245,6 @@
     "JavaScript.md",
     "React/React interview questions.md",
     "React/React.md",
-    "Meta/Pasted image 20230929154843.png",
     "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md",
     "Untitled.canvas",
     "What is ES2015.md",
