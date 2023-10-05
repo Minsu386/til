@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md"
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md"
               }
             }
           },
@@ -223,6 +223,9 @@
   },
   "active": "1d17e972386072ba",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.2 Given a scenario troubleshoot problems related to motherboards, RAM, CPU, and Power.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
     "LESS CSS.md",
@@ -237,13 +240,10 @@
     "Meta/Pasted image 20231003064420.png",
     "Meta/Pasted image 20231003064414.png",
     "Meta/Pasted image 20231003064226.png",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
     "Meta/Pasted image 20231003062728.png",
     "Meta/Pasted image 20231003062441.png",
     "Meta/Pasted image 20231003062134.png",
     "Meta/Pasted image 20231003062103.png",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.3 Given a scenario troubleshoot and diagnose problems with storage drives and RAID arrays.md",
     "CompTIA A+/Core 1/Common ports.md",
     "What is Large Language Models.md",
     "What is Generative AI.md",
