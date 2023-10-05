@@ -21,3 +21,15 @@ mutation {
 }
 ```
 
+## Update/Edit (patch)
+----
+```JSON
+mutation  {
+	updateUser(id: "23", firstName: "john") {
+		id
+		firstName
+		age
+	}
+}
+```
+
