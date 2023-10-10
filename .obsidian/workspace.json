@@ -49,9 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Review/Modern Software Engineering/Unorganized.md",
+                "file": "CompTIA A+/Core 1/Common ports.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b2bdb3a04668fed5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Meta/Pasted image 20230920202320.png"
               }
             }
           },
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Review/Modern Software Engineering/Unorganized.md",
+                "file": "Meta/Pasted image 20230920202320.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Review/Modern Software Engineering/Unorganized.md",
+                "file": "Meta/Pasted image 20230920202320.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Review/Modern Software Engineering/Unorganized.md"
+                "file": "Meta/Pasted image 20230920202320.png"
               }
             }
           },
@@ -233,10 +243,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c112c78934666f5b",
+  "active": "b2bdb3a04668fed5",
   "lastOpenFiles": [
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
+    "CompTIA A+/Core 1/Common ports.md",
     "Book Review/Modern Software Engineering/Unorganized.md",
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
     "Book Review/Modern Software Engineering",
     "Untitled",
     "Book Review",
@@ -261,7 +272,6 @@
     "Meta/Pasted image 20231003062441.png",
     "Meta/Pasted image 20231003062134.png",
     "Meta/Pasted image 20231003062103.png",
-    "CompTIA A+/Core 1/Common ports.md",
     "What is Large Language Models.md",
     "What is Generative AI.md",
     "Interview.md",
