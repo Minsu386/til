@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
+                "file": "Book Review/Modern Software Engineering/Unorganized.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
+                "file": "Book Review/Modern Software Engineering/Unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
+                "file": "Book Review/Modern Software Engineering/Unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md"
+                "file": "Book Review/Modern Software Engineering/Unorganized.md"
               }
             }
           },
@@ -235,6 +235,11 @@
   },
   "active": "c112c78934666f5b",
   "lastOpenFiles": [
+    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
+    "Book Review/Modern Software Engineering/Unorganized.md",
+    "Book Review/Modern Software Engineering",
+    "Untitled",
+    "Book Review",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
@@ -244,7 +249,6 @@
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
     "LESS CSS.md",
     "Sequelize.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.2 Summarize aspects of client-side virtualization.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.1 Summarize Cloud-Computing concepts.md",
     "Meta/Pasted image 20231003071156.png",
@@ -271,7 +275,6 @@
     "Excalidraw/Drawing 2023-09-29 13.46.21.excalidraw.md",
     "Excalidraw/Drawing 2023-09-29 13.46.24.excalidraw.md",
     "Excalidraw/Drawing 2023-09-29 13.46.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 13.47.00.excalidraw.md",
     "AWS Solutions Architect",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing",
@@ -279,11 +282,8 @@
     "CompTIA A+/Core 1/2.0 Networking",
     "CompTIA A+/Core 1/1.0 Mobile Devices",
     "CompTIA A+/Core 1",
-    "CompTIA A+",
     "AWS Region.canvas",
     "Meta/AWS Region.canvas",
-    "Meta/lu425962um75c.tmp",
-    "Templates",
     "Untitled 1.canvas"
   ]
 }
