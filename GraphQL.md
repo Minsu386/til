@@ -45,3 +45,10 @@ The Apollo store communicates directly w/ the GraphQL server and store data that
 The integration layer between the Store and our actual React application is the Apollo provider
 	Provides data to our react app
 	The provider will take data from the store and inject it into our app
+
+
+GraphQL + React Strategy
+1. Id data required
+2. Write query in Graphiql (for practice) and in component file
+3. Bond query + components
+4. access data
