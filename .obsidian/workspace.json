@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "249562454622aebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GraphQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63badf563243d404",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Pasted image 20230920202320.png",
+                "file": "GraphQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Pasted image 20230920202320.png",
+                "file": "GraphQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Pasted image 20230920202320.png"
+                "file": "GraphQL.md"
               }
             }
           },
@@ -243,8 +255,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2bdb3a04668fed5",
+  "active": "249562454622aebb",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Meta/Pasted image 20230920202320.png",
     "CompTIA A+/Core 1/Common ports.md",
     "Book Review/Modern Software Engineering/Unorganized.md",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
@@ -271,7 +285,6 @@
     "Meta/Pasted image 20231003062728.png",
     "Meta/Pasted image 20231003062441.png",
     "Meta/Pasted image 20231003062134.png",
-    "Meta/Pasted image 20231003062103.png",
     "What is Large Language Models.md",
     "What is Generative AI.md",
     "Interview.md",
@@ -283,8 +296,6 @@
     "What is ES2015.md",
     "Excalidraw/Drawing 2023-09-29 13.42.09.excalidraw.md",
     "Excalidraw/Drawing 2023-09-29 13.46.21.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 13.46.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 13.46.51.excalidraw.md",
     "AWS Solutions Architect",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing",

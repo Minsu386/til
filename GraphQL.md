@@ -33,3 +33,15 @@ mutation  {
 }
 ```
 
+
+React App how does it it work with the GraphQL server?
+	In between the react app and the GraphQL server are two different important pieces of technology
+		1. Apollo Provider
+		2. Apollo Store
+
+The Apollo store communicates directly w/ the GraphQL server and store data that comes back from it.
+	Client side repo of all the data that is coming back from the GraphQL server
+
+The integration layer between the Store and our actual React application is the Apollo provider
+	Provides data to our react app
+	The provider will take data from the store and inject it into our app
