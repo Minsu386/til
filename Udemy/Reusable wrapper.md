@@ -1,0 +1,2 @@
+
+Card.js accept props
