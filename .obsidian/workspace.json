@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md"
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md"
               }
             }
           },
@@ -259,19 +259,19 @@
   },
   "active": "6f4c5c0cabeb667b",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
+    "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
+    "Meta/Pasted image 20231018140636.png",
+    "Meta/Pasted image 20231018140626.png",
+    "Meta/Pasted image 20231018140624 1.png",
+    "Meta/Pasted image 20231018140624.png",
+    "Meta/Pasted image 20231018140535.png",
+    "Meta/Pasted image 20231018140404.png",
+    "Meta/Pasted image 20231018140313.png",
     "Meta/Pasted image 20231018140205.png",
     "Meta/Pasted image 20231018140125.png",
     "Meta/Pasted image 20231018140122.png",
-    "Meta/Pasted image 20231018140011.png",
-    "Meta/Pasted image 20231018135924.png",
-    "Meta/Pasted image 20231018135800.png",
-    "Meta/Pasted image 20231018135727.png",
-    "Meta/Pasted image 20231018135448.png",
     "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
-    "Meta/Pasted image 20231018134457.png",
-    "Meta/Pasted image 20231018134407.png",
-    "Meta/Pasted image 20231018134317.png",
     "CompTIA A+/Core 2/1.0 Operating System/1.2 Given a scenario, use the appropriate Microsoft command-line tool.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.1 ID Basic features of Microsoft Windows Editions.md",
     "GraphQL.md",
