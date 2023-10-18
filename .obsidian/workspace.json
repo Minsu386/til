@@ -93,14 +93,16 @@
             "id": "6f4c5c0cabeb667b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md"
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -255,21 +257,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "249562454622aebb",
+  "active": "6f4c5c0cabeb667b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md",
+    "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
+    "Meta/Pasted image 20231018134457.png",
+    "Meta/Pasted image 20231018134407.png",
+    "Meta/Pasted image 20231018134317.png",
+    "Meta/Pasted image 20231018134228.png",
     "Meta/Pasted image 20231018134147.png",
     "Meta/Pasted image 20231018134011.png",
     "Meta/Pasted image 20231018133828.png",
     "Meta/Pasted image 20231018133808.png",
     "Meta/Pasted image 20231018133619.png",
     "Meta/Pasted image 20231018133549.png",
-    "Meta/Pasted image 20231018133456.png",
     "CompTIA A+/Core 2/1.0 Operating System/1.2 Given a scenario, use the appropriate Microsoft command-line tool.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
-    "Meta/Pasted image 20231018124158.png",
-    "Meta/Pasted image 20231018124046.png",
-    "Meta/Pasted image 20231018123847.png",
-    "Meta/Pasted image 20231018123845.png",
     "CompTIA A+/Core 2/1.0 Operating System/1.1 ID Basic features of Microsoft Windows Editions.md",
     "GraphQL.md",
     "CompTIA A+/Core 2/1.0 Operating System",
@@ -297,7 +299,6 @@
     "JavaScript.md",
     "React/React interview questions.md",
     "React/React.md",
-    "Excalidraw/Drawing 2023-09-29 15.36.56.excalidraw.md",
     "Untitled.canvas",
     "AWS Solutions Architect",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
