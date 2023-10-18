@@ -117,9 +117,11 @@
             "id": "996b7d4fb60670b5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -174,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 660.5
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -198,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md"
+                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md"
               }
             }
           },
