@@ -112,9 +112,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "996b7d4fb60670b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -269,7 +279,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "267f3d7f61def985",
+  "active": "996b7d4fb60670b5",
   "lastOpenFiles": [
     "Meta/Pasted image 20231018165824.png",
     "Meta/Pasted image 20231018165728.png",
