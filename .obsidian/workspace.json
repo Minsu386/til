@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md"
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md"
               }
             }
           },
@@ -283,6 +283,11 @@
   },
   "active": "996b7d4fb60670b5",
   "lastOpenFiles": [
+    "Meta/Pasted image 20231020174012.png",
+    "Meta/Pasted image 20231020173802.png",
+    "Meta/Pasted image 20231020173626.png",
+    "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
+    "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
     "Meta/Pasted image 20231020173241.png",
     "Meta/Pasted image 20231020173142.png",
     "Meta/Pasted image 20231020172939.png",
@@ -290,13 +295,9 @@
     "Meta/Pasted image 20231020172728.png",
     "Meta/Pasted image 20231020172645.png",
     "CompTIA A+/Core 2/1.0 Operating System/1.7 Given a scenario, apply application installation and configuration concepts.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
     "Meta/Pasted image 20231020172358.png",
     "Meta/Pasted image 20231020172153.png",
     "CompTIA A+/Core 2/1.0 Operating System/1.6 Given a scenario, configure Microsoft Windows networking features on a client n desktop.md",
-    "Meta/Pasted image 20231020171656.png",
-    "Meta/Pasted image 20231020171636.png",
-    "Meta/Pasted image 20231020171622.png",
     "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.1 ID Basic features of Microsoft Windows Editions.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.2 Given a scenario, use the appropriate Microsoft command-line tool.md",
@@ -323,7 +324,6 @@
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.2 Summarize aspects of client-side virtualization.md",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing/4.1 Summarize Cloud-Computing concepts.md",
     "What is Large Language Models.md",
-    "What is Generative AI.md",
     "Untitled.canvas",
     "AWS Solutions Architect",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
