@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md"
+                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md"
               }
             }
           },
@@ -283,6 +283,9 @@
   },
   "active": "996b7d4fb60670b5",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
+    "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
+    "CompTIA A+/Core 2/2.0 Security",
     "CompTIA A+/Core 2/1.0 Operating System/1.10 Identify common features and tools of the macOS desktop OS.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
@@ -292,7 +295,6 @@
     "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.2 Given a scenario, use the appropriate Microsoft command-line tool.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.1 ID Basic features of Microsoft Windows Editions.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
     "Meta/Pasted image 20231020190551.png",
     "Meta/Pasted image 20231020190539.png",
     "Meta/Pasted image 20231020190437.png",
@@ -328,7 +330,6 @@
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
     "CompTIA A+/Core 1/4.0 Virtualization and Cloud Computing",
     "CompTIA A+/Core 1/3.0 Hardware",
-    "CompTIA A+/Core 1/2.0 Networking",
     "AWS Region.canvas",
     "Meta/AWS Region.canvas",
     "Untitled 1.canvas"
