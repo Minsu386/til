@@ -52,3 +52,7 @@ GraphQL + React Strategy
 2. Write query in Graphiql (for practice) and in component file
 3. Bond query + components
 4. access data
+
+
+Mutation Variable remember "dollar sign, type name, dollar sign'
+
