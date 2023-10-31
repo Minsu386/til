@@ -56,3 +56,9 @@ GraphQL + React Strategy
 
 Mutation Variable remember "dollar sign, type name, dollar sign'
 
+## mutation w/ variable
+```graphql
+mutation LikeLytric($id: ID) {
+	likeLyric(id: $id)
+}
+```
