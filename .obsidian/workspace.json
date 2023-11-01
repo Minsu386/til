@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md"
+                "file": "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md"
               }
             }
           },
@@ -301,11 +301,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "051d88004b3120d1",
+  "active": "996b7d4fb60670b5",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.7 Given a scenario, apply application installation and configuration concepts.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.6 Given a scenario, configure Microsoft Windows networking features on a client n desktop.md",
     "Meta/Pasted image 20231020165827.png",
     "GraphQL.md",
