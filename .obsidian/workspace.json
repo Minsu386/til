@@ -126,22 +126,22 @@
             }
           },
           {
-            "id": "8f1ec073b7035844",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Meta/Pasted image 20231020165827.png"
-              }
-            }
-          },
-          {
             "id": "96c0897405ce1f35",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
                 "file": "Meta/Pasted image 20231018140535.png"
+              }
+            }
+          },
+          {
+            "id": "8f1ec073b7035844",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Meta/Pasted image 20231020165827.png"
               }
             }
           }
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 661.5
+    "width": 237.5
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -301,7 +301,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "996b7d4fb60670b5",
+  "active": "051d88004b3120d1",
   "lastOpenFiles": [
     "CompTIA A+/Core 2/1.0 Operating System/1.7 Given a scenario, apply application installation and configuration concepts.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
