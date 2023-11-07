@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md"
+                "file": "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md"
               }
             }
           },
@@ -303,21 +303,23 @@
   },
   "active": "996b7d4fb60670b5",
   "lastOpenFiles": [
-    "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
+    "Meta/Pasted image 20231107150226.png",
+    "Meta/Pasted image 20231107150142.png",
+    "Meta/Pasted image 20231107150130.png",
+    "Meta/Pasted image 20231107150051.png",
+    "Meta/Pasted image 20231107145914.png",
+    "Meta/Pasted image 20231107145819.png",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
+    "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
+    "Meta/Pasted image 20231107145503.png",
+    "Meta/Pasted image 20231107145421.png",
+    "Meta/Pasted image 20231107145235.png",
+    "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
     "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
     "Meta/Pasted image 20231107144719.png",
     "Meta/Pasted image 20231107144554.png",
-    "Meta/Pasted image 20231107144530.png",
-    "Meta/Pasted image 20231107144449.png",
-    "Meta/Pasted image 20231107144431.png",
-    "Meta/Pasted image 20231107144226.png",
-    "Meta/Pasted image 20231107144217.png",
-    "Meta/Pasted image 20231107144129.png",
-    "Meta/Pasted image 20231107144120.png",
-    "Meta/Pasted image 20231107143905.png",
     "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.10 Identify common features and tools of the macOS desktop OS.md",
@@ -340,11 +342,9 @@
     "CompTIA A+/Core 2",
     "CompTIA A+/Core 1/Common ports.md",
     "Book Review/Modern Software Engineering/Unorganized.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.7 Given a scenario troubleshoot problems with wired and wireless networks.md",
     "Book Review/Modern Software Engineering",
     "Untitled",
     "Book Review",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
     "Untitled.canvas",
     "AWS Solutions Architect",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
