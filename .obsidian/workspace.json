@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md"
+                "file": "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md"
               }
             }
           },
@@ -303,10 +303,14 @@
   },
   "active": "996b7d4fb60670b5",
   "lastOpenFiles": [
+    "Meta/Pasted image 20231107142104.png",
+    "Meta/Pasted image 20231107142041.png",
+    "Meta/Pasted image 20231107141830.png",
     "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
-    "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
+    "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
     "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
+    "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.10 Identify common features and tools of the macOS desktop OS.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
@@ -326,9 +330,7 @@
     "Meta/Pasted image 20231021233927.png",
     "Meta/Pasted image 20231021233334.png",
     "Meta/Pasted image 20231021230315.png",
-    "Meta/Pasted image 20231021225441.png",
     "Untitled 1.md",
-    "Meta/Pasted image 20231021161500.png",
     "CompTIA A+/2.05 PC Maintenance.md",
     "Building your first Application.md",
     "CompTIA A+/Core 2/2.0 Security",
@@ -343,7 +345,6 @@
     "Untitled",
     "Book Review",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.6 Given a scenario troubleshoot and resolve printer issues.md",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.5 Given a scenario troubleshoot common issues with mobile devices.md",
     "Untitled.canvas",
     "AWS Solutions Architect",
     "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting",
