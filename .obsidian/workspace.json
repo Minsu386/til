@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md"
+                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md"
               }
             }
           },
@@ -303,8 +303,8 @@
   },
   "active": "996b7d4fb60670b5",
   "lastOpenFiles": [
-    "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
+    "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
     "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
     "CompTIA A+/Core 2/2.0 Security/2.8 Given a scenario use common data destruction and disposal methods.md",
