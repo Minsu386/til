@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+                "file": "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md"
+                "file": "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "5364926c281dab4e",
   "lastOpenFiles": [
-    "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+    "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
     "CompTIA A+/2.3 Professionalism.md",
     "CompTIA A+/2.2 Environmental Control.md",
