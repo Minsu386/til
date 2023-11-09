@@ -4,117 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7224a60cd960229e",
+        "id": "db8fa05fd5d3951f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8a1350588a2936a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React interview questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9e126161d443700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d17e972386072ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.4 Given a scenario troubleshoot video, projector, and display issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c112c78934666f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 1/Common ports.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2bdb3a04668fed5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Meta/Pasted image 20230920202320.png"
-              }
-            }
-          },
-          {
-            "id": "249562454622aebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63badf563243d404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f4c5c0cabeb667b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "267f3d7f61def985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "996b7d4fb60670b5",
+            "id": "5364926c281dab4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,27 +20,19 @@
             }
           },
           {
-            "id": "96c0897405ce1f35",
+            "id": "8ebb9d834ec74420",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Meta/Pasted image 20231018140535.png"
-              }
-            }
-          },
-          {
-            "id": "8f1ec073b7035844",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Meta/Pasted image 20231020165827.png"
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type 1",
+                "query": "lithium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 473.5
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -220,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md"
+                "file": "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md"
               }
             }
           },
@@ -301,10 +188,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "996b7d4fb60670b5",
+  "active": "8ebb9d834ec74420",
   "lastOpenFiles": [
-    "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
+    "CompTIA A+/Core 1/3.0 Hardware/3.1 Explain basic cable types and their connectors features and purposes.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.3 Compare & Contrast protocol for wireless networking.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.2 Compare & Contrast common networking hardware.md",
+    "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+    "CompTIA A+/Core 2/2.0 Security/2.2 Compare and Contrast wireless security protocols and authentication methods.md",
+    "Meta/Pasted image 20231020165827.png",
+    "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
+    "React/React.md",
+    "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
+    "Meta/Pasted image 20230920202320.png",
+    "CompTIA A+/Core 1/Common ports.md",
+    "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
+    "CompTIA A+/Core 2/1.0 Operating System/1.1 ID Basic features of Microsoft Windows Editions.md",
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
     "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
     "CompTIA A+/Core 2/2.0 Security/2.8 Given a scenario use common data destruction and disposal methods.md",
@@ -312,7 +214,6 @@
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
     "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
     "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
-    "CompTIA A+/Core 2/2.0 Security/2.1 Summarize Various Security Measures and their purposes.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.11 Identify common features and tools of Linux client n Desktop OS.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.10 Identify common features and tools of the macOS desktop OS.md",
     "Meta/Pasted image 20231107151846.png",
@@ -323,22 +224,9 @@
     "Meta/Pasted image 20231107151500.png",
     "Meta/Pasted image 20231107151450.png",
     "Meta/Pasted image 20231107151414.png",
-    "Meta/Pasted image 20231107151344.png",
-    "Meta/Pasted image 20231107151302.png",
     "CompTIA A+/Core 2/1.0 Operating System/1.9 Given a scenario, perform OS installations and upgrades in a diverse OS environment.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.8 Explain common OS types and Their purposes.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.7 Given a scenario, apply application installation and configuration concepts.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.6 Given a scenario, configure Microsoft Windows networking features on a client n desktop.md",
-    "GraphQL.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.2 Given a scenario, use the appropriate Microsoft command-line tool.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.1 ID Basic features of Microsoft Windows Editions.md",
-    "Untitled 1.md",
-    "CompTIA A+/2.05 PC Maintenance.md",
-    "Building your first Application.md",
     "CompTIA A+/Core 2/2.0 Security",
-    "CompTIA A+/Core 1/5.0 Hardware and Networking Troubleshooting/5.1 Given a scenario apply the best practice methodology to resolve problems.md",
     "CompTIA A+/Core 2/1.0 Operating System",
     "CompTIA A+/Core 2",
     "Book Review/Modern Software Engineering",
