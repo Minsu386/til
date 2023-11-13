@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md"
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md"
               }
             }
           },
@@ -201,8 +201,14 @@
   },
   "active": "39ac6b5948dcc21e",
   "lastOpenFiles": [
-    "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
+    "Meta/Pasted image 20231113070511.png",
+    "Meta/Pasted image 20231113070242.png",
+    "Meta/Pasted image 20231113070044.png",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
+    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+    "Meta/Pasted image 20231113065736.png",
+    "Meta/Pasted image 20231113065717.png",
+    "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.1 Given a scenario troubleshoot common Windows OS problems.md",
     "Meta/Pasted image 20231113064723.png",
     "Meta/Pasted image 20231113064553.png",
@@ -210,10 +216,6 @@
     "Meta/Pasted image 20231113064051.png",
     "Meta/Pasted image 20231113063913.png",
     "Meta/Pasted image 20231113063732.png",
-    "Meta/Pasted image 20231113063703.png",
-    "Meta/Pasted image 20231113063600.png",
-    "Meta/Pasted image 20231113063541.png",
-    "Meta/Pasted image 20231113063530.png",
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
     "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
@@ -237,8 +239,6 @@
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
     "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
-    "React/React.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.3 Given a scenario, use features and tools of the Microsoft Win 10 OS.md",
     "CompTIA A+/Core 2/2.0 Security",
     "CompTIA A+/Core 2/1.0 Operating System",
     "CompTIA A+/Core 2",
