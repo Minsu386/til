@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md"
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md"
               }
             }
           },
@@ -201,11 +201,14 @@
   },
   "active": "39ac6b5948dcc21e",
   "lastOpenFiles": [
+    "Meta/Pasted image 20231113071331.png",
+    "Meta/Pasted image 20231113071246.png",
+    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
+    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
     "Meta/Pasted image 20231113070511.png",
     "Meta/Pasted image 20231113070242.png",
     "Meta/Pasted image 20231113070044.png",
-    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
-    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
     "Meta/Pasted image 20231113065736.png",
     "Meta/Pasted image 20231113065717.png",
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
@@ -214,8 +217,6 @@
     "Meta/Pasted image 20231113064553.png",
     "Meta/Pasted image 20231113064136.png",
     "Meta/Pasted image 20231113064051.png",
-    "Meta/Pasted image 20231113063913.png",
-    "Meta/Pasted image 20231113063732.png",
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
     "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
@@ -238,7 +239,6 @@
     "CompTIA A+/Core 1/2.0 Networking/2.1 Compare & Contrast TCP & UDP ports, protocol and their purposes.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.4 Given a Scenario Config basic mobile device network connectivity and application support.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.3 Given a Scenario, setup & config accessories and ports of mobile devices.md",
-    "CompTIA A+/Core 2/1.0 Operating System/1.4 & 1.5 Given a scenario, use the appropriate Microsoft Win 10 Control Panel Utility & Appropriate Windows Settings.md",
     "CompTIA A+/Core 2/2.0 Security",
     "CompTIA A+/Core 2/1.0 Operating System",
     "CompTIA A+/Core 2",
