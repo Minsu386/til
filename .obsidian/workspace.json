@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5f11e4e9ddb30693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8ebb9d834ec74420",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md"
+                "file": "TypeScript.md"
               }
             }
           },
@@ -199,8 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39ac6b5948dcc21e",
+  "active": "5f11e4e9ddb30693",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
+    "TypeScript.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.1 Given a scenario troubleshoot common Windows OS problems.md",
@@ -210,7 +224,6 @@
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
     "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
     "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
-    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "Meta/Pasted image 20231113071331.png",
