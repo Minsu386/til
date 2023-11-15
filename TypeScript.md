@@ -20,3 +20,5 @@ When to use?
 ![[Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw]]
 
 
+What is the 'any' type?
+	
