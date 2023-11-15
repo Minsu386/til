@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
+                "file": "TypeScript.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3e1336a5988fb3de",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md"
               }
             }
           },
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
+                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
+                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md"
+                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md"
               }
             }
           },
@@ -221,14 +231,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f11e4e9ddb30693",
+  "active": "3e1336a5988fb3de",
   "lastOpenFiles": [
+    "TypeScript.md",
+    "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
+    "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "Meta/Pasted image 20231115132718.png",
     "Meta/Pasted image 20231115132640.png",
     "Meta/Pasted image 20231115132622.png",
     "Meta/Pasted image 20231115132336.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "Meta/Pasted image 20231115131647.png",
     "Meta/Pasted image 20231115131337.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.1 Given a scenario implement best practices associated with documentation and support system information management.md",
@@ -244,14 +256,12 @@
     "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
-    "TypeScript.md",
     "Excalidraw/Drawing 2023-11-15 10.51.32.excalidraw.md",
     "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "Meta/Pasted image 20231113071331.png",
     "Meta/Pasted image 20231113071246.png",
-    "Meta/Pasted image 20231113070511.png",
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
     "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",

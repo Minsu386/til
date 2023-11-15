@@ -1,4 +1,4 @@
-
+[JavaScript](JavaScript.md)
 Interface - used to defined the structure of an object
 
 Type - Easy way to refer to the different properties and function that a value has.
@@ -14,8 +14,9 @@ Type inference - Typescript tries to figure out what type of value a variable re
 		`const  color = 'red'`
 		const color is the variable declaration
 		'red' is the variable initialization
-	
-		
+
+
+When to use?
 
 
 
