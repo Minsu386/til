@@ -10,6 +10,12 @@ Type Annotation - Code we add to tell Typescript what type of value a variable w
 
 Type inference - Typescript tries to figure out what type of value a variable refers to
 	Typescript guesses the type
+		If declaration and initialization are on the same line, Typescript will figure out the type for us. 
+		`const  color = 'red'`
+		const color is the variable declaration
+		'red' is the variable initialization
+	
+		
 
 
 
