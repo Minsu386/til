@@ -17,6 +17,6 @@ Type inference - Typescript tries to figure out what type of value a variable re
 
 
 When to use?
-
+![[Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw]]
 
 

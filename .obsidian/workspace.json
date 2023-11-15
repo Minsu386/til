@@ -47,9 +47,11 @@
             "id": "3e1336a5988fb3de",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md"
+                "file": "TypeScript.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md"
+                "file": "TypeScript.md"
               }
             }
           },
@@ -233,8 +235,8 @@
   },
   "active": "3e1336a5988fb3de",
   "lastOpenFiles": [
-    "TypeScript.md",
     "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
+    "TypeScript.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "Meta/Pasted image 20231115132718.png",
     "Meta/Pasted image 20231115132640.png",
