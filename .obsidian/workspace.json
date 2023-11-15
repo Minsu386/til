@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md"
+                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "39ac6b5948dcc21e",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.1 Given a scenario troubleshoot common Windows OS problems.md",
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
@@ -214,7 +215,6 @@
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "Meta/Pasted image 20231113071331.png",
     "Meta/Pasted image 20231113071246.png",
-    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.4 Given a scenario troubleshoot common mobile OS and application issues.md",
     "Meta/Pasted image 20231113070511.png",
     "Meta/Pasted image 20231113070242.png",
     "Meta/Pasted image 20231113070044.png",
