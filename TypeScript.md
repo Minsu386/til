@@ -37,3 +37,32 @@ When to use - Any time we need to represent a collection of records with some ar
 ----
 Array like structure where each element represents some property of a record
 
+```typescript
+const drink = {
+
+  color: 'brown',
+
+  carbonated: true,
+
+  sugar: 40
+
+};
+
+  
+
+const pepsi: [string, boolean, number] = ['brown', true, 40]
+
+  
+
+type Drink =[string, boolean, number]
+
+const sprite: Drink = ['clear', true, 40]
+```
+
+## Interfaces
+----
+Creates a new type, describing the property names and value types of an object
+
+```TypeScript
+
+```
