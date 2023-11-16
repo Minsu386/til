@@ -33,3 +33,5 @@ What is the 'any' type?
 
 When to use - Any time we need to represent a collection of records with some arbitrary sort order
 
+## Tuples
+----
