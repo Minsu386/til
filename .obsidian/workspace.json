@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md"
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md"
               }
             }
           },
@@ -235,19 +235,18 @@
   },
   "active": "3e1336a5988fb3de",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "Meta/Pasted image 20231116122105.png",
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
     "Meta/Pasted image 20231116121925.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "Meta/Pasted image 20231116120931.png",
     "Meta/Pasted image 20231116120913.png",
     "Meta/Pasted image 20231116120845.png",
     "Meta/Pasted image 20231116120824.png",
     "Meta/Pasted image 20231116120709.png",
     "Meta/Pasted image 20231116120114.png",
-    "Meta/Pasted image 20231116120017.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
     "CompTIA A+/Core 2/2.0 Security/2.8 Given a scenario use common data destruction and disposal methods.md",
