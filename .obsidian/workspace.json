@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md"
+                "file": "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md"
               }
             }
           },
@@ -235,6 +235,7 @@
   },
   "active": "3e1336a5988fb3de",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.1 Given a scenario implement best practices associated with documentation and support system information management.md",
     "TypeScript.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
@@ -259,7 +260,6 @@
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
     "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
     "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
     "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
