@@ -35,3 +35,5 @@ When to use - Any time we need to represent a collection of records with some ar
 
 ## Tuples
 ----
+Array like structure where each element represents some property of a record
+
