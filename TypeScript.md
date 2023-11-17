@@ -64,5 +64,8 @@ const sprite: Drink = ['clear', true, 40]
 Creates a new type, describing the property names and value types of an object
 
 ```TypeScript
-
+const oldCivic = {
+	
+}
 ```
+
