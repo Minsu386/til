@@ -111,3 +111,8 @@ Classes -> Blueprint to create an object with some fields (values) and methods (
 
 Capital the name of the class
 
+modifiers 
+	Public  -> This method can be called anywhere anytime
+	Private -> This method can only be called by other methods in this class
+	Protected -> this method can be called by other methods in this class, or by other methods in child classes
+	
