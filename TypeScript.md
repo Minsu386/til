@@ -89,7 +89,7 @@ interface Vehicle {
 const oldCivic = {
 	name: 'civic',
 	year: 2000,
-	broken: true
+	broken: true,
 	summary(): string {
 		return `Name: {this.name}`
 	};
