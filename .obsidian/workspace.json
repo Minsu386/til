@@ -66,6 +66,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3da77a7af09491aa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Meta/Pasted image 20231116120709.png"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -225,10 +235,11 @@
   },
   "active": "1393a88f131eedfb",
   "lastOpenFiles": [
+    "Meta/Pasted image 20231116120709.png",
+    "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "TypeScript.md",
     "JavaScript.md",
@@ -243,7 +254,6 @@
     "Meta/Pasted image 20231116120913.png",
     "Meta/Pasted image 20231116120845.png",
     "Meta/Pasted image 20231116120824.png",
-    "Meta/Pasted image 20231116120709.png",
     "Meta/Pasted image 20231116120114.png",
     "CompTIA A+/Core 2/2.0 Security/2.8 Given a scenario use common data destruction and disposal methods.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
@@ -263,7 +273,6 @@
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
     "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
     "GraphQL.md",
-    "Coffee Chat.md",
     "Untitled 1.canvas",
     "CompTIA A+/Core 2/2.0 Security",
     "CompTIA A+/Core 2/1.0 Operating System",
