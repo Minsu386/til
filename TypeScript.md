@@ -115,4 +115,26 @@ modifiers
 	Public  -> This method can be called anywhere anytime
 	Private -> This method can only be called by other methods in this class
 	Protected -> this method can be called by other methods in this class, or by other methods in child classes
-	
+
+
+
+
+## Google Maps
+----
+Required Update for New @types Library
+
+The @types/googlemaps library that is installed in the next video has been deprecated. Instead, we need to install a different library:
+
+`npm install @types/google.maps`
+
+Also, you will still see a TS error in your code editor:
+
+_Cannot find name 'google'.ts(2304)_
+
+As the very first line in the index.ts file, you will need to add a triple slash directive:
+
+1. /// `<reference types="@types/google.maps" />`
+
+You can read about this in the official docs here:
+
+[https://developers.google.com/maps/documentation/javascript/using-typescript#Module_Import](https://developers.google.com/maps/documentation/javascript/using-typescript#Module_Import)
