@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "dc09b994c1737ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NVIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14f0f2de310759b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3da77a7af09491aa",
             "type": "leaf",
             "state": {
@@ -78,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
+                "file": "NVIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
+                "file": "NVIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript.md"
+                "file": "NVIM.md"
               }
             }
           },
@@ -233,15 +257,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1393a88f131eedfb",
+  "active": "dc09b994c1737ef5",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "NVIM.md",
+    "TypeScript.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "Meta/Pasted image 20231116120709.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
-    "TypeScript.md",
     "JavaScript.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
@@ -272,7 +298,6 @@
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
     "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
-    "GraphQL.md",
     "Untitled 1.canvas",
     "CompTIA A+/Core 2/2.0 Security",
     "CompTIA A+/Core 2/1.0 Operating System",
