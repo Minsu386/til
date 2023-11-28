@@ -138,3 +138,5 @@ As the very first line in the index.ts file, you will need to add a triple slash
 You can read about this in the official docs here:
 
 [https://developers.google.com/maps/documentation/javascript/using-typescript#Module_Import](https://developers.google.com/maps/documentation/javascript/using-typescript#Module_Import)
+
+[[Parcel]]

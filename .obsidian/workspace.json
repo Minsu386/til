@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIM.md",
+                "file": "TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54e31f1d56ef4fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcel.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIM.md",
+                "file": "Parcel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIM.md",
+                "file": "Parcel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIM.md"
+                "file": "Parcel.md"
               }
             }
           },
@@ -257,11 +269,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc09b994c1737ef5",
+  "active": "54e31f1d56ef4fee",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "NVIM.md",
     "TypeScript.md",
+    "Parcel.md",
+    "NVIM.md",
+    "Untitled 2.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "Meta/Pasted image 20231116120709.png",
@@ -297,7 +310,6 @@
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
-    "CompTIA A+/Core 2/2.0 Security/2.4 Explain common social-engineering attacks, threats, and vulnerabilities.md",
     "Untitled 1.canvas",
     "CompTIA A+/Core 2/2.0 Security",
     "CompTIA A+/Core 2/1.0 Operating System",
