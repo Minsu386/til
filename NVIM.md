@@ -16,5 +16,5 @@ open terminal - space h or space v
 
 to change config 
 .config/nvim/lua
-	chadrv.lua to change chadrv aaa
+	chadrv.lua to change chadrv
 	init.lua - nvim config changes
