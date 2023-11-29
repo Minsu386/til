@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "993088782eb48c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Dev Environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e03e7e287cacc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PopOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "14f0f2de310759b5",
             "type": "leaf",
             "state": {
@@ -114,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -188,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIM.md",
+                "file": "Linux Dev Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIM.md",
+                "file": "Linux Dev Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIM.md"
+                "file": "Linux Dev Environment.md"
               }
             }
           },
@@ -269,12 +293,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54e31f1d56ef4fee",
+  "active": "993088782eb48c3a",
   "lastOpenFiles": [
+    "PopOS.md",
+    "Linux Dev Environment.md",
+    "NVIM.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "Parcel.md",
     "TypeScript.md",
-    "NVIM.md",
     "Untitled 2.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "Meta/Pasted image 20231116120709.png",
@@ -305,10 +331,8 @@
     "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
     "Excalidraw/Drawing 2023-11-15 10.51.32.excalidraw.md",
-    "CompTIA A+/Core 2/2.0 Security/2.5 Given a scenario manage and configure basic security settings in the Windows OS.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
-    "CompTIA A+/Core 2/2.0 Security/2.3 Given a scenario, detect, remove and prevent malware using the appropriate tools and methods.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
     "Untitled 1.canvas",
     "CompTIA A+/Core 2/2.0 Security",
