@@ -64,6 +64,14 @@ $ cat ~/.ssh/id_ed25519.pub
 sudo apt install neovim
 ```
 
+If you are in the file explorer mode, you can use:
+
+> `d` for creating a directory
+> 
+> `%` for creating a new file
+
+You can get into the explorer mode with issuing a command `:Ex` or `:Sexplore` or `:Vexplore`
+
 
 #### NeoVim Configuration
 ----
