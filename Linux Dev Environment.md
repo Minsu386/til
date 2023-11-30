@@ -90,7 +90,14 @@ You can get into the explorer mode with issuing a commandÂ `:Ex` or `:Sexplore`Â
 
 ### nvim KeyMaping
 ----
-<leader> = Space
-vim's Tree map - <leader>pv
-(Fuzzy Finder) tree /w/ preview - <leader>pf
+`<leader> = Space`
+vim's Tree map - `<leader>pv`
+(Fuzzy Finder) tree /w/ preview - `<leader>pf`
+
+	live-grep is required for grep search
+	[live-grep from BurntSushi][https://github.com/Burntsushi/ripgrep]  
+	`curl -LO https://github.com/BurntSushi/ripgrep/releases/download/13.0.0/ripgrep_13.0.0_amd64.deb`
+	`sudo dpkg -i ripgrep_13.0.0_amd64.deb`
+
+Grep Search - `<leader>ps`
 
