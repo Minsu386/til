@@ -10,8 +10,13 @@
 `sudo apt autoremove -y`
 `sudo apt autoclean -y`
 
+### ZSH
+----
+`sudo apt install zsh`
 ### Oh-My-ZSH
 ----
+Install ZSH before Oh-My-ZSH
+
 [Oh-My-ZSH][https://github.com/ohmyzsh/ohmyzsh]
 ```wget
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/
@@ -33,6 +38,23 @@ Now that Git is installed, it is ready to be configured. Setup your name and ema
 ````shell
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ````
+
+start SSH agent
+```shell
+$ eval "$(ssh-agent -s)"
+```
+
+Add SSH to ssh-agent
+```shell
+ssh-add ~/.ssh/id_ed25519
+```
+
+[Add SSH to Github][https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account]
+```shell
+$ cat ~/.ssh/id_ed25519.pub
+# Then select and copy the contents of the id_ed25519.pub file
+# displayed in the terminal to your clipboard
+```
 
 
 
