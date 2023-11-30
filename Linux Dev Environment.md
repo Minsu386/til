@@ -60,6 +60,10 @@ $ cat ~/.ssh/id_ed25519.pub
 
 ### NeoVim
 ----
+```
+sudo apt install neovim
+```
+
 
 #### NeoVim Configuration
 ----
