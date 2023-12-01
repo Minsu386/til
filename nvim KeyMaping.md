@@ -16,3 +16,16 @@
 8. to under previous action, type:                                       u(lower)
 	1. To undo all the changes on a line, type:                  U(Capt)
 	2. To undo the undos, type:                                         CTRL-R
+
+
+
+## --3 
+-----
+
+1. To put back text that has just been deleted, type 'p'
+	1. This puts the deleted text AFTER the cursor ( if a line was deleted it will go on the line below the cursor )
+2. To replace the character under the cursor, type 'r' and then the character you want to have there
+3. The change operator allows you to change from the cursor to where the motion takes you. eg. type `ce` to change from cursor to the end of the word, `c$` to change to the end of a line
+
+# Cursor location and file status
+----
