@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "00d6d82d60b823ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nvim KeyMaping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e03e7e287cacc18",
             "type": "leaf",
             "state": {
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Dev Environment.md",
+                "file": "nvim KeyMaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Dev Environment.md",
+                "file": "nvim KeyMaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Dev Environment.md"
+                "file": "nvim KeyMaping.md"
               }
             }
           },
@@ -293,10 +305,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "993088782eb48c3a",
+  "active": "00d6d82d60b823ab",
   "lastOpenFiles": [
-    "PopOS.md",
     "Linux Dev Environment.md",
+    "nvim KeyMaping.md",
+    "PopOS.md",
     "NVIM.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "Parcel.md",
@@ -330,7 +343,6 @@
     "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
     "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
-    "Excalidraw/Drawing 2023-11-15 10.51.32.excalidraw.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",

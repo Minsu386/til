@@ -88,7 +88,7 @@ You can get into the explorer mode with issuing a commandÂ `:Ex` or `:Sexplore`Â
 #### NeoVim Configuration
 ----
 
-### nvim KeyMaping
+### [[nvim KeyMaping]]
 ----
 `<leader> = Space`
 vim's Tree map - `<leader>pv`
