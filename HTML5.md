@@ -52,6 +52,19 @@ Can support `.ico` , `.gif`, or `.png`
 ```
 
 
+# Apply CSS & JS Scripts
+----
+
+```html
+<link rel="stylesheet" href="my-css-file.css" />
+```
+
+```html
+<script src="my-js-file.js" defer></script>
+```
+
+defer loads the script after the html page ( this way you do not have to place your script on the bottom of your page.)
+
 
 
 
