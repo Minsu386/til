@@ -31,6 +31,25 @@ Self closing tags. Such as
 ```
 These insert / embed something in the document
 
+# Meta
+----
+```html
+<meta name="author" content="Phillip Choi" />
+<meta
+	  name="description"
+	  content="What you want to show users in a search" />
+```
+
+
+# Favicon
+----
+icon shown in bookmarks and in a tab in a browser, left of the title. 
+
+Can support `.ico` , `.gif`, or `.png`
+
+```html
+<link rel="icon" href="favicon.ico" type="image/xicon" />
+```
 
 
 
