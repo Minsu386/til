@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development.md",
+                "file": "Frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development.md",
+                "file": "nvim KeyMaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development.md",
+                "file": "nvim KeyMaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development.md"
+                "file": "nvim KeyMaping.md"
               }
             }
           },
@@ -317,10 +317,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff26cf2b79375789",
+  "active": "00d6d82d60b823ab",
   "lastOpenFiles": [
-    "nvim KeyMaping.md",
+    "Frontend.md",
+    "HTML5.md",
     "Web Development.md",
+    "nvim KeyMaping.md",
     "Linux Dev Environment.md",
     "PopOS.md",
     "NVIM.md",
@@ -353,8 +355,6 @@
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.2 & 3.3 Given a scenario troubleshoot common personal computer security issues - use best practice procedures for malware.md",
     "Excalidraw/Drawing 2023-11-15 14.02.15.excalidraw.md",
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
-    "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
-    "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
