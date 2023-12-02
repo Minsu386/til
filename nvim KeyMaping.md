@@ -29,3 +29,21 @@
 
 # Cursor location and file status
 ----
+1. CTRL-G displays your location in the file and the file status
+	1. G moves to the end of the File.
+	2. Number G moves to that line number
+	3. gg moves to the first line
+2. Typing `/` follow by a  phrase searches FORWARD for the phrase.
+	1. typing `?` followed by a phrase searches BACKWARD for the phrases.
+	2. After a search type `n` to find the next occurrence in the same dirrection CTRL-O takes you back to older positions, CTRI-I to newer positions
+3. Typing `%` while the cursor is on a `(,), [,], {, or } ` goes to its match
+4. To subsitute new for the first old in a line `:s/old/new`
+	1. new for all 'old's on a line type           `:s/old/new/g`
+	2. phrases between two line #'s type      `:#,#/old/new/g`
+	3. all occurrences in the file type            `%s/old/new/g`
+	4. to ask for confirmation each time add 'c'  `:%s/old/new/gc`
+
+## How to exe an external cmd
+-----
+
+
