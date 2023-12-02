@@ -10,8 +10,18 @@
 		<title>My test page</title>
 	</head>
 	<body>
-		<p>This is my page</
+		<p>This is my page</p>
+	</body>
+<html>
 ```
+
+1. `<!DOCTYPE html>` : historic artifact that needs to be included for everything to work right. `<DOCTYPE html>` is the shortest string that counts as a valid doctype.
+2. `<html></html>`: wraps all content - aka the root element
+3. `<head></head>`: Acts as the container for item you want included in your HTML page that isn't content for the viewer. Can include keywords and page description that would appear in search results, CSS to style, etc....
+4. `<meta charset=utf-8`> specifies character encoding as UTF-8
+5. `<title></title>`: This sets the title of the page. Appears in the browser tab. 
+6. `<body></body>`: Contains all the content that displays on the page.
+
 
 # Void Elements
 ----
