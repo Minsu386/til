@@ -19,7 +19,7 @@
 
 
 
-## --3 
+## The Put Command 
 -----
 
 1. To put back text that has just been deleted, type 'p'
