@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "ff26cf2b79375789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e03e7e287cacc18",
             "type": "leaf",
             "state": {
@@ -150,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim KeyMaping.md",
+                "file": "Web Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim KeyMaping.md",
+                "file": "Web Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim KeyMaping.md"
+                "file": "Web Development.md"
               }
             }
           },
@@ -305,10 +317,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00d6d82d60b823ab",
+  "active": "ff26cf2b79375789",
   "lastOpenFiles": [
-    "Linux Dev Environment.md",
     "nvim KeyMaping.md",
+    "Web Development.md",
+    "Linux Dev Environment.md",
     "PopOS.md",
     "NVIM.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
@@ -342,7 +355,6 @@
     "CompTIA A+/Core 2/2.0 Security/2.10 Given a scenario install and configure a browsers and relevant security settings.md",
     "CompTIA A+/Core 2/2.0 Security/2.9 Given a scenario configure appropriate security settings on small office home office (SOHO) wireless and wired networks.md",
     "CompTIA A+/Core 2/2.0 Security/2.7 Explain common methods for securing mobile and embedded devices.md",
-    "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
