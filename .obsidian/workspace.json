@@ -4,103 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "db8fa05fd5d3951f",
+        "id": "c143b23f21d75284",
         "type": "tabs",
         "children": [
           {
-            "id": "5364926c281dab4e",
+            "id": "dcca55d2ca28255c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39ac6b5948dcc21e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f11e4e9ddb30693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e1336a5988fb3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54e31f1d56ef4fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVIM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "993088782eb48c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00d6d82d60b823ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff26cf2b79375789",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTML5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -255,10 +166,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00d6d82d60b823ab",
+  "active": "dcca55d2ca28255c",
   "lastOpenFiles": [
-    "Web Development.md",
+    "HTML5.md",
+    "CSS.md",
+    "NVIM.md",
     "TypeScript.md",
+    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
+    "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
+    "Web Development.md",
     "Udemy ProShop.md",
     "nvim KeyMaping.md",
     "Untitled.canvas",
@@ -267,12 +183,9 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "Frontend.md",
-    "CSS.md",
     "React/React.md",
-    "HTML5.md",
     "Linux Dev Environment.md",
     "PopOS.md",
-    "NVIM.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "Parcel.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
@@ -293,8 +206,6 @@
     "Meta/Pasted image 20231116120845.png",
     "Meta/Pasted image 20231116120824.png",
     "Meta/Pasted image 20231116120114.png",
-    "CompTIA A+/Core 2/2.0 Security/2.8 Given a scenario use common data destruction and disposal methods.md",
-    "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
