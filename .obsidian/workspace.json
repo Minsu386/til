@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "a3d1671c3f6609e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -166,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcca55d2ca28255c",
+  "active": "a3d1671c3f6609e3",
   "lastOpenFiles": [
+    "Untitled.md",
     "HTML5.md",
     "CSS.md",
     "NVIM.md",
@@ -178,7 +196,6 @@
     "Udemy ProShop.md",
     "nvim KeyMaping.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Untitled 1.canvas",
     "Untitled 1.md",
     "Untitled 2.md",
