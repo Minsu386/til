@@ -3,5 +3,8 @@
   "alwaysUpdateLinks": false,
   "attachmentFolderPath": "Meta",
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 2
 }

@@ -1,3 +1,5 @@
+# FSA Notes
+----
 
 # Anatomy of an HTML document
 ----
@@ -66,44 +68,6 @@ Can support `.ico` , `.gif`, or `.png`
 defer loads the script after the html page ( this way you do not have to place your script on the bottom of your page.)
 
   
-```html
-<!--ID Attribute-->
-<div id="introduction">
-    <!--Body, Header, Paragraph-->
-	<body>
-      <h1>Patch the Cat</h1>**
-</div>
-      <h3>Profile</h3>
-      <!--Images and Resizing-->
-          <img src="https://allaboutcats.com/wp-content/uploads/2022/01/black-white-tuxedo.jpg" 
-         style="max-width: 10%;"/>
-
-        <p>
-
-          Just a little cat who wants love!
-
-          <!--Anchor Tags (Links)-->
-
-          <a href="https://www.google.com/" target="_blank">Search Patch on Google!</a>
-        </p>
-      <!--Ordered and Unordered Lists-->
-      <h3>Expertise</h3>  
-        <ul>
-           <li>Bathing in the Sun</li>
-           <li>Chasing Birds</li>
-           <li>Always Thankful</li>
-        </ul>
-      <h3>Colors Patch May Come In</h3>
-      <!--Div and Span Examples. all black is an example of an id selector-->
-      <span>All White</span>
-      <span id="all_brown">All Brown</span>
-      <div class="patches">Mostly White with black patches</div>
-      <div class="patches">Mostly Black with white patches</div>
-
-      <h3>Element, ID, and Class Selectors shown in coding above</h3>
-
-    </body>
-```
 
 
 
