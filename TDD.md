@@ -101,3 +101,92 @@ When you write tests, you can use expectations as your guide for what to test. N
 In the Identify Expectations section, we outlined expectations for a `multiply` function in simple English. How can we test our expectations of multiply using pure JavaScript? A comparison operator would be very useful for this task: [Expressions and Operators - JavaScript | MDNLinks to an external site.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators).
 
 Review the manual testing example code below:
+![](Meta/Screen%20Shot%202023-12-05%20at%2011.04.10%20PM.png)
+
+In this example, we use vanilla JavaScript to test if our `multiply` function behaves how we expect it to behave.
+
+There are many other ways we could have written this code, but this is a basic example of how we may approach it on our own. In this small example, the "tests" we created manually are not intuitive to read, and it is hard to track where all the variables used are defined. Two engineers can implement the same tests with different styles, which makes reading specs like this a lot harder. And even if the `multiply` function is not working as expected, we may not realize it based on how these tests are designed. 
+
+Before moving on and learning a better way to write tests, try to write tests similar to the tests above for the `reverseString` function we used in the last example.
+
+Review the following video, which starts where we left off from the "Identifying Expectations" video in the previous section:
+[Manual Testing Example](https://youtu.be/JSMGdDAxZJ4)
+
+
+# Testing Frameworks
+----
+
+A testing framework consists of pre-written JavaScript code designed specifically for testing. The goal of a testing framework is to add structure, readability, and make testing easier.
+
+Keep in mind some testing frameworks achieve the same goals, while others are designed for different types of tests and environments. Here is a list of a few popular testing frameworks:
+
+- [Jasmine](https://jasmine.github.io/) - a great framework for learning testing, which we will use in Foundations     
+- [Mocha](https://mochajs.org/)     
+- [Jest Links to an external site.](https://facebook.github.io/jest/)- developed by Facebook and it is used with [React](https://reactjs.org/)     
+- [Tape](https://github.com/substack/tape) - known in the community for being minimal and simple    
+
+Testing frameworks use natural language constructs to express the desired behavior and outcome of a test. In the case of most commonly-used testing frameworks, which were developed by English speakers, using natural language constructs means using language that resembles English sentences. For example, here is one of the expectations we wrote for our multiply function:
+
+"We expect multiply to be a function."
+
+The following code is how the same expectation can be written using the Jasmine testing framework:
+
+![](https://lh7-us.googleusercontent.com/W_aj4GE1dNr8hnGRRuZoDJxbIp34zMSPvxpzGi34IHmek1nPJymufbh046e1nnaCSJdCzMHq31cWLS1NS6XfCCSZBk-wuzP7R9fDymtZJuWsL2aYg_FH--yM2x-UuPNfdis4H3wGIStHdEBgcvn24g)
+
+![](https://lh7-us.googleusercontent.com/sIqAJcp9CLFfNdQXuLvgreLkuAwMWC12x650dvuGxBmHF7SPVcWqyJpoeYJY5oI96oH73LwkAa10RgoE-127pBQnVG_K6MEtEKWTWQF39t3p9QwJf34eJZATMx1Fomuc6De950LvYU2KjMFMheUwSg)
+
+![](https://lh7-us.googleusercontent.com/8MvumcdimnR3SO1WtVJqA-AH4b5w2V3HkxzKjH1nJxaj5Cvy8ErNlDhhSEXf03hYqosqjBl4Znd0glS0DOEVeOeAXJjmY9OIwNuI9kk-eKYH2rdIl-QqFvweVxi9_g_pq3h0_YuV1KFaltGsi3zBAg)
+
+
+![](https://lh7-us.googleusercontent.com/0OTQxL_oL2XGqcj3WWqP8TquGeSb4bHBZXyZa5x8xbBAH0kRhrmoepvdauiv3mmLQft8ThKS-Ls9dIw8LJQAV9nQUH2Bjt2Cb7Uwo6zn_H1I8Lq9bfYpRxG562XRa62-gziIXbpMU0XTJ_-6WhwcsQ)
+
+![](https://lh7-us.googleusercontent.com/pN0BfAxoGBV90W-pzSXUsB6ObDo4oGIPGQ8AUR3SeVMYM31GK76qwWMdnbyoYKI9hj1GtwqF9lZbXY8gbATSchrMOMSh8v1pGfu6B5lujBGl0WrLKJJ8ZzH5Ss85JCjqgHML_ydGhajiznU_Zhe8QA)Link to CodePen: [Jasmine Spec Runner Example](https://codepen.io/FullstackAcademy/pen/BYwQaP/)  You can use this CodePen to experiment with causing the test specs to fail in different ways.**
+
+# Test Suites and Specs
+----
+
+A "unit test", also referred to as a spec, focuses on a small, meaningful chunk of code and determines if the code behaves as expected. If a spec fails, the output is displayed with red text. A passing spec has green text.
+
+Jasmine uses the [it](https://jasmine.github.io/api/2.6/global.html#it) function to indicate a single unit test and contains the expectations we create for our test.
+
+The following [Youtube VIDEO](https://www.youtube.com/watch?v=7M5tMII_aao) picks up where we left off from our "manual test specs" and demonstrates how to construct specs using the Jasmine Framework:
+
+The following code is a full unit test that evaluates a portion of our multiply function:
+
+![](https://lh7-us.googleusercontent.com/UsRe28EN2x8rNor3OllixmD_ENUNXFuowMRZr61WpElOEpksWEqyc9gGuvLn99UkPqrT-ikmLtn18Dho1i7hLPEG2Gj1cTkYAV_5zcIXOU_q2GDisOu3HP7R0NiIYuuEEjOnVCAL-wYC8P1h6tiS9A)
+
+A new matcher was used: [toBeDefined](https://jasmine.github.io/api/3.0/matchers.html#toBeDefined) 
+
+[Links to an external site.](https://jasmine.github.io/api/3.0/matchers.html#toBeDefined). It does exactly what you may expect. It will return true and "pass" the expectation if the variable (or function) multiply is defined, or it will return false and fail the test if multiply is undefined.
+
+We passed the it function two arguments. Both of these arguments are described in the Jasmine documentation: [Jasmine > Global Methods > it](https://jasmine.github.io/api/2.6/global.html#it) The two arguments are:
+
+- the description of the test spec (first argument, type: string)
+    
+- the function that executes the expectations (second argument, type:function)
+    
+
+In the example, we "expect" that multiply is defined and that it is a function. The initial string description passed to the it function is important, since it adds structure to our tests and makes it easier to locate and determine what is tested without reading the entire code base.
+
+It is important to note that each spec needs expectations. Without expectations, there is nothing to test. Expectations accept a value generated from the code we are testing and compare it using a matcher. The matcher contains the value we expect our code to produce. This is the value we pre-determine when writing our expectation.
+
+![](https://lh7-us.googleusercontent.com/CEyKrtOSbEFxe_UcZLc2J186sAMbf_RPVZWA1Jvj6mo5IoZCZ61DkFELrX144lXdXyhguuAtuxzPlXrZzCleksIgYzPJd4VGqpOhn1fnUWwGQOjSWofeZppjJdbaFnODpcsuxNT-T3HfAVRIrCXCgQ)
+
+![](https://lh7-us.googleusercontent.com/K2QN8RCzfvxaTSYx8UC2eUoC0USiMq0dCfP31PD1dcn9tx1dzEKyI4HcLrJcQsXrUF-ybFm9iBuMYP8TK6WMfaulUXqFatf_GBMyDjYi5b5SKtEtiK7KF-08ugRLANtmVnrQk0yb5KVKApOZywt8xQ)
+
+The reverseString function in the example below accepts a string argument and returns the string argument in reverse order. The test spec evaluates the return value of the reverseString function.
+
+Challenge: Review the following code. How would you adjust the reverseString function so it matches the expectation in the test spec?
+
+![](https://lh7-us.googleusercontent.com/OumPHdeY4SruWruQXs1nlOb3tkcRJpYJIWJufM3RfLskgh52VwSwC7vCqkPs8sGgIAXygtevgXRNDgYHfS-62a6McqoGsDoD8jge-2e56qIBPSN9zzGE7lAAxPJGpjKcloT_N9MVCv-uHoV7OjfCTw)
+
+
+![](https://lh7-us.googleusercontent.com/u4G3Q8zOYojEB-bb2X-G8Yt7mYV7af2vQeN5x4ntyw0SwPJ1Q3e_hYPcpuY_l2lNdCZUnvvy1I4i3A-OVXEHXfztpWKOGNsU4cAfEn_PMXxsIMNRinSMPfoLVl9uZHS8_jykPkFB_HYRR-bIS0GmfA)
+
+Link to exercise in CodePen: [reverse-exercise](https://codepen.io/FullstackAcademy/pen/XZegqq)
+
+![](https://lh7-us.googleusercontent.com/uDhE4ZgKt88gvLyNgZ7zAMDyd_uH2nni0kKvz30yxaIOqFBi3C0p4QsikMKOlrY5OD5nPDra9lckiJXBF89AF0JvsXz67SF7PaIoIkPDDXihDxGhQX37zJsBeXr5_IIHaO-9pmWbGVJchuinVqC0zg)
+
+Link to solution in CodePen: [reverse-solution](https://codepen.io/FullstackAcademy/pen/EQwvBV/)
+
+**

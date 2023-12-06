@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "92ebeb10e972fd9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TDD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f651dd77450e61d5",
             "type": "leaf",
             "state": {
@@ -201,16 +189,17 @@
   },
   "active": "dcca55d2ca28255c",
   "lastOpenFiles": [
+    "Git.md",
+    "TDD.md",
+    "Meta/Screen Shot 2023-12-05 at 11.04.10 PM.png",
     "Web Development.md",
     "HTML5.md",
-    "TDD.md",
     "Meta/Pasted image 20231205225710.png",
     "Meta/Pasted image 20231205225359.png",
     "jetbrains.com/help/webstorm/eslint.html.md",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
     "jetbrains.com",
-    "Git.md",
     "Learning/FSA/23 May 23.md",
     "Learning/FSA/Week 1/Servers and Databases.md",
     "Express.md",
@@ -240,7 +229,6 @@
     "Meta/Pasted image 20231116121925.png",
     "Meta/Pasted image 20231116120931.png",
     "Meta/Pasted image 20231116120913.png",
-    "Meta/Pasted image 20231116120845.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
