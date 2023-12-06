@@ -21,13 +21,43 @@ Two types of errors we will come across most frequently are:
   - *Type*
     - Something mismatched has been detected by the type checker
     
-## Ch 03 Unions and LiteralsReadin
+## Ch 03 Unions and Literals
+----
 
+- *Unions*
+  - Expanding  a value's allowed type to be two or more possible types
+- *Narrowing*
+  - Reducing a value's allowed type to *not* be one or more possible types
 
+TypeScript represents Union types using the | (pipe) operator between the possible values, or *constituents.*
 
+```TypeScript
+let mathematician = Math.random() > 0.5 ? undefined : "mark Goldberg";
 
+// let mathematician: string | undefined
+```
 
+```TypeScript
+// Declaring Union Types  
+  
+let thinker: string | null  = null;  
+  
+if (Math.random() > 0.5) {  
+    thinker = 'Susanne Langer'; // ok  
+}
+```
 
+Two types of Narrowing
+- Assignment Narrowing
+  - directly assign a value to a variable
+  ```TypeScript
+  let admiral: number | string;
+  admiral = "grace hopper";
+  admiral.toUpperCase(); // okay: string
+  admiral.toFix 
+   
+```
+- Conditional Checks
 
 # Udemy
 ----
