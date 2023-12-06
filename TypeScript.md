@@ -81,7 +81,15 @@ typeof researcher === 'string' ? researcher.toUpperCase() : researcher.toFixed()
 ----
 Programming languages that allow null values to be used in places that require a different type. 
 
+### Type Aliases
+```TypeScript
+let rawDataFirst: boolean | number | string | null | undefined;
+let rawDataSecond: boolean | number | string | null | undefined;
+let rawDataThird: boolean | number | string | null | undefined;
 
+// can be tiring to write the type repeatidly.  
+// we can use Type keywoard to create a container f
+```
 
 
 
