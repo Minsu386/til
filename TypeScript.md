@@ -2,6 +2,17 @@
 ----
 By: Josh Goldberg
 
+## Getting Started
+`npm i -g typescript`
+
+Now you are able to run TypeScript on the command line with **tsc** (TypeScript Compiler) command
+`tsc --version`
+
+### Running Locally
+----
+
+`tsc --init` in your project folder
+
 
 
 
