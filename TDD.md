@@ -36,9 +36,68 @@ Take a moment to review the code and image below, which are is preview of a test
 Function and test spec code:
 
 ```JavaScript
-/* Code to Test */const add = (x, y) => {  return x + y;};describe("add function", function() {  it("is a function", function() {expect(add).toBeDefined();expect(typeof add).toBe("function");  });  it("returns a number", function() {expect(typeof add(4, 5)).toBe("number");expect(typeof add(10, 20)).toBe("number");  });  it("returns the sum of two numbers", function() {expect(add(20, 40)).toBe(60);expect(add(50, 50)).toBe(100);  });});
+/* Code to Test */
+const add = (x, y) => {
+  return x + y;
+};
+describe("add function", function() {
+  it("is a function", function() {
+    expect(add).toBeDefined();
+    expect(typeof add).toBe("function");
+  });
+  
+it("returns a number", function() {
+  expect(typeof add(4, 5)).toBe("number");
+  expect(typeof add(10, 20)).toBe("number");
+});
+
+  it("returns the sum of two numbers", function() {
+    expect(add(20, 40)).toBe(60);
+    expect(add(50, 50)).toBe(100);
+  });
+});
 ```
 
 Image of the test suite running in CodePen:
+![](Meta/Pasted%20image%2020231205225710.png)
 
-![A screenshot of a CodePen environment with the screen divided into two halves. The left half of the screen shows a section labeled J-S, which contains the same code as the code block immediately proceeding this image. The right half of the screen shows a section labeled Result, which shows a graphical interface for the running test specs. The Result screen displays the logo for Jasmine (a testing tool) and an Options button. Below there are three green dots and a green bar containing the text, "3 specs, 0 failures, randomized with seed 57316. Finished in 0.034s." Beneath the green bar is the text, "add function". Following that are three indented lines of text: "is a function", "returns the sum of two numbers", "returns a number". These 4 lines of text on the right side of the screen match the strings that are the first arguments of the 'describe' and 'it' blocks from the test code on the left side of the screen.](https://fullstack.instructure.com/courses/523/files/235479/preview)
+
+
+# ID Expectations
+----
+[ID Expectations](https://youtu.be/88ilXhXDo6Y)
+
+What do you expect the following function `multiply` does?
+
+```
+const multiply = (x,y) => {  return x * y;}multiply(5,10);
+```
+
+Let us analyze how we expect our `multiply` function to behave.
+
+1. We expect `multiply` to return a number.
+2. When we invoke `multiply (5,10)`, we expect the value 50 to be returned.
+3. We expect `multiply` to be a function.
+4. We expect the `multiply` function is called with number arguments and not strings. `multiply('5', '10')`.
+
+Below is another example function. Read the code and make notes on what you expect it to do:
+
+```
+const reverseString = (str) => {  let reversedString = "";  for(let lastIndex = str.length -1; lastIndex >= 0; lastIndex--) {    reversedString += str[lastIndex];  }  return reversedString;}reverseString('StrangerThings');
+```
+<details> 
+  <summary>Hint: Expectations for reversestring</summary>
+- We expect `reverseString` to be a function.
+- We expect `reverseString` to return a string.
+- We expect `reverseString` ('StrangerThings') to return `'sgnihTregnartS'`.
+- We expect `reverseString` is called with a **string**
+</details>
+
+When you write tests, you can use expectations as your guide for what to test. Next, we will put together our first "manual" unit test using the `multiply` function as an example.
+
+# Manual Testing
+-----
+
+In the Identify Expectations section, we outlined expectations for a `multiply` function in simple English. How can we test our expectations of multiply using pure JavaScript? A comparison operator would be very useful for this task: [Expressions and Operators - JavaScript | MDNLinks to an external site.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators).
+
+Review the manual testing example code below:
