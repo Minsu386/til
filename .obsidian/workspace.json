@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Web Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Web Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Web Development.md"
               }
             }
           },
@@ -188,9 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f651dd77450e61d5",
+  "active": "dcca55d2ca28255c",
   "lastOpenFiles": [
+    "jetbrains.com/help/webstorm/eslint.html.md",
     "Web Development.md",
+    "jetbrains.com/help/webstorm",
+    "jetbrains.com/help",
+    "jetbrains.com",
     "Git.md",
     "HTML5.md",
     "Learning/FSA/23 May 23.md",
@@ -218,7 +221,6 @@
     "Meta/Pasted image 20231116120709.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "Meta/Pasted image 20231116122105.png",
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
@@ -235,9 +237,6 @@
     "CompTIA A+/Core 2/1.0 Operating System",
     "CompTIA A+/Core 2",
     "Book Review/Modern Software Engineering",
-    "Untitled",
-    "Book Review",
-    "AWS Solutions Architect",
     "AWS Region.canvas",
     "Meta/AWS Region.canvas"
   ]
