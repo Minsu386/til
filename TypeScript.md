@@ -13,6 +13,14 @@ Now you are able to run TypeScript on the command line with **tsc** (TypeScript 
 
 `tsc --init` in your project folder
 
+## CH 01
+### Kinds of Errors
+Two types of errors we will come across most frequently are:
+  - *Syntax*
+    - Blocking TypeScript from being converted to JavaScript
+  - *Type*
+    - Something mismatched has been detected by the type checker
+    
 
 
 
