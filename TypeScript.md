@@ -21,7 +21,9 @@ Two types of errors we will come across most frequently are:
   - *Type*
     - Something mismatched has been detected by the type checker
     
-###
+## Ch 03 Unions and LiteralsReadin
+
+
 
 
 
