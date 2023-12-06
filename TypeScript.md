@@ -54,11 +54,11 @@ Two types of Narrowing
   let admiral: number | string;
   admiral = "grace hopper";
   admiral.toUpperCase(); // okay: string
-  admiral.toFix 
+  admiral.toFixed(); // error property toFixed does not exist on type 'string' 
    
 ```
 - Conditional Checks
-
+  - Write an `if` statement checking the variable for being equal to a known value
 # Udemy
 ----
 [JavaScript](JavaScript.md)
