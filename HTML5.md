@@ -1,6 +1,17 @@
 # FSA Notes
 ----
+## ES6 Primer
+----
+Before ES2015, the traditional way to declare a variable was with the `var` keyword. Any variable declared with `var` was either scoped to the global scope of your program or function scoped. This means that everything in your program has access to the variable, or that variables declared in the function are only accessible within the function. ES2015 added a few new features to the language, including the `const` and `let` variables.
 
+We will dive into more details about `const` and `let` in later sections. For now, you should be aware that `const` and `let` can declare variables. The `let` keyword behaves most like the `var` keyword, with some differences.
+
+`let`
+
+`let` allows you to create a new variable. You can also reassign a new value to the variable declared with `let` (or `var`). For example, review the following code:
+```JavaScript
+
+```
 # Anatomy of an HTML document
 ----
 
