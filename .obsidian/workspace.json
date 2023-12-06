@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVIM.md",
+                "file": "HTML5.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NVIM.md",
+                "file": "HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NVIM.md",
+                "file": "HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NVIM.md"
+                "file": "HTML5.md"
               }
             }
           },
@@ -184,14 +185,17 @@
   },
   "active": "a3d1671c3f6609e3",
   "lastOpenFiles": [
+    "Web Development.md",
+    "Learning/FSA/23 May 23.md",
+    "Learning/FSA/Week 1/Servers and Databases.md",
+    "Express.md",
+    "NVIM.md",
     "Untitled.md",
     "HTML5.md",
     "CSS.md",
-    "NVIM.md",
     "TypeScript.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
-    "Web Development.md",
     "Udemy ProShop.md",
     "nvim KeyMaping.md",
     "Untitled.canvas",
@@ -210,9 +214,6 @@
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "JavaScript.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.3 Given a scenario implement workstation backup and recovery methods.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.1 Given a scenario implement best practices associated with documentation and support system information management.md",
     "Meta/Pasted image 20231116122105.png",
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
