@@ -190,3 +190,22 @@ Link to exercise in CodePen: [reverse-exercise](https://codepen.io/FullstackAcad
 Link to solution in CodePen: [reverse-solution](https://codepen.io/FullstackAcademy/pen/EQwvBV/)
 
 **
+
+![](https://lh7-us.googleusercontent.com/OVgtE-mX0YtvcmHskKEc9fMwY-_N53IVG4osXfmvesHeP8LdxyWXDdDeNyR-YILJrxo8pJhnpjKRM6RTpKmYU48dlBPB0p8W0w6Ud9NbYdb5qcDJEYW640pu-K361t0GVQnmGo0M7Jde-qU9OKHanQ)
+
+![](https://lh7-us.googleusercontent.com/NwvIlzS0BNb02Xsy-Q4A3TpL_Jz2J-uxEwqVIWnzIrDDXPgSqFWB6qxUV9kd-TyaY9oL6GRgIZgRBBCzf6PglB5ss1K-jHOCLSfLDMRFTa7KYo0KYVUI_HTj5BJ1OuEfpX3mOB55cFkiJEa8LkXTUA)
+
+  
+
+![](https://lh7-us.googleusercontent.com/D1ea3bFh3X_IzKUuRaLI01UqYf1Dtkqj80tiC09fYZu34EtcHDnWpVumFURdapwXg5J79OJMa90d2ivUZ8sJGHmhdSz6iW9ymyCkrw9V6P7aa-Yu5EjrBSp1IAOLz3Uih4FFnDhcWUSLJpfgKHJnmQ)
+
+Link to exercise in CodePen: [Multiply Test Specs](https://codepen.io/FullstackAcademy/pen/zREwxv) 
+
+The test suite created for the multiply function, will make locating the multiply functions test specs easier in the future, especially as our code base grows. Furthermore, spec-runners, the code that runs our test specs, can have additional functionality that allows us to run specific tests or groups of tests. Creating units and suites makes it possible to specify which specs to run and focus on.
+
+Challenge: Create the expectations for the remaining specs. Do not over think the expectations, you can use the previous examples and matchers to complete the specs.
+
+![](https://lh7-us.googleusercontent.com/bEWDiSurNLo35KXuTcL-nicSEe3rfK5AT4ARB8PR9bpGGac62Xaiic3DY5NlY056Os1WS43z379o_lMVZl1l9UCE66EmTHrkGS-SBBxTWNdDq7dOSSfxtnHWikSCxAJ6c3L55RIqpfDTL-G3jNWTwA)
+
+Link to solution in CodePen:  [multiply-solution](https://codepen.io/FullstackAcademy/pen/PQJKLQ/)**
+

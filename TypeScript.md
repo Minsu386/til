@@ -1,3 +1,15 @@
+# Learning TypeScript
+----
+By: Josh Goldberg
+
+
+
+
+
+
+
+# Udemy
+----
 [JavaScript](JavaScript.md)
 Interface - used to defined the structure of an object
 
