@@ -5,8 +5,8 @@ Knowledge Needed
 ## Machine Setup
 1. [[Git]] 
 2. [[Node, NPM]], [[NPX]]
-3. [ESLint for WebStorm](https://jetbrains.com/help/webstorm/eslint.html)  or [ESLink for VSC](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) [Video instruction]
-
+3. [ESLint for WebStorm](https://jetbrains.com/help/webstorm/eslint.html)  or [ESLink for VSC](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) [Video instruction](https://youtu.be/yuaCTEuQGPc)
+4. [Prettier VSC Extension]
 
 
 [React](React/React.md)
