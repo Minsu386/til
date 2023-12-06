@@ -88,7 +88,13 @@ let rawDataSecond: boolean | number | string | null | undefined;
 let rawDataThird: boolean | number | string | null | undefined;
 
 // can be tiring to write the type repeatidly.  
-// we can use Type keywoard to create a container f
+// we can use Type keywoard to create a container for the type.
+type RawData = boolean | number | string | null | undefined;
+
+let rawDataFirst: RawData;
+let rawDataSecond: RawData;
+let rawDataThird: RawData;
+
 ```
 
 
