@@ -59,6 +59,30 @@ Two types of Narrowing
 ```
 - Conditional Checks
   - Write an `if` statement checking the variable for being equal to a known value
+  ```TypeScript
+  // Narrowing - Conditional *Typeof Checks  
+  
+let researcher = Math.random() > 0.5 ? 'Rosalind Franklin' : 51;  
+if (typeof researcher === 'string') {  
+    researcher.toUpperCase(); // ok: string  
+}  
+if(!(typeof researcher === 'string')) {  
+    researcher.toFixed(); // ok: number  
+} else {  
+    researcher.toUpperCase(); // okay: string  
+}  
+  
+// can be rewritten with a ternary statement  
+typeof researcher === 'string' ? researcher.toUpperCase() : researcher.toFixed();
+```
+
+
+
+
+
+
+
+
 # Udemy
 ----
 [JavaScript](JavaScript.md)
