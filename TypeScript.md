@@ -77,7 +77,9 @@ typeof researcher === 'string' ? researcher.toUpperCase() : researcher.toFixed()
 ```
 
 
-
+### Billion-Dollar-Mistake
+----
+Programming languages that allow null values to be used in places that require a different type. 
 
 
 
