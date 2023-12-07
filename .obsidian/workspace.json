@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refractor to react.md",
+                "file": "What is Zettelkasten.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refractor to react.md",
+                "file": "What is Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refractor to react.md",
+                "file": "What is Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refractor to react.md"
+                "file": "What is Zettelkasten.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   },
   "active": "a3d1671c3f6609e3",
   "lastOpenFiles": [
+    "Technical Journal.md",
+    "Refractor to react.md",
     "PopOS.md",
     "Morning Routing Dr. Andrew Huberman.md",
     "TypeScript.md",
@@ -217,8 +219,6 @@
     "Parcel.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "Meta/Pasted image 20231116120709.png",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
     "Meta/Pasted image 20231116122105.png",
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
