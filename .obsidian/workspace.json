@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
+                "file": "Refractor to react.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web dev",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
+                "file": "Refractor to react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
+                "file": "Refractor to react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript.md"
+                "file": "Refractor to react.md"
               }
             }
           },
@@ -179,12 +179,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "a3d1671c3f6609e3",
   "lastOpenFiles": [
+    "PopOS.md",
+    "Morning Routing Dr. Andrew Huberman.md",
+    "TypeScript.md",
     "NVIM.md",
     "jetbrains.com/help/webstorm/eslint.html.md",
     "jetbrains.com/help/webstorm",
@@ -199,7 +201,6 @@
     "Untitled.md",
     "HTML5.md",
     "CSS.md",
-    "TypeScript.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
     "Web Development.md",
@@ -212,14 +213,12 @@
     "Frontend.md",
     "React/React.md",
     "Linux Dev Environment.md",
-    "PopOS.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
     "Parcel.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "Meta/Pasted image 20231116120709.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "Meta/Pasted image 20231116122105.png",
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
