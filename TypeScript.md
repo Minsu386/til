@@ -243,3 +243,42 @@ You can read about this in the official docs here:
 [https://developers.google.com/maps/documentation/javascript/using-typescript#Module_Import](https://developers.google.com/maps/documentation/javascript/using-typescript#Module_Import)
 
 [[Parcel]]
+# Udemy Portfolio Typescript
+----
+## ReactDOM warning with reactV18
+-----
+In the upcoming lecture, we will be adding code to our index.tsx file and running a test in our browser. You will likely see the following warning:
+
+_react-dom.development.js:86 Warning: ReactDOM.render is no longer supported in React 18. Use createRoot instead. Until you switch to the new API, your app will behave as if it's running React 17._
+
+You are free to ignore this warning, or, you may choose to update to use createRoot:
+
+  
+
+1. // 1) Import ReactDOM library
+2. import ReactDOM from "react-dom/client";
+
+4. // 2) Get a reference to the div with ID root
+5. const el = document.getElementById("root");
+
+7. // 3) Tell React to take control of that element
+8. const root = ReactDOM.createRoot(el!);
+
+10. // 4) Create a component
+11. const App = () => {
+12.   return (
+13.     <div>
+14.       <h1>Hi there!</h1>
+15.     </div>
+16.   );
+17. };
+
+19. // 5) Show the component on the screen
+20. root.render(<App />);
+
+  
+
+**Important** - Due to a bug in the DefinitelyTyped ReactDOM definitions, you need to add the `**!**` operator here:
+
+`const root = ReactDOM.createRoot(**el!**);`
+

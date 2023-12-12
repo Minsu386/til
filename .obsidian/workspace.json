@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcel.md",
+                "file": "TypeScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcel.md",
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcel.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcel.md"
+                "file": "TypeScript.md"
               }
             }
           },
@@ -197,6 +197,8 @@
   },
   "active": "fd28aca996491e4a",
   "lastOpenFiles": [
+    "Udemy ProShop.md",
+    "Parcel.md",
     "TypeScript.md",
     "NVIM.md",
     "jetbrains.com/help/webstorm/eslint.html.md",
@@ -215,7 +217,6 @@
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
     "Web Development.md",
-    "Udemy ProShop.md",
     "nvim KeyMaping.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -226,7 +227,6 @@
     "Linux Dev Environment.md",
     "PopOS.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
-    "Parcel.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "Meta/Pasted image 20231116120709.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
