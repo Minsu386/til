@@ -325,3 +325,4 @@ there are other events besides change that we handle in react. Such as hover, dr
 ![TypeScript Redux Store](Excalidraw/TypeScript%20Redux%20Store.md)
 
 Step 1 - Reducer setup
+  [[what is  enum?]]
