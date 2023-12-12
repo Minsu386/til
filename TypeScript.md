@@ -320,5 +320,8 @@ there are other events besides change that we handle in react. Such as hover, dr
 ![](Meta/Pasted%20image%2020231212104258.png)
 # Udemy NPM Package Search
 ----
+## Redux side of our project
+----
 ![TypeScript Redux Store](Excalidraw/TypeScript%20Redux%20Store.md)
 
+Step 1 - Reducer setup
