@@ -282,3 +282,34 @@ You are free to ignore this warning, or, you may choose to update to use createR
 
 `const root = ReactDOM.createRoot(**el!**);`
 
+
+
+## Standalone event handlers
+----
+when using typescript
+```TypeScript
+<div>
+  <input onChange={onChange} />
+</div>
+```
+
+we receive no typescript error. This is because inline is inferred. if we hover over onchange we recieve this information
+```
+(JSX Attribute)
+React.InputHTMLAttributes<HTMLInputElement>.onChange((event: React.ChangeEvent<HTMLInputElement>) => void) | undefined
+
+```
+
+if we wnated to use this on a 
+```TypeScript
+const onChange = (event) => {
+  console.log(event)
+}
+```
+
+we woul dneed to add
+```TypeScript
+const onChange = (event) => {
+  console.log(event)
+}
+```
