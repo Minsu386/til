@@ -300,16 +300,18 @@ React.InputHTMLAttributes<HTMLInputElement>.onChange((event: React.ChangeEvent<H
 
 ```
 
-if we wnated to use this on a 
+if we wanted to use this on a 
 ```TypeScript
 const onChange = (event) => {
   console.log(event)
 }
 ```
 
-we woul dneed to add
+we would need to add
 ```TypeScript
-const onChange = (event) => {
+const onChange = (event: React.ChangeEvent<HTMLInputElement>) => {
   console.log(event)
 }
 ```
+
+there are other events besides change that we handle in react. Such as hover, dragged etc...
