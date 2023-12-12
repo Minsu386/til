@@ -38,6 +38,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99de60bfa23fad74",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/TypeScript Redux Store.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -181,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +206,10 @@
   },
   "active": "fd28aca996491e4a",
   "lastOpenFiles": [
+    "Excalidraw/TypeScript Redux Store.md",
+    "TypeScript.md",
     "Udemy ProShop.md",
     "Parcel.md",
-    "TypeScript.md",
     "NVIM.md",
     "jetbrains.com/help/webstorm/eslint.html.md",
     "jetbrains.com/help/webstorm",
@@ -231,7 +241,6 @@
     "Meta/Pasted image 20231116120709.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.6 Explain the importance of prohibited content and activity and privacy, licensing, and policy concepts.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.4 & 4.5 Use common Safety Procedures & Summarize Env Impacts and local env controls.md",
     "Meta/Pasted image 20231116122105.png",
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
