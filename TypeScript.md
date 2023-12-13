@@ -326,3 +326,11 @@ there are other events besides change that we handle in react. Such as hover, dr
 
 Step 1 - Reducer setup
   [[what is  enum?]]
+1. } catch (err) {
+2. if (err instanceof Error) {
+3. dispatch({
+4. type: ActionType.SEARCH_REPOSITORIES_ERROR,
+5. payload: err.message,
+6. });
+7. }
+8. }
