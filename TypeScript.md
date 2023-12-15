@@ -229,6 +229,51 @@ const poemMismatch: Poem = {
 #### Overview
 - Object Type properties in TypeScript can be designated as optional using the `?` syntax. 
 - Optional properties allow flexibility in object structures, permitting their absence in declared variables. 
+#### Example:
+```Typescript
+type Book = {
+  author?: string;
+  pages: number;
+};
+
+// Ok
+const ok: Book = {
+    author: "Rita Dove",
+    pages: 80,
+};
+
+const missing: Book = {
+    author: "Rita Dove",
+};
+// Error: Property 'pages' is missing in type
+// '{ author: string; }' but required in type 'Book'.
+
+```
+
+#### Difference from Type Union with Undefined
+- Optional properties, marked with `?`, are allowed to not exist in objects.
+- A property with a type union that includes `undefined` must exist, even if its value is `undefined`
+#### Example:
+```Typescript
+type Writers = {
+  author: string | undefined;
+  editor?: string;
+};
+
+// Ok: author is provided as undefined
+const hasRequired: Writers = {
+  author: undefined,
+};
+
+const missingRequired: Writers = {};
+// Error: Property 'author' is missing in type
+// '{}' but required in type 'Writers'.
+
+```
+
+
+
+
 
 
 
