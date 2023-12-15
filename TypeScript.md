@@ -99,11 +99,73 @@ let rawDataThird: RawData;
 
 ## Ch04 Objects
 ----
+### Excess Property Checking
+----
+#### Overview
 
+- TypeScript employs excess property checking to ensure that variables declared with object types have only the expected fields.
+- If an object literal contains more fields than its specified type, TypeScript raises a type error.
 
+#### Example:
+```Typescript
+type Poet = {
+  born: number;
+  name: string;
+}
+
+// Ok: all fields match what's expected in Poet
+const poetMatch: Poet = {
+  born: 1928,
+  name: "Maya Angelou"
+};
+
+const extraProperty: Poet = {
+  activity: "walking",
+  born: 1935,
+  name: "Mary Oliver",
+};
+// Error: Type '{ activity: string; born: number; name: string; }'
+// is not assignable to type 'Poet',
+// Object literal may only specify known properties,
+// and activity does not exist in type 'Poet'
+```
+#### Important Points
+
+- Excess property checks trigger for object literals created in locations declared to be of an object type.
+- Providing an existing object literal bypasses excess property checks if the structure matches the specified type.
+
+##### Example:
+
+```typescript
+const existingObject = {
+    activity: "walking",
+    born: 1935,
+    name: "Mary Oliver",
+};
+
+const extraPropertyButOk: Poet = existingObject; // Ok
+```
+
+#### Use Cases
+
+- Excess property checks apply when creating new objects in locations expecting them to match an object type (e.g., array members, class fields, and function parameters).
+
+#### Benefits
+
+- Banning excess properties enhances code cleanliness and ensures code behaves as expected.
+- Detects mistyped property names or unused code.
+
+Understanding excess property checking is crucial for writing robust and error-free TypeScript code. It contributes to code quality by preventing potential issues related to unexpected properties in object literals.
 
 
 ----
+
+### Nested Object Type
+----
+
+
+
+
 
 # Udemy
 ----
