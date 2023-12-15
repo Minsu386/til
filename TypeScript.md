@@ -162,8 +162,73 @@ Understanding excess property checking is crucial for writing robust and error-f
 
 ### Nested Object Type
 ----
+#### Overview
+- TypeScript supports representing nested object types within the type system, allowing for complex structures of objects
+#### Example:
+```Typescript
+type Poem = {
+    author: {
+        firstName: string;
+        lastName: string;
+    };
+    name: string;
+};
 
+// Ok
+const poemMatch: Poem = {
+    author: {
+        firstName: "Sylvia",
+        lastName: "Plath",
+    },
+    name: "Lady Lazarus",
+};
 
+const poemMismatch: Poem = {
+    author: {
+        name: "Sylvia Plath",
+    },
+    // Error: Type '{ name: string; }' is not assignable
+    // to type '{ firstName: string; lastName: string; }'.
+    //   Object literal may only specify known properties, and 'name'
+    //   does not exist in type '{ firstName: string; lastName: string; }'.
+    name: "Tulips",
+};
+
+```
+
+#### Nested Types Aliasing
+- to enhance code readability and provide informative error messages, nested types can be extracted into their own aliases. 
+- In the example, the `Author` type is created to represent the structure of the `author` property. 
+#### Example
+```typescript
+type Author = {
+    firstName: string;
+    lastName: string;
+};
+
+type Poem = {
+    author: Author;
+    name: string;
+};
+
+const poemMismatch: Poem = {
+    author: {
+        name: "Sylvia Plath",
+    },
+    // Error: Type '{ name: string; }' is not assignable to type 'Author'.
+    //     Object literal may only specify known properties,
+    //     and 'name' does not exist in type 'Author'.
+    name: "Tulips",
+};
+
+```
+#### Tip
+- It's recommended to move nested object types into their own type aliases for both code readability and clearer TypeScript error messages.
+
+### Optional Properties
+#### Overview
+- Object Type properties in TypeScript can be designated as optional using the `?` syntax. 
+- Optional properties allow flexibility in object structures, permitting their absence in declared variables. 
 
 
 
