@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
+                "file": "Frameworks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "819bf81097a38ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NextJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
+                "file": "NextJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
+                "file": "NextJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript.md"
+                "file": "NextJS.md"
               }
             }
           },
@@ -202,10 +214,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3d1671c3f6609e3",
+  "active": "819bf81097a38ce2",
   "lastOpenFiles": [
-    "Excalidraw/TypeScript Redux Store.md",
+    "Frameworks.md",
+    "NextJS.md",
+    "React/React.md",
+    "Web Development.md",
+    "HTML5.md",
     "TypeScript.md",
+    "Refractor to react.md",
+    "README.md",
+    "React misc.md",
+    "JavaScript.md",
+    "Backend.md",
+    "Daily Journal/01 Aug 23.md",
+    "CompTIA A+/1.1 Course Intro.md",
+    "Excalidraw/TypeScript Redux Store.md",
     "Meta/Pasted image 20231212104258.png",
     "Udemy ProShop.md",
     "Parcel.md",
@@ -221,24 +245,13 @@
     "Git.md",
     "Express.md",
     "Untitled.md",
-    "HTML5.md",
     "CSS.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
-    "Web Development.md",
     "nvim KeyMaping.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Frontend.md",
-    "React/React.md",
-    "Linux Dev Environment.md",
-    "PopOS.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.9 Given a scenario use remote access technologies.md",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
     "Meta/Pasted image 20231116120709.png",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.7 Given a scenario, use proper communication techniques and professionalism.md",
     "Meta/Pasted image 20231116122105.png",
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
