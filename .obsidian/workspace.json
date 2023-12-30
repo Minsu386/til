@@ -40,6 +40,16 @@
             }
           },
           {
+            "id": "f410634772a8d778",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "fd28aca996491e4a",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +224,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "819bf81097a38ce2",
+  "active": "f410634772a8d778",
   "lastOpenFiles": [
     "Frameworks.md",
     "NextJS.md",
