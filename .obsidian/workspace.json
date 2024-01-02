@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -226,7 +227,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f410634772a8d778",
+  "active": "051d88004b3120d1",
   "lastOpenFiles": [
     "React/React.md",
     "Web Development.md",
