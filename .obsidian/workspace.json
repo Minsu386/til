@@ -43,9 +43,11 @@
             "id": "f410634772a8d778",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -99,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web dev",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NextJS.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NextJS.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJS.md"
+                "file": "Git.md"
               }
             }
           },
@@ -226,10 +228,12 @@
   },
   "active": "f410634772a8d778",
   "lastOpenFiles": [
+    "Web Development.md",
+    "Daily Journal/01 Aug 23.md",
+    "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
     "Frameworks.md",
     "NextJS.md",
     "React/React.md",
-    "Web Development.md",
     "HTML5.md",
     "TypeScript.md",
     "Refractor to react.md",
@@ -237,7 +241,6 @@
     "React misc.md",
     "JavaScript.md",
     "Backend.md",
-    "Daily Journal/01 Aug 23.md",
     "CompTIA A+/1.1 Course Intro.md",
     "Excalidraw/TypeScript Redux Store.md",
     "Meta/Pasted image 20231212104258.png",
@@ -258,7 +261,6 @@
     "CSS.md",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/3.5 Given a scenario trouble common mobile OS and application security issues.md",
     "CompTIA A+/Core 2/2.0 Security/2.6 Given a scenario configure a workstation to meet best practices for security.md",
-    "nvim KeyMaping.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Meta/Pasted image 20231116120709.png",
