@@ -21,6 +21,6 @@ fetch variable Async thunk
 
 
 
-
+[NextJS](NextJS.md)
 [[Frameworks]]
 [Backend](Backend.md) [Frontend](Frontend)

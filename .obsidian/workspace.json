@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "NextJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "NextJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "NextJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "NextJS.md"
               }
             }
           },
@@ -228,12 +228,13 @@
   },
   "active": "f410634772a8d778",
   "lastOpenFiles": [
+    "React/React.md",
     "Web Development.md",
+    "Git.md",
     "Daily Journal/01 Aug 23.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
     "Frameworks.md",
     "NextJS.md",
-    "React/React.md",
     "HTML5.md",
     "TypeScript.md",
     "Refractor to react.md",
@@ -255,7 +256,6 @@
     "Meta/Screen Shot 2023-12-05 at 11.04.10 PM.png",
     "Meta/Pasted image 20231205225710.png",
     "Meta/Pasted image 20231205225359.png",
-    "Git.md",
     "Express.md",
     "Untitled.md",
     "CSS.md",
