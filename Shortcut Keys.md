@@ -6,6 +6,8 @@
 `Ctrl+k+w` close all tabs
 ctrl+` : Open terminal 
 `ctrl+shift+e` toggle explorer / editor
+`ctrl+shift+l` while highlighting a word to select all occurrence
+`ctrl+d` while highlighting a word to select next occurrence 1x1
 
 # Backlink
 ----
