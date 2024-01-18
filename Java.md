@@ -33,5 +33,9 @@ Syntax:  An object, a dot, the method name, and a pair of parentheses
 
 After every statement, you must place a semicolon at the end of the line 
 
+You can use the shortcut `sout` to type quickly the println statement
+
+
+
 # Backlinks
 ----
