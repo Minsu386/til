@@ -64,6 +64,30 @@
             }
           },
           {
+            "id": "47f1e6017839289c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8a4d1873102e0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Review/Modern Software Engineering/Unorganized.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fd28aca996491e4a",
             "type": "leaf",
             "state": {
@@ -84,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shortcut Keys.md",
+                "file": "Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shortcut Keys.md",
+                "file": "Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shortcut Keys.md"
+                "file": "Java.md"
               }
             }
           },
@@ -238,10 +262,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f773b022769d4ad5",
+  "active": "47f1e6017839289c",
   "lastOpenFiles": [
-    "Visual Studio Code.md",
+    "Book Review/Modern Software Engineering/Unorganized.md",
+    "Java.md",
+    "TypeScript.md",
+    "JavaScript.md",
+    "Frontend.md",
     "Shortcut Keys.md",
+    "Visual Studio Code.md",
     "Web Development.md",
     "Sequelize.md",
     "React/React.md",
@@ -251,11 +280,9 @@
     "Frameworks.md",
     "NextJS.md",
     "HTML5.md",
-    "TypeScript.md",
     "Refractor to react.md",
     "README.md",
     "React misc.md",
-    "JavaScript.md",
     "Backend.md",
     "CompTIA A+/1.1 Course Intro.md",
     "Excalidraw/TypeScript Redux Store.md",
@@ -267,12 +294,9 @@
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
     "jetbrains.com",
-    "TDD.md",
     "Meta/Screen Shot 2023-12-05 at 11.04.10 PM.png",
     "Meta/Pasted image 20231205225710.png",
     "Meta/Pasted image 20231205225359.png",
-    "Express.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Meta/Pasted image 20231116120709.png",
