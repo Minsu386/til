@@ -31,6 +31,7 @@ actions performed by objects are called **methods**
 Syntax:  An object, a dot, the method name, and a pair of parentheses
 `System.out.println("This is an argument)`
 
+After every statement, you must place a semicolon at the end of the line 
 
 # Backlinks
 ----
