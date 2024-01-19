@@ -35,7 +35,13 @@ After every statement, you must place a semicolon at the end of the line
 
 You can use the shortcut `sout` to type quickly the println statement
 
+## Variables
 
+Form: TYPE NAME;
+String FirstName;
+
+statement is declaration.  Declares that the variable named **FirstName** has the type string
+[[Java Types]]
 
 # Backlinks
 ----

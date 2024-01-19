@@ -69,7 +69,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shortcut Keys.md",
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "019e1c5be2b14e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shortcut Keys.md",
+                "file": "Java Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shortcut Keys.md",
+                "file": "Java Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shortcut Keys.md"
+                "file": "Java Types.md"
               }
             }
           },
@@ -262,14 +274,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47f1e6017839289c",
+  "active": "019e1c5be2b14e59",
   "lastOpenFiles": [
-    "JavaScript.md",
     "Java.md",
+    "Java Types.md",
+    "Shortcut Keys.md",
+    "JavaScript.md",
     "Book Review/Modern Software Engineering/Unorganized.md",
     "TypeScript.md",
     "Frontend.md",
-    "Shortcut Keys.md",
     "Visual Studio Code.md",
     "Web Development.md",
     "Sequelize.md",
@@ -290,7 +303,6 @@
     "Udemy ProShop.md",
     "Parcel.md",
     "NVIM.md",
-    "jetbrains.com/help/webstorm/eslint.html.md",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
     "jetbrains.com",
