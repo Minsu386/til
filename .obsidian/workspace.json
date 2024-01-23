@@ -100,6 +100,18 @@
             }
           },
           {
+            "id": "133c8efc2a1d2aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certifications/MD-102 Endpoint Admin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f8a4d1873102e0bd",
             "type": "leaf",
             "state": {
@@ -132,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD-102.md",
+                "file": "Certifications/MD-102 Endpoint Admin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MD-102.md",
+                "file": "Certifications/MD-102 Endpoint Admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD-102.md"
+                "file": "Certifications/MD-102 Endpoint Admin.md"
               }
             }
           },
@@ -286,10 +298,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "468f4713bae0e7ef",
+  "active": "133c8efc2a1d2aec",
   "lastOpenFiles": [
-    "Java.md",
     "MD-102.md",
+    "Certifications/MD-102 Endpoint Admin.md",
+    "Certifications",
+    "Java.md",
     "Java Types.md",
     "Shortcut Keys.md",
     "JavaScript.md",
@@ -314,7 +328,6 @@
     "Excalidraw/TypeScript Redux Store.md",
     "Meta/Pasted image 20231212104258.png",
     "Udemy ProShop.md",
-    "Parcel.md",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
     "jetbrains.com",
@@ -335,7 +348,6 @@
     "CompTIA A+/Core 2/2.0 Security",
     "CompTIA A+/Core 2/1.0 Operating System",
     "CompTIA A+/Core 2",
-    "Book Review/Modern Software Engineering",
     "AWS Region.canvas",
     "Meta/AWS Region.canvas"
   ]
