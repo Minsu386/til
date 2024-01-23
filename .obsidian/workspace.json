@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Types.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Types.md",
+                "file": "Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Types.md",
+                "file": "Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Types.md"
+                "file": "Java.md"
               }
             }
           },
@@ -276,8 +276,8 @@
   },
   "active": "019e1c5be2b14e59",
   "lastOpenFiles": [
-    "Java.md",
     "Java Types.md",
+    "Java.md",
     "Shortcut Keys.md",
     "JavaScript.md",
     "Book Review/Modern Software Engineering/Unorganized.md",

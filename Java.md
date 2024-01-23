@@ -43,5 +43,7 @@ String FirstName;
 statement is declaration.  Declares that the variable named **FirstName** has the type string
 [[Java Types]]
 
+
+
 # Backlinks
 ----
