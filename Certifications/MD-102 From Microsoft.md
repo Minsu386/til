@@ -14,3 +14,13 @@
 **Upgrade and Retire**: Replacing devices, retiring obsolete hardware, or unenrolling a device from the org
 
 ## Planning and Purchasing
+
+**Planning Stage**:
+- **Computer strategy**: Policies such as image and hardware standardization, environment design, replacement frequency, mobile device vs desktop usage, and BYOD policies
+- **Computer Selection**: Choosing hardware, software, and peripherals. Includes design config and app compatibility testing
+- **Deployment Methods**: Different deployment methods have different cost that support that method. Can choose multiple types of deployments methods to accommodate different scenarios. 
+- **Demand forecasting**: Predicting future computing resource requirements to determine the resources it needs to purchase
+- **Design config**: Which new features you use and how to incorporate them into the overall plan. 
+
+**Purchasing Stage**
+- 
