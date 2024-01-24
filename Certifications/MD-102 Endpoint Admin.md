@@ -15,4 +15,7 @@ On-Prem Solution
 - The Microsoft System Center Configuration Manager  (SCCM) - is a management tool that helps orgs efficiently deploy and manage software apps, updates, and OS across their network
 
 Cloud-Solutions
-- Windows Auto
+- Windows Autopilot - a collection of capabilities to deploy Win PCs
+- Subscription Activation - allows orgs to install new ver of Win by changing SKUs
+- Azure AD with Mobile Device Management - users can log into the PC with an organizationally-provisioned Azure AD. The device will be automatically enrolled into the Microsoft Intune MDM solution. All post-installation tasks are deployed, configured and controlled through centralized policies. 
+
