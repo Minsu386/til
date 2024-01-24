@@ -28,3 +28,7 @@
 - **Accessories**: cables, psu, keyboard , mice, bags, docking, secure-access cards
 - **Deployment Process**: chosen deployment method will directly affect the overall deployment cost. additional cost - storage requirements of file servers, and hard disk drives, Flash drives, bandwidth
 - **Hardware Staging**: securely and adequately storing, unpacking, inspecting, and inventorying the system. 
+
+## Desktop Deployment
+----
+
