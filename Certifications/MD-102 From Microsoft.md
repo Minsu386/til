@@ -40,3 +40,8 @@ Allows you to improve efficiencies when developing a strategy for abase OS confi
 - **Developing deployment process**: Traditional you might create a baseline OS image. Using newer features such as Windows Autopilot might involve creating a base device configuration
 - **testing**: VM to simulate deployment and validate configurations quickly and effectively; the testing plan should include physical devices to test before deployment
 - **Configuration**: This step includes developing an automation solution, testing and config standardized images or device config, accounting for IT labor to config computers, and planning for network access configuration
+- **Managing the logistics**: Storing Computers, deploying and setting up physical hardware, communicating to end users.  Also includes providing the HW vendor w/ configuration requirements to be done by the vendor before shipping the device to the organization
+
+### Deployment
+
+Usually takes place in phases throughout the networking environment. Use the early phases to validate scenarios such as device configuration profiles, image configurations, end-user experience, application deployment success, and so forth. 
