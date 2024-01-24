@@ -37,4 +37,6 @@ Critical phase Building & Deploying
 ### Building
 Allows you to improve efficiencies when developing a strategy for abase OS config. Key steps include
 - **Streamlining Deployment Process**: developing automated solution and procedures that you can use for deployment 
-- **Developing **
+- **Developing deployment process**: Traditional you might create a baseline OS image. Using newer features such as Windows Autopilot might involve creating a base device configuration
+- **testing**: VM to simulate deployment and validate configurations quickly and effectively; the testing plan should include physical devices to test before deployment
+- **Configuration**: This step includes developing an automation solution, testing and config standardized images or device config, accounting for IT labor to config computers, and planning for network access configuration
