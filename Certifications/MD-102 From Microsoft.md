@@ -32,3 +32,9 @@
 ## Desktop Deployment
 ----
 
+Critical phase Building & Deploying
+
+### Building
+Allows you to improve efficiencies when developing a strategy for abase OS config. Key steps include
+- **Streamlining Deployment Process**: developing automated solution and procedures that you can use for deployment 
+- **Developing **
