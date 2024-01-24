@@ -22,5 +22,9 @@
 - **Demand forecasting**: Predicting future computing resource requirements to determine the resources it needs to purchase
 - **Design config**: Which new features you use and how to incorporate them into the overall plan. 
 
-**Purchasing Stage**
-- 
+**Purchasing Stage** - includes negotiation, contracts, vendor management, shipping, and disposal of packaging material
+- **Hardware**: Typically represents ~ 1/2 the cost in the purchase phase of the computer life cycle
+- **Software**: productivity apps, antivirus software, and communication tools
+- **Accessories**: cables, psu, keyboard , mice, bags, docking, secure-access cards
+- **Deployment Process**: chosen deployment method will directly affect the overall deployment cost. additional cost - storage requirements of file servers, and hard disk drives, Flash drives, bandwidth
+- **Hardware Staging**: securely and adequately storing, unpacking, inspecting, and inventorying the system. 
