@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/MD-102 Endpoint Admin.md",
+                "file": "Certifications/MD-102 From Microsoft.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certifications/MD-102 Endpoint Admin.md",
+                "file": "Certifications/MD-102 From Microsoft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certifications/MD-102 Endpoint Admin.md",
+                "file": "Certifications/MD-102 From Microsoft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certifications/MD-102 Endpoint Admin.md"
+                "file": "Certifications/MD-102 From Microsoft.md"
               }
             }
           },
@@ -300,8 +300,10 @@
   },
   "active": "133c8efc2a1d2aec",
   "lastOpenFiles": [
-    "MD-102.md",
+    "Meta/Pasted image 20240123211043.png",
     "Certifications/MD-102 Endpoint Admin.md",
+    "Certifications/MD-102 From Microsoft.md",
+    "MD-102.md",
     "Certifications",
     "Java.md",
     "Java Types.md",
@@ -325,9 +327,7 @@
     "React misc.md",
     "Backend.md",
     "CompTIA A+/1.1 Course Intro.md",
-    "Excalidraw/TypeScript Redux Store.md",
     "Meta/Pasted image 20231212104258.png",
-    "Udemy ProShop.md",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
     "jetbrains.com",
