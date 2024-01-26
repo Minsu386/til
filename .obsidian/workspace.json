@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Dev Environment.md",
+                "file": "Certifications/MD-102 From Microsoft.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "popos",
+                "query": "md-102",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,12 +190,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Dev Environment.md",
+                "file": "Certifications/MD-102 From Microsoft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Dev Environment.md",
+                "file": "Certifications/MD-102 From Microsoft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Dev Environment.md"
+                "file": "Certifications/MD-102 From Microsoft.md"
               }
             }
           },
@@ -286,7 +286,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,10 +300,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "133c8efc2a1d2aec",
+  "active": "41d5bdf60bf5ef0e",
   "lastOpenFiles": [
-    "PopOS.md",
     "Linux Dev Environment.md",
+    "PopOS.md",
     "Meta/Pasted image 20240123211043.png",
     "Certifications/MD-102 Endpoint Admin.md",
     "Certifications/MD-102 From Microsoft.md",
