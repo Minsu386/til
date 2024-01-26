@@ -73,7 +73,7 @@ Recommend Azure Virtual Desktop w/ MSIX app watch.
 
 ### App Life-cycle Support
 ----
-- Deploying New App: Test new app for comptibility issues w/ existing app
+- Deploying New App: Test new app for compatibility issues w/ existing app
 - Installing new version of existing app: Ver upgrades are usually significantly more complex than updates, and comprehensive planning and testing are paramount. This is to ensure that the upgrade release occurs appropriately
 - Updating applications: Updates are far more frequent and require less testing than version upgrades
 
