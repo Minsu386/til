@@ -45,3 +45,14 @@ Allows you to improve efficiencies when developing a strategy for abase OS confi
 ### Deployment
 
 Usually takes place in phases throughout the networking environment. Use the early phases to validate scenarios such as device configuration profiles, image configurations, end-user experience, application deployment success, and so forth. 
+
+### Data Migration
+----
+
+Some best practices
+- Migrate Essential Data to cloud using tools such as "Known Folder Move" (KFM)...One drive selecting folder to keep up to date with backup to the cloud ( Desktop , Documents, Photos etc)
+- Use in-place upgrades
+- User State Migration Tool - USMT 10.0 - Captures user accounts, user files, os settings, and application settings and migrates them to a new Win installation. can use for PC replacement and PC refresh migrations.
+
+## Plan App Deployment
+----
