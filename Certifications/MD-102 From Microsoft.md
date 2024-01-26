@@ -79,3 +79,5 @@ Recommend Azure Virtual Desktop w/ MSIX app watch.
 
 ### Application Delivery
 ----
+auto - during deployment, based on user grp membership,  
+On demand - through a portal
