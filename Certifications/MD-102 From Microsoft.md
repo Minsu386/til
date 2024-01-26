@@ -56,3 +56,16 @@ Some best practices
 
 ## Plan App Deployment
 ----
+Consist of three phases
+1) Managing Application inventory & compatibility
+2) Packaging applications.
+3) providing life-cycle support
+
+### Application Inventory and Compatibility
+----
+Gathering inventory of application is first step in understanding the fx of app compatibility changes in your environment
+Tools to perform asset inventories such as **Intune**
+
+### App Packaging
+---
+Creating automated installation involve using silent installation commands from vendor.  If silent installation is not available such as inhouse developed software, you can 
