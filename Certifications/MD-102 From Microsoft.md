@@ -81,3 +81,7 @@ Recommend Azure Virtual Desktop w/ MSIX app watch.
 ----
 auto - during deployment, based on user grp membership,  
 On demand - through a portal
+
+
+## Plan for upgrades and retirement
+----
