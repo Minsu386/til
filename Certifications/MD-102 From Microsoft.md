@@ -85,3 +85,7 @@ On demand - through a portal
 
 ## Plan for upgrades and retirement
 ----
+- Storage
+- when / how to retrieve and replace assets
+- wiping data Corp Own and BYOD
+  - If BYOD if the app is managed, intune can selectively wipe data specific to that app. 
