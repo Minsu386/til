@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/MD-102 From Microsoft.md",
+                "file": "Linux Dev Environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "popos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,12 +190,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certifications/MD-102 From Microsoft.md",
+                "file": "Linux Dev Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certifications/MD-102 From Microsoft.md",
+                "file": "Linux Dev Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certifications/MD-102 From Microsoft.md"
+                "file": "Linux Dev Environment.md"
               }
             }
           },
@@ -299,8 +299,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "051d88004b3120d1",
+  "active": "133c8efc2a1d2aec",
   "lastOpenFiles": [
+    "PopOS.md",
+    "Linux Dev Environment.md",
     "Meta/Pasted image 20240123211043.png",
     "Certifications/MD-102 Endpoint Admin.md",
     "Certifications/MD-102 From Microsoft.md",
@@ -327,7 +329,6 @@
     "README.md",
     "React misc.md",
     "Backend.md",
-    "CompTIA A+/1.1 Course Intro.md",
     "Meta/Pasted image 20231212104258.png",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
@@ -342,7 +343,6 @@
     "Meta/Pasted image 20231116122038.png",
     "Meta/Pasted image 20231116122005.png",
     "Meta/Pasted image 20231116121925.png",
-    "Meta/Pasted image 20231116120931.png",
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
