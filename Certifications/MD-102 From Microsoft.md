@@ -68,4 +68,14 @@ Tools to perform asset inventories such as **Intune**
 
 ### App Packaging
 ---
-Creating automated installation involve using silent installation commands from vendor.  If silent installation is not available such as inhouse developed software, you can 
+Creating automated installation involve using silent installation commands from vendor.  If silent installation is not available such as inhouse developed software, you will need to package or repackage the app.  You can create Windows Installer packages. Microsoft Application Virtualization (App-v) **will be depreciated April 2026**
+Recommend Azure Virtual Desktop w/ MSIX app watch.
+
+### App Life-cycle Support
+----
+- Deploying New App: Test new app for comptibility issues w/ existing app
+- Installing new version of existing app: Ver upgrades are usually significantly more complex than updates, and comprehensive planning and testing are paramount. This is to ensure that the upgrade release occurs appropriately
+- Updating applications: Updates are far more frequent and require less testing than version upgrades
+
+### Application Delivery
+----
