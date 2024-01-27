@@ -89,3 +89,22 @@ On demand - through a portal
 - when / how to retrieve and replace assets
 - wiping data Corp Own and BYOD
   - If BYOD if the app is managed, intune can selectively wipe data specific to that app. 
+
+
+# Explore Windows Editions
+----
+
+## Windows client editions and capabilities
+----
+|**Windows 10 / Windows 11 Edition**|**Audience**|**Availability**|
+|---|---|---|
+|Home|Individual home use|Everyone|
+|Pro|Small and mid-sized businesses, advanced users|Everyone|
+|Pro for Workstations|Users with advanced performance and storage requirements|Everyone|
+|Enterprise|Large enterprise organizations|Available to Volume LicenseMicrosoft Volume Licensing, Microsoft Enterprise Agreement, Microsoft Store for Education or Microsoft Cloud Solution Provider program|
+|Enterprise LTSC|Large enterprise organizations with restrictive change requirements|Microsoft Volume Licensing, Microsoft Enterprise Agreement, or Microsoft Cloud Solution Provider program|
+|Pro Education|Comparable to Pro for school staff, administrators, teachers, and students|Available to academic Volume License customers|
+|Education|Comparable to Enterprise for school staff, administrators, teachers, and students|Available to academic Volume License customers|
+|IoT Core/Enterprise|Fixed purpose and appliance devices|Available through Windows IoT Distributors|
+
+
