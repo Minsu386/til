@@ -4,147 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c143b23f21d75284",
+        "id": "e70f81922352f9f8",
         "type": "tabs",
         "children": [
           {
-            "id": "dcca55d2ca28255c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3d1671c3f6609e3",
+            "id": "8655fab985526ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks.md",
-                "mode": "source",
+                "file": "Python.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "819bf81097a38ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NextJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f410634772a8d778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f773b022769d4ad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shortcut Keys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47f1e6017839289c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "019e1c5be2b14e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "468f4713bae0e7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD-102.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "133c8efc2a1d2aec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certifications/MD-102 From Microsoft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8a4d1873102e0bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Review/Modern Software Engineering/Unorganized.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd28aca996491e4a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TypeScript Redux Store.md"
-              }
-            }
-          },
-          {
-            "id": "99de60bfa23fad74",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TypeScript Redux Store.md"
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "md-102",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -189,13 +64,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "85485863756a6f99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -219,9 +101,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certifications/MD-102 From Microsoft.md",
+                "file": "Python.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -247,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certifications/MD-102 From Microsoft.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certifications/MD-102 From Microsoft.md"
+                "file": "Python.md"
               }
             }
           },
@@ -282,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -299,13 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133c8efc2a1d2aec",
+  "active": "8655fab985526ae7",
   "lastOpenFiles": [
+    "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
+    "Python.md",
+    "Certifications/MD-102 From Microsoft.md",
     "Linux Dev Environment.md",
     "PopOS.md",
     "Meta/Pasted image 20240123211043.png",
     "Certifications/MD-102 Endpoint Admin.md",
-    "Certifications/MD-102 From Microsoft.md",
     "MD-102.md",
     "Certifications",
     "Java.md",
@@ -327,8 +211,6 @@
     "HTML5.md",
     "Refractor to react.md",
     "README.md",
-    "React misc.md",
-    "Backend.md",
     "Meta/Pasted image 20231212104258.png",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
