@@ -18,3 +18,7 @@ def print_lyrics():
   print("I sleep all night and I work all day.")
 ```
  `def` is a keyword that indicates that this is a function definition
+
+```python
+
+```
