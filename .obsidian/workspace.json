@@ -112,6 +112,16 @@
             }
           },
           {
+            "id": "158af3dabc24cdf2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "f8a4d1873102e0bd",
             "type": "leaf",
             "state": {
@@ -144,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -300,7 +310,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "133c8efc2a1d2aec",
+  "active": "158af3dabc24cdf2",
   "lastOpenFiles": [
     "Linux Dev Environment.md",
     "PopOS.md",
