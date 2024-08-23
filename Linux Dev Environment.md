@@ -101,3 +101,6 @@ vim's Tree map - `<leader>pv`
 
 Grep Search - `<leader>ps`
 
+# Remember
+----
+nvim-lint and how to configure for python and other languages.
