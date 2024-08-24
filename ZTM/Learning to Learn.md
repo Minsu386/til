@@ -16,5 +16,8 @@ Principle: The Obstacles
 
 Principle: The Dip
 - The path may be a wrong pursuit for you
+
+Principle: Compound Learning
+- learning occurs everyday in life
+-  learn small little chunks each day, small changes every single day
 - 
-  
