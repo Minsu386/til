@@ -10,4 +10,4 @@ Principle: What is success
 - Take risk and make mistakes
 
 Principle: The Obstacles
-- 
+- When your inner voice says "you suck", "you're an imposture" You want to change it do, "mmm i'm doing something worth while"
