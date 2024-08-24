@@ -51,5 +51,3 @@ Principle: Your Productivity Time
   - Find your Zone
 - Give your self permission to study when you feel your best
 
-Principle: Self Learning paradigm
-- 
