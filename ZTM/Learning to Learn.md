@@ -11,3 +11,9 @@ Principle: What is success
 
 Principle: The Obstacles
 - When your inner voice says "you suck", "you're an imposture" You want to change it do, "mmm i'm doing something worth while"
+- Obstacles are the path that others have abandoned. 
+- Shift your focus 
+
+Principle: The Dip
+
+  
