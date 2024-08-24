@@ -26,3 +26,7 @@ Principle: Compound Learning
 Principle: Failures Don't Count
 - Successful individual succeed by years of failures and practice and drive to constantly improve
 - Every time you make a mistake and/or fail, you improve, you learn, you adapt. 
+
+Principle: It's All in the Frame
+- Reframing on how we look at things. Choice vs Chores
+- 
