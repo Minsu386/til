@@ -24,4 +24,5 @@ Principle: Compound Learning
   - 1% every day and in 70days you are twice as good -Alan Weiss, Ph.D.
 
 Principle: Failures Don't Count
-- 
+- Successful individual succeed by years of failures and practice and drive to constantly improve
+- Every time you make a mistake and/or fail, you improve, you learn, you adapt. 
