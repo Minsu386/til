@@ -20,4 +20,8 @@ Principle: The Dip
 Principle: Compound Learning
 - learning occurs everyday in life
 -  learn small little chunks each day, small changes every single day
+- Be persistent 
+  - 1% every day and in 70days you are twice as good -Alan Weiss, Ph.D.
+
+Principle: Failures Don't Count
 - 
