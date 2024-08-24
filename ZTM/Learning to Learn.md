@@ -29,4 +29,10 @@ Principle: Failures Don't Count
 
 Principle: It's All in the Frame
 - Reframing on how we look at things. Choice vs Chores
+
+Principle: Pareto Principle
+- source: https://en.wikipedia.org/wiki/Pareto_principle
+- 80/20 rule, the law of the vital few or the principle of factor sparsity
+  - 80% of sales come from 20% of clients
+- What is the 20% that's going to give me 80% of the result? This is the question you should ask yourself. 
 - 
