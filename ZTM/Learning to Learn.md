@@ -35,4 +35,7 @@ Principle: Pareto Principle
 - 80/20 rule, the law of the vital few or the principle of factor sparsity
   - 80% of sales come from 20% of clients
 - What is the 20% that's going to give me 80% of the result? This is the question you should ask yourself. 
-- 
+
+Principle: Skill Stacking
+- Skill mastery comes from being curious about topics. Childlike ambition to learn. 
+- Key is not to be the greatest at one thing. but to be decent at multiple skills that align with each other to stand out among your peers
