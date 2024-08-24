@@ -15,5 +15,6 @@ Principle: The Obstacles
 - Shift your focus 
 
 Principle: The Dip
-
+- The path may be a wrong pursuit for you
+- 
   
