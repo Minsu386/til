@@ -39,3 +39,17 @@ Principle: Pareto Principle
 Principle: Skill Stacking
 - Skill mastery comes from being curious about topics. Childlike ambition to learn. 
 - Key is not to be the greatest at one thing. but to be decent at multiple skills that align with each other to stand out among your peers
+
+Principle: Happiness Factor
+1. Self Improvement
+2. Family
+4. Nature
+5. Finance
+
+Principle: Your Productivity Time
+- Are you a morning person or night owl?
+  - Find your Zone
+- Give your self permission to study when you feel your best
+
+Principle: Self Learning paradigm
+- 
