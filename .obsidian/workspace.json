@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e70f81922352f9f8",
+        "id": "4123bef60b3afbf0",
         "type": "tabs",
         "children": [
           {
-            "id": "8655fab985526ae7",
+            "id": "82bf011b5ef654d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZTM/Learning to Learn.md",
+                "file": "GRC/NIST 800-12 Introduction to IS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "vim",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -64,20 +64,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "85485863756a6f99",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -101,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZTM/Learning to Learn.md",
+                "file": "GRC/NIST 800-12 Introduction to IS.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -129,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZTM/Learning to Learn.md",
+                "file": "GRC/NIST 800-12 Introduction to IS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZTM/Learning to Learn.md"
+                "file": "GRC/NIST 800-12 Introduction to IS.md"
               }
             }
           },
@@ -164,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,20 +171,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8655fab985526ae7",
+  "active": "82bf011b5ef654d5",
   "lastOpenFiles": [
-    "Python.md",
     "ZTM/Learning to Learn.md",
+    "GRC/NIST 800-12 Introduction to IS.md",
+    "GRC/Untitled",
+    "GRC",
     "ZTM",
-    "CompTIA A+/Core 2/4.0 Operational Procedures/4.8 Identify the basic of scripting.md",
-    "Certifications/MD-102 From Microsoft.md",
+    "conflict-files-obsidian-git.md",
     "Linux Dev Environment.md",
+    "Python.md",
     "PopOS.md",
     "Meta/Pasted image 20240123211043.png",
     "Certifications/MD-102 Endpoint Admin.md",
+    "Certifications/MD-102 From Microsoft.md",
     "MD-102.md",
     "Certifications",
     "Java.md",
@@ -211,7 +208,6 @@
     "Frameworks.md",
     "NextJS.md",
     "HTML5.md",
-    "Refractor to react.md",
     "Meta/Pasted image 20231212104258.png",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
@@ -229,8 +225,6 @@
     "CompTIA A+/Core 2/4.0 Operational Procedures",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting/Untitled",
     "CompTIA A+/Core 2/3.0 Software Troubleshooting",
-    "CompTIA A+/Core 2/2.0 Security",
-    "CompTIA A+/Core 2/1.0 Operating System",
     "AWS Region.canvas",
     "Meta/AWS Region.canvas"
   ]
