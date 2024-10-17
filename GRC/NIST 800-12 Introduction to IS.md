@@ -14,3 +14,9 @@ What are the 8 major elements regarding IS?
 What is Information Security?
 - the protection of information and systems from unauthorized access, use, disclosure, disruption , modification, or destruction in order to provide confidentiality, integrity, and availability. 
 
+ What documents determine the impact level of a system?
+ - Organizations may refer to the guidance in FIPS 199, NIST SP 800-30 and NIST SP 800-60
+
+What document can you use to select  an appropriate set of security controls once you have determined the system impact level?
+- NIST SP 800-53
+
