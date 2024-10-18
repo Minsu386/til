@@ -54,3 +54,7 @@ Responsibilities include
   • Ensuring that systems are protected by approved security plans and are authorized to operate
   • Making sure that there is an organization-wide information security program that is being effectively implemented.
 
+3.5 Senior Agency Info Sec Officer (aka Chief Info Sec Officer (CISO))
+  Responsibility 
+  - Managing and implementing an org-wide info sec program
+  - Assuming the role of authorizing official designated rep or security control assessor when needed. 
