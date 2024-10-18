@@ -38,4 +38,19 @@ For more detailed description of responsibilities assigned to each role see Appe
 
   Responsibilities include
   - Defining a holistic approach to addressing risk across the entire org
-  - Developing an 
+  - Developing an orgs risk management strategy
+  - Supporting info-sharing amongst authorizing officials and other senior leaders
+  - overseeing risk management related activities across the org
+
+3.2 CEO
+   Responsibilities Include
+- Ensuring the integration of infosec management processes w/ strategic and operational planning processes
+- Making sure that the info and systems used to support organizational ops have proper infosec safeguards
+- Confirming that trained personnel are complying with related infosec legislation, policies, directives, instructions, standards, and guidelines
+
+3.3 CIO
+Responsibilities include
+  • Allocating resources dedicated to the protection of the systems supporting the organization’s mission and business functions 
+  • Ensuring that systems are protected by approved security plans and are authorized to operate
+  • Making sure that there is an organization-wide information security program that is being effectively implemented.
+
