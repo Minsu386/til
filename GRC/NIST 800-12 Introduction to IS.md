@@ -24,4 +24,18 @@ ISCM
 - Information Security Continuous Monitoring (ISCM) defined in - NIST SP 800-137
 - ISCM helps support orgs risk management decision
 
-Privacy protection 
+Privacy protection of individuals is the responsibility of the orgs that collects, use, maintain, share and dispose of PII. 
+  - For more information of PII see NISTIR 8062 (Intro to privacy engineering and risk management in federal system)
+  - & NIST SP 800-122 Guide to protecting the confidentiality of personally identifiable information 
+
+## 3 Roles and Responsibilities
+----
+For more detailed description of responsibilities assigned to each role see Appendix D in NIST SP 800-37
+
+3.1 Risk Executive Function (Senior Management)
+- Risk-related considerations for individual systems are viewed from a wide perspective. Taking consideration of strategic goals 
+- consistent across the orgs, reflects orgs risk tolerance, and is considered along w/ other types of risks in order to fulfill mission/business success
+
+  Responsibilities include
+  - Defining a holistic approach to addressing risk across the entire org
+  - Developing an 
