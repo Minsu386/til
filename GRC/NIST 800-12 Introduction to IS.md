@@ -58,3 +58,11 @@ Responsibilities include
   Responsibility 
   - Managing and implementing an org-wide info sec program
   - Assuming the role of authorizing official designated rep or security control assessor when needed. 
+
+
+## 5.0 Information Security Policy
+----
+
+5.2.1 Basic Components 
+- Purpose: Describing the purpose and goals of the program. Security related needs such as integrity, availability, and confidentiality can form the framework for the policy. 
+- Scope: Clear policy as to which resources the info sec program protects. 
