@@ -66,3 +66,7 @@ Responsibilities include
 5.2.1 Basic Components 
 - Purpose: Describing the purpose and goals of the program. Security related needs such as integrity, availability, and confidentiality can form the framework for the policy. 
 - Scope: Clear policy as to which resources the info sec program protects. 
+- Responsibilities: The responsibilities of officials and offices throughout the org needs to be addressed. Establishes operational security offices for major system, employee accountability. 
+- Compliance: addresses 2 issues
+  1. general - to ensure meeting the requirements to establish a program & the responsibilities assigned to various org components
+  2. use of penalties and disciplinary action Specific penalties are not normally detailed here.  May authorize the creation of compliance structures that include violations and specific disciplinary action. 
