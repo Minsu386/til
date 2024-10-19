@@ -70,3 +70,12 @@ Responsibilities include
 - Compliance: addresses 2 issues
   1. general - to ensure meeting the requirements to establish a program & the responsibilities assigned to various org components
   2. use of penalties and disciplinary action Specific penalties are not normally detailed here.  May authorize the creation of compliance structures that include violations and specific disciplinary action. 
+
+5.3 Issue Specific Policy
+- Must be reviewed on a regular basis due to frequent technological changes in an org
+
+5.3.1 Example Topics
+- Internet Access
+- E-Mail Privacy
+- BYOD
+- Social Media
