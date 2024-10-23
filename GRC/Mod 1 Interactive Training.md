@@ -97,7 +97,7 @@ Controlled Unclassified Information (CUI) - info that requires controls pursuant
 International Traffic in Arms Regulations (ITAR) data - Related to defense articles, services, and related technical data as defined in the US Munitions List (USML). 
 
 
-
+You must understand what info an org collects, processes, and stores to ensure appropriate measures are in place and the orgs complies w/ relevant regs, laws and contractual obligations
 
 ## IS Roles and Responsibilities
 ----
