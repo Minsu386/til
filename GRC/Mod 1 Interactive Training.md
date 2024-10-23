@@ -45,6 +45,41 @@ Protected Health Information (PHI) - Includes any info about health status, prov
   - Treatment plans
   - Mental Health Records
 
+Electronic Protected Health Information (ePHI) - Includes Protected Health Info that is stored, tx, or processed electronically
+  Examples
+  - Electronic Medical Records (EMRs)
+  - Electronic Health Records (EHRs)
+  - Personal Health Records (PHRs)
+  - Electronic Prescriptions
+  - Medical Device Data
+  - Electronic Communications containing PHI (emails, text messages)
+
+Sensitive Personal Information (SPI) - is a subset of PII that requires additional protection due to its sensitive nature and potential for harm if disclosed
+  Examples
+  - Financial Information
+  - Medical info
+  - Genetic data
+  - Biometric data
+  - Sexual Orientation
+  - Religious beliefs
+  - Political opinions
+
+Educational Records - are directly related to a student and maintained by an educational agency or institution or a party acting for the agency or institution. 
+  Examples
+  - Grades
+  - Transcripts
+  - Disciplinary records
+  - Attendance records
+  - financial aid info
+
+Employment Records - info related to an individual's employment, including hiring, performance, and termination
+  Examples
+  - Resume
+  - Employment history
+  - EPE
+  - Disciplinary action
+  - Salary and benefits info
+
 
 
 
