@@ -80,7 +80,21 @@ Employment Records - info related to an individual's employment, including hirin
   - Disciplinary action
   - Salary and benefits info
 
+Geolocation data - Id an personal physical location
 
+Behavioral Data - Online activities, preferences, and interest
+
+Controlled Unclassified Information (CUI) - info that requires controls pursuant to and consistent w/ applicable laws, regulation, and gov't wide policies, but is not classified under Executive Order 13526
+  Examples
+  - PII, PHI
+  - Critical Infrastructure info
+  - Defense info
+  - Export control data
+  - financial
+  - intelligence data
+  - + many other
+
+International Traffic in Arms Regulations (ITAR) data - Related to defense articles, services, and related technical data as defined in the US Munitions List (USML). 
 
 
 
