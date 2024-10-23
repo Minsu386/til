@@ -34,7 +34,16 @@ Personally Identifiable Information (PII) - includes any information that can be
     - Email
     - Account numbers
     - phone number
-    - 
+
+Protected Health Information (PHI) - Includes any info about health status, provision of health care, or payment for health care created or collected by a Covered Entity ( or a Business Associate of a Covered Entity) that can be linked to a specific Individual 
+  Examples
+  - Medical records
+  - Health Insurance information
+  - Demographic Data (Age, gender, race, ethnicity) 
+  - Medical test results
+  - Prescription info
+  - Treatment plans
+  - Mental Health Records
 
 
 
