@@ -1,12 +1,13 @@
 # Info Sec
 ----
 ISO/IEC 27001
-ISO/IEC 27002
-ISO/IEC 27006
-ISO/IEC 27017
-ISO/IEC 27018
-ISO/IEC 27701
-ISO/IEC 42001
+
+[Secure Controls Framework - SCF](https://securecontrolsframework.com/) - Focus on GRC and Cybersecurity side of data privacy
+
+
+## Web Security
+----
+[Open Worldwide Application Security Project - OWASP](https://owasp.org/)
 
 # Health
 ---
