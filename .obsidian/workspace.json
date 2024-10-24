@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Resources.md",
+                "file": "GRC/Mod 1 Interactive Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRC/Resources.md",
+                "file": "GRC/Mod 1 Interactive Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRC/Resources.md",
+                "file": "GRC/Mod 1 Interactive Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRC/Resources.md"
+                "file": "GRC/Mod 1 Interactive Training.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "82bf011b5ef654d5",
   "lastOpenFiles": [
-    "GRC/Mod 1 Interactive Training.md",
     "GRC/Resources.md",
+    "GRC/Mod 1 Interactive Training.md",
     "GRC/NIST 800-12 Introduction to IS.md",
     "ZTM/Learning to Learn.md",
     "GRC/Untitled",
