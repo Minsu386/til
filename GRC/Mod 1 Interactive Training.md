@@ -104,7 +104,12 @@ You must understand what info an org collects, processes, and stores to ensure a
 ----
 Framework 
   - Provide a general set of guidelines, industry-accepted practices, and recommendations for managing and reducing security risks
-  - Typically voluntary and flexible, allowing 
+  - Typically voluntary and flexible, allowing organizations to adapt and implement them based on their specific needs, goals, and risk appetite while providing a structured approach to security without (sometimes) including specific technical requirements or auditable criteria. 
+Standards
+  - Is often a more prescriptive set of requirements that orgs must follow to ensure minimum security
+  - Can be mandatory and less flexible than frameworks, especially when tied to regulations or industry-specific requirements
+  - Typically include specific technical controls, processes, and auditable criteria that orgs must implement and maintain.
+  - Compliance w/ standards can/may be independently verified and certified through audits or assessments. 
 
 ## IS Roles and Responsibilities
 ----
