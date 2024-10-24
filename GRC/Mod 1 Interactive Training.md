@@ -99,5 +99,12 @@ International Traffic in Arms Regulations (ITAR) data - Related to defense artic
 
 You must understand what info an org collects, processes, and stores to ensure appropriate measures are in place and the orgs complies w/ relevant regs, laws and contractual obligations
 
+
+### Frameworks & Standard
+----
+Framework 
+  - Provide a general set of guidelines, industry-accepted practices, and recommendations for managing and reducing security risks
+  - Typically voluntary and flexible, allowing 
+
 ## IS Roles and Responsibilities
 ----
