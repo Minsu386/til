@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Mod 1 Interactive Training.md",
+                "file": "GRC/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRC/Mod 1 Interactive Training.md",
+                "file": "GRC/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRC/Mod 1 Interactive Training.md",
+                "file": "GRC/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRC/Mod 1 Interactive Training.md"
+                "file": "GRC/Resources.md"
               }
             }
           },
@@ -177,8 +176,9 @@
   },
   "active": "82bf011b5ef654d5",
   "lastOpenFiles": [
-    "GRC/NIST 800-12 Introduction to IS.md",
     "GRC/Mod 1 Interactive Training.md",
+    "GRC/Resources.md",
+    "GRC/NIST 800-12 Introduction to IS.md",
     "ZTM/Learning to Learn.md",
     "GRC/Untitled",
     "GRC",
@@ -207,7 +207,6 @@
     "Daily Journal/01 Aug 23.md",
     "CompTIA A+/Core 1/1.0 Mobile Devices/1.1 Given a Scenario Install & Config laptop Hw and components.md",
     "Frameworks.md",
-    "NextJS.md",
     "Meta/Pasted image 20231212104258.png",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",

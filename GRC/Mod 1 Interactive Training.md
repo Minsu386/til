@@ -111,5 +111,6 @@ Standards
   - Typically include specific technical controls, processes, and auditable criteria that orgs must implement and maintain.
   - Compliance w/ standards can/may be independently verified and certified through audits or assessments. 
 
+- 
 ## IS Roles and Responsibilities
 ----
