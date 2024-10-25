@@ -1,4 +1,4 @@
-## Elements of Info Security (IS)
+# Elements of Info Security (IS)
 ----
 8 Major elements for understanding how security req and controls support the org's overall ops
 - Info Sec support the mission of the orgs
@@ -10,6 +10,7 @@
 - Info Sec is assessed and monitored regularly
 - Info Sec is constrained by societal and cultural factors
 
+**The Key element of Info Sec is that it is regular assessment and monitoring.**
 ### Terms
 ---
 Confidentiality - Preserving authorized restriction on info access and disclosure, including means for protecting personal privacy and proprietary info
@@ -112,5 +113,5 @@ Standards
   - Compliance w/ standards can/may be independently verified and certified through audits or assessments. 
 
 - 
-## IS Roles and Responsibilities
+# IS Roles and Responsibilities
 ----
