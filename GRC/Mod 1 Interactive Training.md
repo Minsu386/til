@@ -117,4 +117,14 @@ Standards
 ----
 focuses on management controls
 
-- 
+# IS Threats and Vulnerabilities
+----
+
+What is a vulnerability?
+- It is a weakness in a system, system security procedure, internal controls, or implementation that could be exploited by a threat source or threat event. 
+
+Two types of threat Sources
+1) Adversarial - Are individuals, groups, orgs, or entities that seek to exploit an orgs dependence on cyber resources. Employees, privileged users, and trusted user have been known to defraud orgs system (insider threat)
+2) Non-Adversarial - Refer to natural disasters or erroneous actions taken by individuals in the course of executing their everyday responsibilities. 
+
+
