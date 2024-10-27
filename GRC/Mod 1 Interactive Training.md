@@ -128,3 +128,14 @@ Two types of threat Sources
 2) Non-Adversarial - Refer to natural disasters or erroneous actions taken by individuals in the course of executing their everyday responsibilities. 
 
 
+# IS Risk Management
+----
+
+Divided into 4 process
+  1) Framing Risk
+  2) Assessing Risk
+  3) Responding to Risk
+  4) Monitoring Risk
+
+Two type of risk
+1) IN
