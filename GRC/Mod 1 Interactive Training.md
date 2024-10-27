@@ -173,3 +173,8 @@ RMF Promotes the concepts of near real-time risk management and ongoing system a
 
 1) Categorize - Categorize the system and information processed, stored, and tx based on an impact analysis
 2) Security Control Selection - Select the set of NIST SP 800-53 controls to protect the system based on risk assessment(s)
+3) Security Control Implementation - Implement the controls and docs how controls are deployed
+4) Security Control Assessment - Assess to determine if the controls are in place, operating as intended, and producing the desired results.
+5) System Authorization - Senior official makes a risk-based decision to authorize the system (to operate).
+6) Security Control Monitoring - Continuously monitor control implementation and risk to the system 
+
