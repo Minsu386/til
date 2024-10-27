@@ -157,5 +157,7 @@ Risk Assessment Methodology - Typically includes --
 
 Risk Model - Defines that risk factors to be assessed and the relationships among those factors. Risk factors are characteristics used in risk models as inputs to determining levels of risk in risk assesments.
 
-Threa
+Threat Impact level - This is the magnitude of harm that can be expected to result from the consequences of unauthorized disclosure of info, unauthorized mods of info, unauthorized destruction of info, or loss of info or info system availability. 
+
+
 
