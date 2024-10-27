@@ -178,3 +178,5 @@ RMF Promotes the concepts of near real-time risk management and ongoing system a
 5) System Authorization - Senior official makes a risk-based decision to authorize the system (to operate).
 6) Security Control Monitoring - Continuously monitor control implementation and risk to the system 
 
+    The Purpose of the 6 steps in the RMF is 
+    - To respond to risk and frame risk wthin organization
