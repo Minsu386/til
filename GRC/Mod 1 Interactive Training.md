@@ -160,4 +160,16 @@ Risk Model - Defines that risk factors to be assessed and the relationships amon
 Threat Impact level - This is the magnitude of harm that can be expected to result from the consequences of unauthorized disclosure of info, unauthorized mods of info, unauthorized destruction of info, or loss of info or info system availability. 
 
 
+# IS Risk Management
+----
+NIST 800-37
+Risk Management Framework (RMF)
 
+RMF Promotes the concepts of near real-time risk management and ongoing system authorization through the implementation of robust continuous monitoring processes
+
+6 Steps to RMF
+
+![](Meta/Pasted%20image%2020241026220822.png)
+
+1) Categorize - Categorize the system and information processed, stored, and tx based on an impact analysis
+2) Security Control Selection - Select the set of NIST SP 800-53 controls to protect the system based on risk assessment(s)
