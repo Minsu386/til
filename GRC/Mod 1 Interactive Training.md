@@ -142,3 +142,20 @@ Two type of risk
 1) Inherent - Level of risk that exists in the absence of any controls or mitigating measures. Inherent risk is determined by considering the likelihood and impact of a risk event, assuming that no controls are implemented. 
    Ex: data breach in an org w/ no malware protection, incident response capabilities, and/or access controls would be very high
 2) Residual - Level of risk that remains after implementing controls and mitigating measures. 
+
+**KNOW TERM**
+----
+Likelihood of Occurrence - Weighted risk factor based on an analysis of the probability that a given threat is capable of exploiting a given vulnerability. 
+
+Risk Assessment - Process of Id'ing, estimating, and prioritizing info sec risks. Carefully exam of threats and vulnerability info to determine the extent to which circumstances or events could have on an org.
+
+Risk Assessment Methodology - Typically includes --
+  - Risk Assessment process
+  - An explicit risk model, defining key terms and assessable risk factors and the relationships among the factors.
+  - An assessment approach ( quantitative, qualitative, or semi-qualitative), specifying the range of values those risk factors can assume during the risk assessment and how combinations of risk factors are id'ed/ analyzed so that values of those factors can be functionally combined to eval risk
+  - An analysis approach ( threat-oriented, asset/impact-oriented, or vulnerability-oriented) describes how combinations of risk factors are id'd / analyzed to ensure adequate coverage of the problem space at a consistent level of detail. 
+
+Risk Model - Defines that risk factors to be assessed and the relationships among those factors. Risk factors are characteristics used in risk models as inputs to determining levels of risk in risk assesments.
+
+Threa
+
