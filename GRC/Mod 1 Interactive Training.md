@@ -130,6 +130,7 @@ Two types of threat Sources
 
 # IS Risk Management
 ----
+NIST 800-39 Managing IS Risk
 
 Divided into 4 process
   1) Framing Risk
@@ -138,4 +139,6 @@ Divided into 4 process
   4) Monitoring Risk
 
 Two type of risk
-1) IN
+1) Inherent - Level of risk that exists in the absence of any controls or mitigating measures. Inherent risk is determined by considering the likelihood and impact of a risk event, assuming that no controls are implemented. 
+   Ex: data breach in an org w/ no malware protection, incident response capabilities, and/or access controls would be very high
+2) Residual - Level of risk that remains after implementing controls and mitigating measures. 
