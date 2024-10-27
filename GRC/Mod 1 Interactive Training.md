@@ -160,7 +160,7 @@ Risk Model - Defines that risk factors to be assessed and the relationships amon
 Threat Impact level - This is the magnitude of harm that can be expected to result from the consequences of unauthorized disclosure of info, unauthorized mods of info, unauthorized destruction of info, or loss of info or info system availability. 
 
 
-# IS Risk Management
+
 ----
 NIST 800-37
 Risk Management Framework (RMF)
@@ -180,3 +180,12 @@ RMF Promotes the concepts of near real-time risk management and ongoing system a
 
     The Purpose of the 6 steps in the RMF is 
     - To respond to risk and frame risk wthin organization
+
+# IS Policy
+----
+
+NIST 800-12 
+3 Types of Policy
+- Program Policy
+- Issue-Specific Policy
+- System-Specific Spolicy
