@@ -13,3 +13,16 @@ ISO/IEC 27001
 ---
 [Health Information Trust Alliance - HITRUST CSF](https://hitrustalliance.net/hitrust-framework)
 
+
+
+
+# UnSorted Links
+----
+https://cloudsecurityalliance.org/research/cloud-controls-matrix
+
+https://stateramp.org/
+
+https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-security-modernization-act
+
+https://artificialintelligenceact.eu/
+
