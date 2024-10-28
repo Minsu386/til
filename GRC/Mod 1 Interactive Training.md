@@ -188,4 +188,26 @@ NIST 800-12
 3 Types of Policy
 - Program Policy
 - Issue-Specific Policy
-- System-Specific Spolicy
+- System-Specific Policy
+
+Program Policy
+  - Purpose - Sets the foundation of the entire policy document. Clearly articulate the main obj / goals of the policy
+  - Scope - Define the boundaries and applicability of the policy within the organization. Specify which individuals, dept, systems, assets are covered by the policy and any exclusions or limitation. 
+  - Responsibilities - Define the specific duties, obligation and expectation of various stakeholders in maintaining the orgs information security posture. 
+  - Compliance - Outlines the orgs commitment to relevant laws, regulations, industry standards, and contractual obligation related to Info Sec. May also detail consequences of non-compliance for the orgs and its employees. 
+
+Issue-Specific Policy
+  Basic Components
+  - Issue statement
+  - Statements of the orgs position
+  - Applicability
+  - Roles and Responsibilities
+  - Compliance
+  - Points of Contact and supplementary info
+
+System-Specific Policy
+  Basic Components
+  - Security Obj
+  - Operational Security Rules
+  - System-Specific Policy Implementation
+- 
