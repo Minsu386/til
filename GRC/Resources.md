@@ -26,3 +26,9 @@ https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-sec
 
 https://artificialintelligenceact.eu/
 
+https://www.iso.org/standard/27001
+
+https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final
+
+
+
