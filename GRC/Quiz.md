@@ -36,3 +36,8 @@ Which step in the RMF involves the implementation of robust continuous monitorin
  Who is responsible for ensuring the integrating of information security management processes with strategic and operational planning processes within an organization? 
    a) Chief Information Officer (CIO)
 
+What role do non-adversarial threat sources play in information security? 
+  a) They refer to natural disasters or erroneous actions taken by individuals in the course of executing their everyday responsibilities
+
+What are the basic components of System-Specific Policy?
+  a) 
