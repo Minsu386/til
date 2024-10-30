@@ -48,3 +48,26 @@ What is a vulnerability in the context of information security?
 In the context of information Security Policy, what is the significance of the scope of a manager's authority?
   a) It determines the applicability of the policy
 
+What is the primary goal of Information Security? 
+  a) Ensuring confidentiality, integrity, and availability of information
+
+What is an example topic for Issue-Specific Policy?
+  a) Authentication Requirements for Accounting System Users
+
+What does the term "Confidentiality" refer to in the context of information security?
+  a) Preserving authorized restrictions on information access and disclosure
+
+What does NIST SP 800-39 identify as the four distinct steps for risk management? 
+  a) Frame risk, assess Risk, Respond to risk, and monitoring risk
+
+What are Security Controls in the context of information security? 
+  a) safeguards or countermeasures prescribed for a system
+
+ !!!!!!!!  What is data Integrity as defined in the given content? 
+  a) Means for protecting personal privacy
+
+What is the primary purpose of Information Security Policy?
+  a) To prescribe how an organization manages, protects, and distributes information
+
+What are the basic components of Program Policy? 
+  a) 
