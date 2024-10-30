@@ -70,4 +70,7 @@ What is the primary purpose of Information Security Policy?
   a) To prescribe how an organization manages, protects, and distributes information
 
 What are the basic components of Program Policy? 
-  a) 
+  a) Purpose, Scope, Responsibilities, Compliance
+
+What is the purpose of the six steps in the RMF?
+  a) to respond to risk and frame risk wthin organization
