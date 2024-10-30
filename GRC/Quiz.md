@@ -30,5 +30,9 @@ How are adversarial threat sources different from non-adversarial threat sources
 Which step in the RMF involves the implementation of robust continuous monitoring processes? 
   a) Security Control Monitoring
 
-How does the RMF contribute to senior leaders' decision-making process?
+** How does the RMF contribute to senior leaders' decision-making process?
   **a) By promoting near real-time risk management**
+
+ Who is responsible for ensuring the integrating of information security management processes with strategic and operational planning processes within an organization? 
+   a) Chief Information Officer (CIO)
+
