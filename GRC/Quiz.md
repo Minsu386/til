@@ -18,4 +18,17 @@ In the context of the Risk management Framework (RMF), what role does the step "
 What role is responsible for installing, configuring, and updating hardware and software, as well as implementing technical security controls
   a) System Administrator
 
-What is a responsibility of the System Security Officer (SSO)
+What is a responsibility of the System Security Officer (SSO) within an organization? 
+  a) Overseeing the day-to-day security operations of a system
+
+What does the Information Security Architect primarily coordinate with regarding the allocation of security controls?
+  a) system Owner
+
+How are adversarial threat sources different from non-adversarial threat sources?
+  a) Adversarial threat sources are individuals seeking to exploit cyber resources, while non-adversarial threat sources include errors and omissions
+
+Which step in the RMF involves the implementation of robust continuous monitoring processes? 
+  a) Security Control Monitoring
+
+How does the RMF contribute to senior leaders' decision-making process?
+  **a) By promoting near real-time risk management**
