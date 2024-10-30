@@ -40,4 +40,11 @@ What role do non-adversarial threat sources play in information security?
   a) They refer to natural disasters or erroneous actions taken by individuals in the course of executing their everyday responsibilities
 
 What are the basic components of System-Specific Policy?
-  a) 
+  a) Security Objectives, Operational Security Rules, System-Specific Policy Implementation 
+
+What is a vulnerability in the context of information security?
+  a) A weakness in a system, system security procedure, internal controls, or implementation that could be exploited by a threat source?
+
+In the context of information Security Policy, what is the significance of the scope of a manager's authority?
+  a) It determines the applicability of the policy
+
