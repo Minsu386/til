@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Resources.md",
+                "file": "GRC/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRC/Resources.md",
+                "file": "GRC/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRC/Resources.md",
+                "file": "GRC/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRC/Resources.md"
+                "file": "GRC/Untitled.md"
               }
             }
           },
@@ -176,9 +176,10 @@
   },
   "active": "82bf011b5ef654d5",
   "lastOpenFiles": [
+    "GRC/Resources.md",
+    "GRC/Untitled.md",
     "GRC/Quiz.md",
     "GRC/Mod 1 Interactive Training.md",
-    "GRC/Resources.md",
     "GRC/NIST 800-12 Introduction to IS.md",
     "MD-102.md",
     "Linux Dev Environment.md",
@@ -207,7 +208,6 @@
     "Web Development.md",
     "Sequelize.md",
     "React/React.md",
-    "Git.md",
     "Meta/Pasted image 20231212104258.png",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
