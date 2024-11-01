@@ -16,4 +16,6 @@ Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 **1.2 Challenges for AI Risk Management**
 
 *Risk Measurement*
-- Risk Meas
+- Challenges:
+  - Risk related to 3rd party software, hardware and data: Can accelerate R&D and facilitate tech transition. Can not control the 3rd party, They may not be using the same Risk Metrics that align with your org. 
+  - 
