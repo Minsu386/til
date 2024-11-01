@@ -19,4 +19,8 @@ Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 - Challenges:
   - Risk related to 3rd party software, hardware and data: Can accelerate R&D and facilitate tech transition. Can not control the 3rd party, They may not be using the same Risk Metrics that align with your org. 
   - Tracking emergent risks: Id'ing and tracking emergent risks and considering techniques for measure them. This can help AI Actors understand potential impacts or harms within specific context
-  - Availability of reliable metrics:  Lack of consensus measurement methods. 
+  - Availability of reliable metrics:  Lack of consensus measurement methods. Measurement can be oversimplified, gamed, lack critical nuance, fail to account for differences in affected groups and contexts
+
+*Risk Tolerance*
+- Definition: Refers to the org's or AI actor's readiness to bear the risk in order to achieve its objectives. 
+- 
