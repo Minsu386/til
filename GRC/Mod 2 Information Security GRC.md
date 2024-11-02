@@ -24,4 +24,8 @@ Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 *Risk Tolerance*
 - Definition: Refers to the org's or AI actor's readiness to bear the risk in order to achieve its objectives. 
 - Risk tolerance can be influence by legal or regulatory requirements
-- New knowledge and methods to better inform harm/cost-benefits tradeoff will con't to be developed. 
+- New knowledge and methods to better inform harm/cost-benefits tradeoff will con't to be developed. So much that challenges for specifying AI risk tolerances remain unresolved; and that a framework is not yet readily applicable for mitigating negative AI risks. 
+
+*Risk Prioritization*
+- Not all incidents and failures can be eliminated.
+- 
