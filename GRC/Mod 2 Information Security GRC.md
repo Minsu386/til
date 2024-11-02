@@ -7,6 +7,7 @@ Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 ----
 
 ## 1. Framing Risk
+----
 - AI risk management minimizes potential negative impacts of AI systems.  Such as Threats to Civil Liberties  and rights. 
  
 **1.1 Understanding & Addressing Risk, Impacts, and Harms**
@@ -31,3 +32,16 @@ Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 - Policies and resources should be prioritized based on the assessed risk level and potential impact of an AI system.
 - Prioritization may differ between AI systems that are designed to interact w/ humans vs system that are not. 
 - *Residual Risk* - defined as risk remaining after risk treatment directly impacts end users or affected individuals and communities. 
+
+*Organizational Integration and Management of Risk*
+- Management should be integrated and incorporated into broad enterprise strategies and process.
+- Examples of Overlapping risk include:
+  - Privacy Concerns
+  - Energy and environment implication associated w/ resource-heavy computing demands
+  - security concerns related to CIA
+  - General security of the underlying software and hardware for AI system
+- Effective Risk Management is through commitment at senior levels and may require cultural change
+
+## 2. Audience
+----
+
