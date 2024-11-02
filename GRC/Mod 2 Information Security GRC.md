@@ -28,4 +28,6 @@ Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 
 *Risk Prioritization*
 - Not all incidents and failures can be eliminated.
-- 
+- Policies and resources should be prioritized based on the assessed risk level and potential impact of an AI system.
+- Prioritization may differ between AI systems that are designed to interact w/ humans vs system that are not. 
+- *Residual Risk* - defined as risk remaining after risk treatment directly impacts end users or affected individuals and communities. 
