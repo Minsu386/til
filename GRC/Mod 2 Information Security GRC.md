@@ -59,5 +59,20 @@ Risk Management efforts start w/ the *Plan and Design* fn in the application con
 
 Start 
   Application Context
-    Plan & Design - Articulate and documents the system's concepts and obj., underlying assumptions and context in light of legal and regulatory requirements and ethical considerations
-   
+  - Plan & Design - Articulate and documents the system's concepts and obj., underlying assumptions and context in light of legal and regulatory requirements and ethical considerations
+  Data & Input
+  - Collect and Process Data  - Gather and validate, and clean data and document the metadata and characteristics of the dataset, in light of obj., legal and ethical consideration
+  AI Model
+  - Build and Use Model - Create or select algorithm; train models
+  - Verify and Validate - Verify and validate, calibrate, and interpret model output
+  Task and Output
+  - Deploy and Use - Pilot, check compatibility with legacy systems, verify regulatory compliance, manage organizational change, and evaluate user experience. 
+  Application Context
+  - Operate and Monitor - Operate the AI system and continuously assess its recommendations and impacts (both intended and unintended) in light of obj., legal and regulatory requirements, and ethical considerations
+  People and Planet
+  - Use or Impacted by - Use system/technology; monitor & assess impacts; seek mitigation of impacts, advocate for rights
+
+## 3.0 AI Risk and Trustworthiness
+----
+![](Meta/Pasted%20image%2020241103203620.png)
+
