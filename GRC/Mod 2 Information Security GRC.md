@@ -74,5 +74,24 @@ Start
 
 ## 3.0 AI Risk and Trustworthiness
 ----
-![](Meta/Pasted%20image%2020241103203620.png)
+Characteristics of trustworthy AI systems include:
+- Valid and reliable,
+- Safe
+- Secure and Resilient
+- Accountable and transparent
+- Explainable and interpretable
+- Privacy-enhanced
+- Fair with harmful bias managed
 
+![](Meta/Pasted%20image%2020241103203641.png)
+
+### 3.1 Valid and Reliable
+----
+*Validation* is the "confirmation, through the provision of obj. evidence, that the requirements for a specific intended use or application have been fulfilled"
+
+- If AI systems are inaccurate, unreliable, or poorly generalized to data and settings it will increase negative AI risk and reduces trustworthiness
+
+*Reliability* is the same standard as the the "ability of an item to perform as required, without failure, for a given time interval, under given condition."
+
+- Accuracy and Robustness contribute to validity and trustworthiness of AI. And be in tension w/ one another in AI system.
+*Accuracy* is the "Closeness of results of observation, computations, or estimates to the true values or the values accepted as being true."
