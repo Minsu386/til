@@ -94,4 +94,7 @@ Characteristics of trustworthy AI systems include:
 *Reliability* is the same standard as the the "ability of an item to perform as required, without failure, for a given time interval, under given condition."
 
 - Accuracy and Robustness contribute to validity and trustworthiness of AI. And be in tension w/ one another in AI system.
+
 *Accuracy* is the "Closeness of results of observation, computations, or estimates to the true values or the values accepted as being true."
+
+*Robustness* or *Generalizability* is defined as the "ability of a system to maintain its level of performance under a variety of circumstances. "
