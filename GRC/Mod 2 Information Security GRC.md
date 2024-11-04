@@ -44,4 +44,13 @@ Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 
 ## 2. Audience
 ----
+NIST AI life cycle Activities
+- Application Context
+- Data & Input
+- AI Model
+- Task and Output
 
+![](Meta/Pasted%20image%2020241103200910.png)
+
+The two Inner circles show AI Systems' key dimensions and the Outer circle shows AI lifecycle stages.
+Risk Management efforts start w/ the *Plan and Design* fn in the application context and are performed throughout the AI system lifecycle
