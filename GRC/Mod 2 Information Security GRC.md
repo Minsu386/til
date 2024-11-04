@@ -54,3 +54,10 @@ NIST AI life cycle Activities
 
 The two Inner circles show AI Systems' key dimensions and the Outer circle shows AI lifecycle stages.
 Risk Management efforts start w/ the *Plan and Design* fn in the application context and are performed throughout the AI system lifecycle
+
+![](Meta/Capture.png)
+
+Start 
+  Application Context
+    Plan & Design - Articulate and documents the system's concepts and obj., underlying assumptions and context in light of legal and regulatory requirements and ethical considerations
+   
