@@ -98,3 +98,12 @@ Characteristics of trustworthy AI systems include:
 *Accuracy* is the "Closeness of results of observation, computations, or estimates to the true values or the values accepted as being true."
 
 *Robustness* or *Generalizability* is defined as the "ability of a system to maintain its level of performance under a variety of circumstances. "
+
+
+### 3.2 Safe
+----
+AI System #1 rule: Do not harm human life, health, property, or the environment. 
+
+Safe Operation of AI system is improved through:
+- Responsible design, development, and deployment practices;
+- Clear information to deployers
