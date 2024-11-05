@@ -106,4 +106,7 @@ AI System #1 rule: Do not harm human life, health, property, or the environment.
 
 Safe Operation of AI system is improved through:
 - Responsible design, development, and deployment practices;
-- Clear information to deployers
+- Clear information to deployers on responsible use of the system;
+- responsible decision-making by deployers and end users;
+- explanations and documentation of risk based on empirical evidence of incidents. 
+
