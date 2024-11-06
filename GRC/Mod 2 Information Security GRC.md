@@ -134,3 +134,6 @@ Security and resilience are related but distinct
 *Transparency* - Reflects the extent to which info about an AI sys and its outputs is available to individuals interacting w/ such a sys -- regardless of whether they are even aware that they are doing so.
 
 Accountability presupposes transparency
+
+Promoting higher lvls of understanding, transparency increases confidence in the AI sys
+
