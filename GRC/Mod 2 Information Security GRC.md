@@ -137,3 +137,6 @@ Accountability presupposes transparency
 
 Promoting higher lvls of understanding, transparency increases confidence in the AI sys
 
+A transparent sys is not necessarily an accurate, privacy-enhanced, secure, or fair system.
+
+### 3.5 Explainable and Interpretable 
