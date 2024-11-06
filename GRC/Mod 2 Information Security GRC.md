@@ -140,3 +140,15 @@ Promoting higher lvls of understanding, transparency increases confidence in the
 A transparent sys is not necessarily an accurate, privacy-enhanced, secure, or fair system.
 
 ### 3.5 Explainable and Interpretable 
+----
+*Explainability* - Representation of the mechanisms underlying AI systems' operations
+*Interpretability* - The meaning of AI systems' output in the context of their designed functional purposes.
+
+perception of negative risk is from lack of understanding
+
+Risks to interpretability often can be addressed by communicating a description of why an AI system made a particular prediction or recommendation. 
+
+Transparency, explainability, and interpretability support each other. 
+  - Transparency - can answer the question "What Happened"
+  - Explainability - can answer the question of "How" a decision was made in the system
+  - Interpretability - can answer the question of "Why" a decision was made by 
