@@ -110,3 +110,9 @@ Safe Operation of AI system is improved through:
 - responsible decision-making by deployers and end users;
 - explanations and documentation of risk based on empirical evidence of incidents. 
 
+- Rigorous simulation and in-domain testing, real-monitoring, ability to shut down, modify, or have human intervention into systems that deviate from intended or expected fn.
+
+
+### 3.3 Secure and Resilient
+----
+*Resilient* - System that can withstand unexpected adverse events or unexpected changes in their environment or use -- or if they can maintain
