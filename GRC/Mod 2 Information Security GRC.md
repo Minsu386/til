@@ -170,4 +170,14 @@ Systemic - Present in AI Datasets, the organizational norms, practices, and proc
 Computational - Data sets and algorithmic processes, often stem from systematic errors due to non-representatives names
 Human-Cognitive - relates how society perceives AI systems information to make a decision or fill in missing info, or how human thinks about purposes and fn of an AI system. 
 
+## 4.0 Effectiveness of the AI RMF
+----
+Orgs and user should periodically eval whether the AI RMF has improved their ability to manage risk. 
+- Policies
+- processes
+- practices
+- implementation plans
+- indicators
+- measurements
+- expected outcomes
 
