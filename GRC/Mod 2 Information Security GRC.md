@@ -129,4 +129,8 @@ Security and resilience are related but distinct
   - Resilience - the ability to return to normal fn after an unexpected adverse event.
   - Security - Includes resilience, but also encompasses protocols to avoid, protect against, respond to, or recover from attacks.
 
-### 3.4 Accountable and Trans
+### 3.4 Accountable and Transparent
+----
+*Transparency* - Reflects the extent to which info about an AI sys and its outputs is available to individuals interacting w/ such a sys -- regardless of whether they are even aware that they are doing so.
+
+Accountability presupposes transparency
