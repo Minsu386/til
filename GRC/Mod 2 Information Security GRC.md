@@ -115,4 +115,18 @@ Safe Operation of AI system is improved through:
 
 ### 3.3 Secure and Resilient
 ----
-*Resilient* - System that can withstand unexpected adverse events or unexpected changes in their environment or use -- or if they can maintain
+*Resilient* - System that can withstand unexpected adverse events or unexpected changes in their environment or use -- or if they can maintain their fn and structure in the face of internal and external changes and degrade safely and gracefully when this is necessary. 
+
+Security Concerns 
+- data poisoning;
+- exfiltration of models
+- training data
+- other intellectual property
+
+you're secure if you can maintain CIA and prevent unauthorized access
+
+Security and resilience are related but distinct
+  - Resilience - the ability to return to normal fn after an unexpected adverse event.
+  - Security - Includes resilience, but also encompasses protocols to avoid, protect against, respond to, or recover from attacks.
+
+### 3.4 Accountable and Trans
