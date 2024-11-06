@@ -161,3 +161,8 @@ Privacy should help guide choices for AI system design, development, and deploym
 
 ### 3.7 Fair -- With Harmful Bias Managed
 ----
+NIST id'd 3 major categories of AI bias to be considered.
+1) Systemic
+2) Computational and Statistical
+3) Human-cognitive
+
