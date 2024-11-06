@@ -186,3 +186,11 @@ Orgs and user should periodically eval whether the AI RMF has improved their abi
 
 ## 5.0 AI RMF Core
 ----
+The core is composed of 4 fn.
+  1) Govern
+  2) Map
+  3) Measure
+  4) Manage
+
+![](Meta/Pasted%20image%2020241106053453.png)
+
