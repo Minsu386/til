@@ -167,5 +167,7 @@ NIST id'd 3 major categories of AI bias to be considered.
 3) Human-cognitive
 
 Systemic - Present in AI Datasets, the organizational norms, practices, and processes across the AI lifecycle
-Computational - Data sets and algorithmic processes, often stem from systematic errors due to non-representative sames
+Computational - Data sets and algorithmic processes, often stem from systematic errors due to non-representatives names
 Human-Cognitive - relates how society perceives AI systems information to make a decision or fill in missing info, or how human thinks about purposes and fn of an AI system. 
+
+
