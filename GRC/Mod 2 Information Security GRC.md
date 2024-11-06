@@ -151,4 +151,13 @@ Risks to interpretability often can be addressed by communicating a description 
 Transparency, explainability, and interpretability support each other. 
   - Transparency - can answer the question "What Happened"
   - Explainability - can answer the question of "How" a decision was made in the system
-  - Interpretability - can answer the question of "Why" a decision was made by 
+  - Interpretability - can answer the question of "Why" a decision was made by the system and its meaning or context to the user.
+
+### 3.6 Privacy-Enhanced
+----
+*Privacy* - refers generally to the norms and practices that help to safeguard human autonomy, identity, and dignity. 
+
+Privacy should help guide choices for AI system design, development, and deployment
+
+### 3.7 Fair -- With Harmful Bias Managed
+----
