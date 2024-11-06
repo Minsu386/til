@@ -181,3 +181,8 @@ Orgs and user should periodically eval whether the AI RMF has improved their abi
 - measurements
 - expected outcomes
 
+# Part 2: Core and Profiles
+----
+
+## 5.0 AI RMF Core
+----
