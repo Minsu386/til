@@ -225,12 +225,24 @@ Gathering such broad perspectives can help organizations proactively prevent neg
 
 ### 5.3 Measure
 ----
-- Purpose: Focuses on assessing the performance and risk of AI systems, aiming to measure and evaluate RAI risks
+- Purpose: Focuses on assessing the performance and risk of AI systems, aiming to measure and evaluate AI risks
 - Key Concepts:
   - **Risk Metrics and Indicators:** Define and use metrics to assess AI risks, including performance, fairness and robustness.
   - **Monitoring and Evaluation:** Set up continuous monitoring to detect deviation or emergent risks.
   - **Verification and Validation:** Test and validate that the AI systems meets the intended design requirements.
-  - ****
+  - **Feedback Loops:** Implement systems to learn from issues and incorporate adjustments to improve risk management.
+- **Key Actions:**
+  - Regularly testing the AI model's performance to detect issues early. 
+  - Creating mechanisms for real-time feedback to update the model as necessary.
 ### 5.4 Manage
 ----
-
+- **Purpose:** Implement processes to address and reduce AI system risk continually. 
+- **Key Concepts:**
+  - **Risk Mitigations:** Implement strategies to minimize Identified risks, including bias reductions, security enhancements, and use education. 
+  - **Incident Response:** Have plans in place to address incidents and mitigate impact if risks materialized. 
+  - **Continuous Improvement:** Use feedback from the measure phase to improve the AI systems over time.
+  - **Adaptability:** Ensure the system can evolve w/ changing risks and environments.
+- **Key Actions:** 
+  - Applying appropriate mitigation measures based on identified risks
+  - Setting up a structured response plan for potential AI-related incidents.
+  - Iterating on the AI system design, processes, and policies based on risk management outcomes. 
