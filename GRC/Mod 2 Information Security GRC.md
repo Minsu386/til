@@ -249,3 +249,4 @@ Gathering such broad perspectives can help organizations proactively prevent neg
 
 ## AI RMF Profiles
 ----
+These assist org's in deciding how they might best manage AI risk that is well-aligned w/ their goals, considers legal /regulatory requirements and best practices
