@@ -207,6 +207,18 @@ AI actors often do you not have full access of other parts and their associated 
 The interdependencies between these activities amount different actors can make it difficult to reliably anticipate impacts of AI systems
 - As a result, the best intentions w/in one dimension of the AI lifecycle can be undermined via interaction w/ decisions and conditions in other later activities. 
 
-Outcomes become basis for Measure and Mange
+Outcomes become basis for Measure and Manage fn
 
+The **MAP** fn is intended to enhance an org's ability to identify risks and broader contributing factors.
+
+Fn is enhanced by incorporating perspectives from a diverse internal team 
+
+Gathering such broad perspectives can help organizations proactively prevent negative risks and develop more trustworthy AI systems by:
+  - improving their capacity for understanding contexts;
+  - checking their assumptions about context of use;
+  - enabling recognition of when systems are not fn w/in or out of their intended context;
+  - Id'ing + and beneficial uses of their existing Ai systems;
+  - improving understanding of limitations in AI and ML processes;
+  - Iding constraints in real-world apps that may lead to - impacts;
+  - id'ing known and foreseeable - impacts
 
