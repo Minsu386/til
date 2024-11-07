@@ -220,5 +220,8 @@ Gathering such broad perspectives can help organizations proactively prevent neg
   - Id'ing + and beneficial uses of their existing Ai systems;
   - improving understanding of limitations in AI and ML processes;
   - Iding constraints in real-world apps that may lead to - impacts;
-  - id'ing known and foreseeable - impacts
+  - id'ing known and foreseeable - impacts related to intended use of AI systems;
+  - anticipating risks of use of AI systems beyond use
 
+### 5.3 Measure
+----
