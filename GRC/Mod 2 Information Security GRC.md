@@ -225,3 +225,12 @@ Gathering such broad perspectives can help organizations proactively prevent neg
 
 ### 5.3 Measure
 ----
+- Purpose: Focuses on assessing the performance and risk of AI systems, aiming to measure and evaluate RAI risks
+- Key Concepts:
+  - **Risk Metrics and Indicators:** Define and use metrics to assess AI risks, including performance, fairness and robustness.
+  - **Monitoring and Evaluation:** Set up continuous monitoring to detect deviation or emergent risks.
+  - **Verification and Validation:** Test and validate that the AI systems meets the intended design requirements.
+  - ****
+### 5.4 Manage
+----
+
