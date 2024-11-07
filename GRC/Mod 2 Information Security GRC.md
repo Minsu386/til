@@ -196,4 +196,11 @@ The core is composed of 4 fn.
 
 ### 5.1 Govern
 ----
-Governing Authorities can determin the overarching policies that direct an organization's mission, goals, values, culture, and risk tolerance. 
+Governing Authorities can determine the overarching policies that direct an organization's mission, goals, values, culture, and risk tolerance. 
+
+### 5.2 Map
+---
+*MAP* - fn establishes the context to frame risks related to an AI system. 
+
+AI actors often do you not have full access of other parts and their associated contexts
+
