@@ -194,3 +194,6 @@ The core is composed of 4 fn.
 
 ![](Meta/Pasted%20image%2020241106053453.png)
 
+### 5.1 Govern
+----
+Governing Authorities can determin the overarching policies that direct an organization's mission, goals, values, culture, and risk tolerance. 
