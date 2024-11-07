@@ -246,3 +246,6 @@ Gathering such broad perspectives can help organizations proactively prevent neg
   - Applying appropriate mitigation measures based on identified risks
   - Setting up a structured response plan for potential AI-related incidents.
   - Iterating on the AI system design, processes, and policies based on risk management outcomes. 
+
+## AI RMF Profiles
+----
