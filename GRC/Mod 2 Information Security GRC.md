@@ -204,3 +204,9 @@ Governing Authorities can determine the overarching policies that direct an orga
 
 AI actors often do you not have full access of other parts and their associated contexts
 
+The interdependencies between these activities amount different actors can make it difficult to reliably anticipate impacts of AI systems
+- As a result, the best intentions w/in one dimension of the AI lifecycle can be undermined via interaction w/ decisions and conditions in other later activities. 
+
+Outcomes become basis for Measure and Mange
+
+
