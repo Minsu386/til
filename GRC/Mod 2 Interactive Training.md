@@ -39,3 +39,15 @@ building out tech standards addresses a system design, features, apps, component
     - Determine if this risk level is within acceptable limits for the organization.
 
 Having up-to-date information on each of these areas supports confident, informed decision-making on security matters.
+
+
+## Methods to Maintain Operational Assurance
+----
+3 primary methods to maintain operational assurance
+1) System Assessment
+      - is an event or a continuous process evaluating security. Can vary in scope: my examine an entire sys for authorization or investigate a single anomalous event. 
+  2) System Audit
+      - This is an independant review and exam of records and activities to assess the adequacy of system controls and to ensure compliance w/ established policies and operational procedures.
+  3) System Monitoring
+      - Process for maintaining ongoing awareness of info Sec, vulnerabilities, and threats to support organizational risk management decision.
+- 
