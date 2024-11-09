@@ -7,6 +7,10 @@ ISO/IEC 27001
 
 [Secure Controls Framework - SCF](https://securecontrolsframework.com/) - Focus on GRC and Cybersecurity side of data privacy
 
+[Encryption FIPS 140-2/3](https://csrc.nist.gov/pubs/fips/140-2/upd2/final)
+
+
+
 
 ## Web Security
 ----
