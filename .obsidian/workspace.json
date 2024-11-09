@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Mod 1 Interactive Training.md",
+                "file": "GRC/Mod 2 Case Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mod 1 Interactive Training"
+              "title": "Mod 2 Case Study"
             }
           }
         ],
@@ -242,10 +242,11 @@
   "active": "6b88bdafe3c59ef0",
   "lastOpenFiles": [
     "GRC/Mod 2 Interactive Training.md",
+    "GRC/Mod 2 Case Study.md",
+    "GRC/Mod 1 Interactive Training.md",
     "GRC/Mod 2 Information Security GRC.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "GRC/Mod 1 Interactive Training.md",
     "Meta/Pasted image 20241106053453.png",
     "Meta/Pasted image 20241103203641.png",
     "Meta/Pasted image 20241103203620.png",
@@ -277,7 +278,6 @@
     "Book Review/Modern Software Engineering/Unorganized.md",
     "TypeScript.md",
     "Frontend.md",
-    "Visual Studio Code.md",
     "Meta/Pasted image 20231212104258.png",
     "jetbrains.com/help/webstorm",
     "jetbrains.com/help",
