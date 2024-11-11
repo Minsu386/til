@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Resources.md",
+                "file": "GRC/Mod 2 Interactive Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Mod 2 Interactive Training"
             }
           }
         ],
@@ -241,6 +241,7 @@
   },
   "active": "6b88bdafe3c59ef0",
   "lastOpenFiles": [
+    "GRC/Resources.md",
     "GRC/Mod 2 Case Study.md",
     "GRC/Mod 2 Interactive Training.md",
     "GRC/Mod 1 Interactive Training.md",
@@ -252,7 +253,6 @@
     "Meta/Pasted image 20241103203620.png",
     "Meta/Capture.png",
     "Meta/Pasted image 20241103200910.png",
-    "GRC/Resources.md",
     "GRC/Quiz.md",
     "GRC/NIST 800-12 Introduction to IS.md",
     "MD-102.md",

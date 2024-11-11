@@ -50,4 +50,18 @@ Having up-to-date information on each of these areas supports confident, informe
       - This is an independant review and exam of records and activities to assess the adequacy of system controls and to ensure compliance w/ established policies and operational procedures.
   3) System Monitoring
       - Process for maintaining ongoing awareness of info Sec, vulnerabilities, and threats to support organizational risk management decision.
-- 
+
+
+
+# NIST Cybersecurity Framework Fundamentals
+----
+< ref publication >
+
+NIST CSF Core Functions
+- Identify
+- Protect
+- Detect
+- Respond
+- Recover
+
+Identify - 
