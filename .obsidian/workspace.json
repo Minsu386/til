@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Mod 2 Interactive Training"
             }
+          },
+          {
+            "id": "745cf17d8d101f69",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b88bdafe3c59ef0",
+  "active": "745cf17d8d101f69",
   "lastOpenFiles": [
     "GRC/Resources.md",
     "GRC/Mod 2 Case Study.md",
