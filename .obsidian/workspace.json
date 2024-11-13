@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "745cf17d8d101f69",
+  "active": "6b88bdafe3c59ef0",
   "lastOpenFiles": [
     "GRC/Resources.md",
     "GRC/Mod 2 Case Study.md",
