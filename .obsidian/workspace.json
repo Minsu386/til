@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRC/Mod 2 Information Security GRC.md",
+                "file": "GRC/Mod 3 What to Know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mod 2 Information Security GRC"
+              "title": "Backlinks for Mod 3 What to Know"
             }
           },
           {
@@ -204,12 +204,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRC/Mod 2 Information Security GRC.md",
+                "file": "GRC/Mod 3 What to Know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mod 2 Information Security GRC"
+              "title": "Outgoing links from Mod 3 What to Know"
             }
           },
           {
@@ -218,10 +218,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRC/Mod 2 Information Security GRC.md"
+                "file": "GRC/Mod 3 What to Know.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mod 2 Information Security GRC"
+              "title": "Outline of Mod 3 What to Know"
             }
           },
           {
@@ -247,12 +247,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,10 +261,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f4134f05e10113a",
+  "active": "2c4153cb66efa39b",
   "lastOpenFiles": [
     "GRC/Mod 3 Interactive.md",
     "GRC/Mod 3 What to Know.md",
