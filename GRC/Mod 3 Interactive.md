@@ -60,3 +60,25 @@ Respond
 Recover
 - Recovery Planning
 - Improvements
+
+
+# Intro to CSF Profiles and Tiers
+----
+Every Org profile includes a Current Profile, Target Profile, or both profiles
+
+## Tiers
+----
+Tier 1 - Partial
+Tier 2 - Risk Informed
+Tier 3 - Repeatable
+Tier 4 - Adaptive
+
+Progression - Informal, Ad hoc response -> Agile, risk-informed and continuously improving
+
+Action Plan 
+- Understand Current State
+- Determine Future State Goals
+- Assessment using CSF profiles
+- Determine Current and Target Tiers
+- Gap Analysis and Remediation
+- Continuous Improvement
