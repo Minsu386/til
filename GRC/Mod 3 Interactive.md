@@ -71,7 +71,8 @@ Every Org profile includes a Current Profile, Target Profile, or both profiles
 Tier 1 - Partial
 Tier 2 - Risk Informed
 Tier 3 - Repeatable
-Tier 4 - Adaptive
+Tier 4 - Adaptive (Managed and Measurable)
+
 
 Progression - Informal, Ad hoc response -> Agile, risk-informed and continuously improving
 
