@@ -48,4 +48,15 @@ Protect
 - Awareness and Training
 
 Detect
-- 
+- Anomalies and Events
+- Security Continuous Monitoring
+- Detection Processes
+
+Respond
+- Response Planning
+- Communications
+- Analysis
+
+Recover
+- Recovery Planning
+- Improvements
