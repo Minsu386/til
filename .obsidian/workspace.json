@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Mod 3 What to Know.md",
+                "file": "GRC/Mod 3 Interactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mod 3 What to Know"
+              "title": "Mod 3 Interactive"
             }
           },
           {
@@ -267,8 +267,8 @@
   },
   "active": "9f4134f05e10113a",
   "lastOpenFiles": [
-    "GRC/Mod 3 Interactive.md",
     "GRC/Mod 3 What to Know.md",
+    "GRC/Mod 3 Interactive.md",
     "GRC/Resources.md",
     "GRC/Mod 2 Case Study.md",
     "GRC/Mod 2 Interactive Training.md",

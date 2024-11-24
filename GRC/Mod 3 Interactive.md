@@ -23,3 +23,29 @@ Core Functions
 - **Analyze the gaps between the *Current* and *Target* Profiles and create an action plan** Conduct a Gap Analysis to identify and analyze the differences between the Current and Target Profiles, and develop a prioritized action plan (e.g., risk register, risk detail report, plan of action, and milestones [POA&M]) to address those gaps
 
 - **Implement the action plan and update the Orgs Profile** - Follow the action plan to address the gaps and move the orgs toward the Target Profile. An action plan may have an overall deadline or be ongoing. 
+
+Function
+  Process
+
+Govern
+  - Context
+  - Strategy
+  - Policies and Procedures
+  - Legal and Regulatory Environment
+  - Risk Management
+  - Risk Assessment
+  - Cybersecurity Policy Management
+  - Privacy and Civil Liberties
+
+Identify
+  - Asset management
+  - Business Environment
+  - Governance
+
+Protect
+- Access Control
+- Data Security
+- Awareness and Training
+
+Detect
+- 
