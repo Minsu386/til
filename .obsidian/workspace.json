@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "b8e84ba45b177d22",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "745cf17d8d101f69",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -265,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f4134f05e10113a",
+  "active": "b8e84ba45b177d22",
   "lastOpenFiles": [
     "GRC/Mod 3 Interactive.md",
     "GRC/Mod 3 What to Know.md",
