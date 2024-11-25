@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Mod 3 IS Assessments, Remediation Planning, and Reporting.md",
+                "file": "GRC/Mod 4 IS Gap Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mod 3 IS Assessments, Remediation Planning, and Reporting"
+              "title": "Mod 4 IS Gap Assessment"
             }
           },
           {
@@ -293,12 +293,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51311e5877126e4f",
+  "active": "4981f5fed8b6d4a8",
   "lastOpenFiles": [
+    "GRC/Mod 3 IS Assessments, Remediation Planning, and Reporting.md",
     "GRC/Mod 4 IS Gap Assessment.md",
     "Meta/Pasted image 20241125055210.png",
     "GRC/Mod 2 Information Security Governance, Risk, and Compliance.md",
-    "GRC/Mod 3 IS Assessments, Remediation Planning, and Reporting.md",
     "GRC/Mod 1 Information Security (IS) Fundamentals.md",
     "Meta/Pasted image 20241125053724.png",
     "GRC/Resources.md",
