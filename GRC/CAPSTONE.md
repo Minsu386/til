@@ -61,7 +61,10 @@ Configuration and Compliance Review
   - Consists of identifying inadequate security settings and determining the process an org uses to secure its systems
 Penetration Test
   - Focus on "How could a malicious hacker gain unauthorized access"
-
+Physical Security Assessment
+  - Checks the physical controls in place, from public spaces outside the org's control to the most protected physical location
+Social Engineering Test
+  - Determine how  well an org trains its staff on IS threats and who in an org is particularly vulnerable to being socially engineered
 
 
 
