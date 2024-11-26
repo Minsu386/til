@@ -65,6 +65,8 @@ Physical Security Assessment
   - Checks the physical controls in place, from public spaces outside the org's control to the most protected physical location
 Social Engineering Test
   - Determine how  well an org trains its staff on IS threats and who in an org is particularly vulnerable to being socially engineered
+Vulnerability Scan
+  -  Demonstrates active technical vulnerabilities as well as an org's process for managing vulnerabilities. 
 
 
 
