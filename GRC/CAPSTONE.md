@@ -3,6 +3,25 @@
 # COLLECT EVIDENCE
 ----
 ## Documentation
+----
+Many different sources
+- Audit and Assessment Reports
+    - External Audit Reports - 3rd party audits assessing the orgs compliance w/ relevant standards and regulations
+    - Internal Audit Reports - Documentation of internal reviews and audits of cybersecurity practices and controls
+- Compliance Documentation
+    - Regulatory Compliance Reports: Documents demo compliance w/ laws and regulations relevant to cybersecurity, such as SOC 2 Type 2 and PCI DSS
+- Configuration Management Documentation
+    - Configuration Standards - Documents detailing the standard configurations for hardware and software within the org
+    - Change Management Logs - Records of changes made to system configurations, including the rational and impact assessments.
+- Continuity and Disaster Recovery Plans
+    - Business Continuity Plans (BCP) - Strategies for continuing operations under adverse conditions, such as cyber - attacks or natural disasters
+    - Disaster Recovery Plans (DRP) - Procedures for recovering from significant disruptions, focusing on IT systems and data restoration
+- Policies and Procedures 
+    - Cybersecurity Policies - Written guidelines outlining the org approach to managing and protecting against cybersecurity risks
+    - Incident Response Plan - A documented plan detailing the orgs steps to respond to any major impact affecting operations
+    - Access Control Policies - Guidelines for how access to information systems and data is granted, changed, and revoked
+- Risk Assessments
+    - Risk management Reports - Documents detailing the results of risk assessment activities, including ident
 
 ## Interviews
 ----
