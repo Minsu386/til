@@ -56,6 +56,11 @@ Describe how your cybersecurity strategy aligns w/ the orgs broader obj and risk
 What other Risk assessments do you do?
 - recently started conducting regular risk assessments to identify potential threats and implement controls accordingly. This includes a blend of technical measures, employee training, and incident response planning.
 ## Test
+----
+Configuration and Compliance Review
+  - Consists of identifying inadequate security settings and determining the process an org uses to secure its systems
+Penetration Test
+  - Focus on "How could a malicious hacker gain unauthorized access"
 
 
 
