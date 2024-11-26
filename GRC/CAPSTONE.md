@@ -69,5 +69,5 @@ Vulnerability Scan
   -  Demonstrates active technical vulnerabilities as well as an org's process for managing vulnerabilities. 
 
 
-
-
+# Capturing Evidence in the CSF Profile
+----
