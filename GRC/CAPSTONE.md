@@ -21,7 +21,20 @@ Many different sources
     - Incident Response Plan - A documented plan detailing the orgs steps to respond to any major impact affecting operations
     - Access Control Policies - Guidelines for how access to information systems and data is granted, changed, and revoked
 - Risk Assessments
-    - Risk management Reports - Documents detailing the results of risk assessment activities, including ident
+    - Risk management Reports - Documents detailing the results of risk assessment activities, including identified risks, their likelihood, and potential impacts
+    - Risk Mitigation Strategies - Plans outlining measures taken to mitigate identified risks. 
+- Security Measures and Controls Documentation
+    - Firewall and IDS/IPS Configuration - Documentation on the setup and configuration of firewalls and intrusion detection/prevention systems
+    - Encryption Standards - Guidelines on the use of encryption to protect data in transit and at rest
+- System and Network Diagrams
+    - Architecture Diagrams - Visual representations of the IT infrastructure, including network topology, data flows, and system interdependencies
+    - Data Flow Diagram - Diagrams showing how data moves through the orgs systems and networks, highlighting critical data processing points
+- Service Level Agreements (SLAs) and Contracts
+    - Vendor Contracts - Agreements with 3rd party vendors and service providers, outlining security requirements and responsibilities
+    - SLAs - Documents specifying the expected level of service from vendors, including availability, performance, and security metrics
+- Training and Awareness Program Documentation
+    - Training Materials - Documents and presentations used in cybersecurity training programs for employees
+    - Awareness Campaigns - Records of efforts made to promote cybersecurity awareness within the orgs
 
 ## Interviews
 ----
