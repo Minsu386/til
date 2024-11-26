@@ -71,3 +71,11 @@ Vulnerability Scan
 
 # Capturing Evidence in the CSF Profile
 ----
+![](Meta/Pasted%20image%2020241126062329.png)
+CSF outcome statements describe how a particular information security control should be implemented
+
+![](Meta/Pasted%20image%2020241126062429.png)
+This section is where we will document what our findings for the current assessment are. 
+
+![](Meta/Pasted%20image%2020241126062534.png)
+This section is used to set expectations for future IS controls and to help plan actions to improve the implementation of IS controls. 
