@@ -1,8 +1,9 @@
-# SCOPE
+# Phase 1 SCOPE
 
-# COLLECT EVIDENCE
+# Phase 2 GAP Assessment
+## COLLECT EVIDENCE
 ----
-## Documentation
+### Documentation
 ----
 Many different sources
 - Audit and Assessment Reports
@@ -36,7 +37,7 @@ Many different sources
     - Training Materials - Documents and presentations used in cybersecurity training programs for employees
     - Awareness Campaigns - Records of efforts made to promote cybersecurity awareness within the orgs
 
-## Interviews
+### Interviews
 ----
 What procedures do you have in place to integrate cybersecurity awareness from the moment a new employee joins the company?
   - Everyone undergoes security awareness training as part of their onboarding process. Also have ongoing training programs and simulated phishing to keep security top of mind for our staff. 
@@ -55,7 +56,7 @@ Describe how your cybersecurity strategy aligns w/ the orgs broader obj and risk
 
 What other Risk assessments do you do?
 - recently started conducting regular risk assessments to identify potential threats and implement controls accordingly. This includes a blend of technical measures, employee training, and incident response planning.
-## Test
+### Test
 ----
 Configuration and Compliance Review
   - Consists of identifying inadequate security settings and determining the process an org uses to secure its systems
@@ -79,3 +80,7 @@ This section is where we will document what our findings for the current assessm
 
 ![](Meta/Pasted%20image%2020241126062534.png)
 This section is used to set expectations for future IS controls and to help plan actions to improve the implementation of IS controls. 
+
+
+# Phase 3 Assessment Reporting
+## Writing the Assessment Report
