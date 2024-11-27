@@ -39,3 +39,5 @@ https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final
 
 
 
+https://github.com/hslatman/awesome-threat-intelligence?tab=readme-ov-file
+

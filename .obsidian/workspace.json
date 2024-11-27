@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/CAPSTONE.md",
+                "file": "GRC/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAPSTONE"
+              "title": "Resources"
             }
           },
           {
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "f58a044f3151cd87",
@@ -296,11 +295,11 @@
   },
   "active": "4981f5fed8b6d4a8",
   "lastOpenFiles": [
+    "GRC/CAPSTONE.md",
     "Meta/Pasted image 20241126062534.png",
     "Meta/Pasted image 20241126062429.png",
     "Meta/Pasted image 20241126062329.png",
     "GRC/Mod 4 IS Gap Assessment.md",
-    "GRC/CAPSTONE.md",
     "GRC/Mod 3 IS Assessments, Remediation Planning, and Reporting.md",
     "Meta/Pasted image 20241125055210.png",
     "GRC/Mod 2 Information Security Governance, Risk, and Compliance.md",
@@ -321,7 +320,6 @@
     "Meta/Pasted image 20241103203641.png",
     "Meta/Pasted image 20241103203620.png",
     "Meta/Capture.png",
-    "Meta/Pasted image 20241103200910.png",
     "GRC/Archive/Quiz.md",
     "GRC/Archive/NIST 800-12 Introduction to IS.md",
     "MD-102.md",
