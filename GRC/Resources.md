@@ -41,3 +41,8 @@ https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final
 
 https://github.com/hslatman/awesome-threat-intelligence?tab=readme-ov-file
 
+https://www.nccoe.nist.gov/search?keywords=Government
+
+https://www.ncsc.gov.uk/information/gdpr
+
+https://github.com/hslatman/awesome-threat-intelligence?tab=readme-ov-file
