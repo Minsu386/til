@@ -95,4 +95,15 @@ Findings will include a determination statement
   - Not Implemented
   - etc...
 
+## How to write a Recommendation
+----
+How to resolve the gaps identified in an assessment is written in the recommendation area. 
+
+Some frameworks/standards the auditor can not give recommendations as this would be considered advising or consulting. There may be a requirements for the auditor to maintain separation from how controls are implemented.
+
+Balance providing clear instructions with also providing instructions that the company can actually follow. 
+
+Examples:
+- Document formal job descriptions that align with key information security, compliance, and privacy roles. Ensure specific responsibilities are authorities are defined. 
+- Implement mandatory employee acknowledgement of the AUP. This will 
 
