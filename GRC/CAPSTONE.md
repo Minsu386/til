@@ -109,3 +109,10 @@ Examples:
 - Establish a formal process to include threat intelligence in day-to-day security operations. 
 
 ## Generate IS GAP Assessment Report in Impact IRM
+
+
+# Q & A
+What Tier to choose?
+  two pieces of evidence that you will support the tier you choose.
+    1) The Client findings field in the assessment (think of this as the interview-like answers that PGI gave in response to each of the controls), 
+    2) The documents that can be viewed in the assessment (sometimes you will find parts of policies that speak directly to controls, while other times you will find gaps in what should be included in the policies).
