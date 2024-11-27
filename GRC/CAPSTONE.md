@@ -105,5 +105,7 @@ Balance providing clear instructions with also providing instructions that the c
 
 Examples:
 - Document formal job descriptions that align with key information security, compliance, and privacy roles. Ensure specific responsibilities are authorities are defined. 
-- Implement mandatory employee acknowledgement of the AUP. This will 
+- Implement mandatory employee acknowledgement of the AUP. This will confirm the identification documentation, and effective implementation of rules for acceptable use and procedures for handling information and other associated assets.
+- Establish a formal process to include threat intelligence in day-to-day security operations. 
 
+## Generate IS GAP Assessment Report in Impact IRM
