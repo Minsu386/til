@@ -70,7 +70,7 @@ Vulnerability Scan
   -  Demonstrates active technical vulnerabilities as well as an org's process for managing vulnerabilities. 
 
 
-# Capturing Evidence in the CSF Profile
+## Capturing Evidence in the CSF Profile
 ----
 ![](Meta/Pasted%20image%2020241126062329.png)
 CSF outcome statements describe how a particular information security control should be implemented
@@ -84,3 +84,15 @@ This section is used to set expectations for future IS controls and to help plan
 
 # Phase 3 Assessment Reporting
 ## Writing the Assessment Report
+----
+Findings are assessor statements that describe whether security and privacy controls are properly employed. 
+Findings will include a determination statement
+  - Satisfied
+  - Other than satisfied
+  - Met
+  - Not Met
+  - Implemented
+  - Not Implemented
+  - etc...
+
+
