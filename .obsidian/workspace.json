@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRC/Mod 2 Information Security Governance, Risk, and Compliance.md",
+                "file": "GRC/General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mod 2 Information Security Governance, Risk, and Compliance"
+              "title": "General"
             }
           },
           {
@@ -295,8 +295,9 @@
   },
   "active": "4981f5fed8b6d4a8",
   "lastOpenFiles": [
-    "GRC/Resources.md",
     "GRC/Mod 2 Information Security Governance, Risk, and Compliance.md",
+    "GRC/General.md",
+    "GRC/Resources.md",
     "GRC/Mod 1 Information Security (IS) Fundamentals.md",
     "GRC/Mod 4 IS Gap Assessment.md",
     "GRC/CAPSTONE.md",
