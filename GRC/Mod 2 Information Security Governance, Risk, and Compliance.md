@@ -1,3 +1,5 @@
+Module 2 covers the IS governance, risk, and compliance concepts you must know to successfully plan for and conduct an IS assessment, including assurance, security and privacy control assessments, risk assessment fundamentals, cybersecurity framework fundamentals, and control families. Module 2 also introduces the Zero Trust security model and artificial intelligence.
+
 ![](Meta/Pasted%20image%2020241125053724.png)
 
 # AI RMF 1.0: AI Risk Management Framework

@@ -1,3 +1,6 @@
+Module 1 covers the IS fundamentals concepts you must know to successfully plan for and conduct an IS assessment including roles and responsibilities, threats and vulnerabilities, risk management, and policy.
+
+
 ![](Meta/Pasted%20image%2020241125051943.png)
 
 
