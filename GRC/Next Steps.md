@@ -20,7 +20,7 @@ companies that provide those types of assessments.
 https://marketplace.fedramp.gov/assessors) and CMMC (Link: https://cyberab.org/Catalog)  
 • FedRAMP tends to serve larger organizations, while CMMC covers small to large-sized  
 organizations.  
-How can you best navigate the hiring process of these organiza;ons?  
+How can you best navigate the hiring process of these organizions?  
 • Look for internships as well as full-time roles.  
 • Information Security certifications can be a qualifier for certain jobs.  
 o Well-known certifications: Sec+, CISM, CISA, CISSP  
