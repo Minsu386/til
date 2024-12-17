@@ -180,3 +180,136 @@ This lab is now ready for **hands-on practice** with cybersecurity tools like Ne
 
 # Phase 2
 ----
+
+**Episode 2: Building Vulnerable Machines for the Cybersecurity Lab**
+
+Welcome back to _Episode 2_ of the _Ultimate Cybersecurity Lab Project_. In the previous episode, we:
+
+1. Built the **PFSense Firewall** and configured VLANs, DHCP, and firewall rules.
+2. Set up **Kali Linux** and **Ubuntu VM** with Docker and Portainer installed.
+
+If you missed Episode 1, make sure to go back and watch it since it’s foundational for the network setup.
+
+---
+
+### Part 1: Setting Up Metasploitable 2 VM
+
+1. **Create the VM in Proxmox**:
+    
+    - Change the VM ID to `204` and name it `prod_MS2`.
+    - Skip media, set the device to IDE, and assign the VM to **VLAN 10**.
+2. **Download and Convert Metasploitable Image**:
+    
+    - SSH into the Proxmox server:
+        
+        bash
+        
+        Copy code
+        
+        `ssh root@192.168.0.14 cd /var/lib/vz mkdir 204 && cd 204 wget <Metasploitable2_Link> unzip Metasploitable2.zip`
+        
+    - Convert the `.vmdk` file to `qcow2`:
+        
+        bash
+        
+        Copy code
+        
+        `qemu-img convert -f vmdk -O qcow2 Metasploitable.vmdk metasploitable.qcow2`
+        
+    - Update the VM config file to use the new `qcow2` disk.  
+        Example:
+        
+        bash
+        
+        Copy code
+        
+        `nano /etc/pve/qemu-server/204.conf`
+        
+        Replace the file path with the new `qcow2` file.
+3. **Verify the VM**:
+    
+    - Start the VM in Proxmox and log in with:
+        - Username: `msfadmin`
+        - Password: `msfadmin`.
+    - Confirm IP configuration:
+        
+        bash
+        
+        Copy code
+        
+        `ifconfig`
+        
+    - Ping the firewall and test DNS resolution.
+
+---
+
+### Part 2: Deploying Containers with Portainer
+
+We will deploy three vulnerable web applications:
+
+- **BWA** (BodgeIt Web App)
+- **DVWA** (Damn Vulnerable Web App)
+- **WebGoat**
+
+1. **Set Up MACVLAN for Containers**:
+    
+    - Create a new network in Portainer for VLAN 30.
+    - SSH into the Docker server to find the adapter name:
+        
+        bash
+        
+        Copy code
+        
+        `ssh user@10.10.10.135 ip a`
+        
+    - Add the MACVLAN network in Portainer using the following settings:
+        - Subnet: `10.10.30.0/24`
+        - Gateway: `10.10.30.254`
+        - Range: `10.10.30.128/27`
+2. **Deploy Containers**:
+    
+    - **BodgeIt Web App**:
+        
+        bash
+        
+        Copy code
+        
+        `docker run -d --name prod_bwa --network vlan30 <bwa_image>`
+        
+    - **DVWA**:
+        
+        bash
+        
+        Copy code
+        
+        `docker run -d --name prod_dvwa --network vlan30 <dvwa_image>`
+        
+    - **WebGoat**:
+        
+        bash
+        
+        Copy code
+        
+        `docker run -d --name prod_webgoat --network vlan30 <webgoat_image>`
+        
+    - Verify IPs and access the apps via the browser.
+
+---
+
+### Part 3: Verifying the Containers
+
+- Test each container:
+    - Access BWA, DVWA, and WebGoat using their assigned IPs.
+    - Ensure all services are running and accessible.
+
+---
+
+### What’s Next?
+
+Now that we’ve built our **vulnerable machines**, we’ll move on to **deploying security tools** like:
+
+- **Wazuh**
+- **Nessus**
+- Other scanning tools.
+
+We’ll use these tools to scan the machines and expand the lab further with Windows systems.
