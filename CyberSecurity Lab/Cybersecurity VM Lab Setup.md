@@ -1,6 +1,6 @@
-
 # Phase 1
 ----
+
 #### **Prerequisites**
 
 1. Ensure you have **Proxmox** installed and running.
@@ -19,7 +19,6 @@
 ### **Step 1: Set Up pfSense Firewall**
 
 1. **Create pfSense VM**:
-    
     - Go to **Proxmox > Create VM**.
     - Set **ID**: `2011`, Name: `prod-firewall`.
     - Select the **pfSense ISO**.
@@ -27,8 +26,8 @@
         - Interface 1: `vmbr0` (WAN)
         - Interface 2: Add a new Linux Bridge: `vmbr2` for LAN.
     - Allocate **32 GB storage**.
+
 2. **Configure pfSense**:
-    
     - Start the VM and follow the prompts.
     - **Network Setup**:
         - WAN: `vtnet0`
@@ -37,20 +36,20 @@
         - **IP**: `10.10.1.254/24`
         - Enable DHCP: Start: `10.10.1.50`, End: `10.10.1.100`.
     - **Reboot**.
+
 3. **Create VLANs**:
-    
     - Go to **Interfaces > VLANs**:
         - VLAN 10: Security Tools (10.10.10.0/24)
         - VLAN 20: Windows Environment (10.10.20.0/24)
         - VLAN 30: Docker (10.10.30.0/24)
     - Assign VLANs to `vmbr2` and configure static IPs.
+
 4. **Firewall Rules**:
-    
     - Go to **Firewall > Rules**:
         - Copy LAN rule (Allow All) to VLAN 10, 20, and 30.
         - Update **Source** to match each VLAN subnet.
+
 5. **Enable DHCP for VLANs**:
-    
     - Go to **Services > DHCP Server**:
         - VLAN 10: `10.10.10.50 - 10.10.10.100`
         - VLAN 20: `10.10.20.50 - 10.10.20.100`
@@ -61,79 +60,77 @@
 ### **Step 2: Deploy Kali Linux (Attack Machine)**
 
 1. **Create VM**:
-    
     - **ID**: `202`, Name: `prod-kali`.
     - Select **Kali Linux ISO**.
     - **Storage**: 120 GB.
     - **RAM**: 8 GB.
     - Assign to VLAN 10 (`vmbr2`).
+
 2. **Install Kali**:
-    
     - Follow setup prompts.
     - **Username/Password**: `student`/`your-password`.
     - Verify connectivity:
-        - Ping the firewall LAN IP: `10.10.1.254`.
+        ```bash
+        ping 10.10.1.254
+        ```
 
 ---
 
 ### **Step 3: Set Up Ubuntu Server (Docker Host)**
 
 1. **Create VM**:
-    
     - **ID**: `203`, Name: `prod-docker`.
     - Select **Ubuntu Server ISO**.
     - **Storage**: 100 GB.
     - **RAM**: 16 GB.
     - Assign to VLAN 30.
+
 2. **Install Ubuntu Server**:
-    
     - Enable **OpenSSH** during installation.
     - Reboot and verify the IP (e.g., `10.10.30.50`).
+
 3. **Install Docker**:
-    
     - SSH into the Ubuntu server:
-        
-        bash
-        
-        Copy code
-        
-        `sudo apt-get update sudo apt-get remove docker docker-engine docker.io containerd runc sudo apt-get install apt-transport-https ca-certificates curl software-properties-common curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add - sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" sudo apt-get update sudo apt-get install docker-ce sudo systemctl start docker sudo systemctl enable docker`
-        
+        ```bash
+        sudo apt-get update
+        sudo apt-get remove docker docker-engine docker.io containerd runc
+        sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+        sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+        sudo apt-get update
+        sudo apt-get install docker-ce
+        sudo systemctl start docker
+        sudo systemctl enable docker
+        ```
+
 4. **Verify Docker**:
-    
-    bash
-    
-    Copy code
-    
-    `sudo docker run hello-world`
-    
+    ```bash
+    sudo docker run hello-world
+    ```
+
 5. **Install Portainer**:
-    
     - Pull the Portainer image and run:
-        
-        bash
-        
-        Copy code
-        
-        `sudo docker volume create portainer_data sudo docker run -d -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce`
-        
+        ```bash
+        sudo docker volume create portainer_data
+        sudo docker run -d -p 9000:9000 --name=portainer --restart=always \
+          -v /var/run/docker.sock:/var/run/docker.sock \
+          -v portainer_data:/data portainer/portainer-ce
+        ```
     - Access Portainer at: `http://10.10.30.50:9000`.
-        
 
 ---
 
 ### **Step 4: Set Up Windows Active Directory**
 
 1. **Create Windows Server VM**:
-    
     - **ID**: `204`, Name: `prod-ad`.
     - Select **Windows Server 2022 ISO**.
     - Assign to VLAN 20.
     - Configure:
         - **Roles**: Active Directory Domain Services (AD DS).
         - **IP**: `10.10.20.10`.
+
 2. **Add Windows 10 and 11 Clients**:
-    
     - Create two VMs for Windows 10 and 11.
     - Join both machines to the domain.
 
@@ -142,11 +139,10 @@
 ### **Step 5: Add Vulnerable Machines**
 
 1. **Download Vulnerable ISOs**:
-    
     - Examples: **Metasploitable 2**, **DVWA**, **OWASP BWA**.
     - Assign to VLAN 40.
+
 2. **Create VMs**:
-    
     - Configure static IPs within the `10.10.40.0/24` range.
 
 ---
@@ -155,10 +151,13 @@
 
 1. From Kali Linux:
     - Ping:
-        - Firewall LAN IP: `10.10.1.254`
-        - Docker Host: `10.10.30.50`
-        - Windows AD: `10.10.20.10`
+        ```bash
+        ping 10.10.1.254
+        ping 10.10.30.50
+        ping 10.10.20.10
+        ```
     - SSH into Ubuntu Server.
+
 2. Verify DNS and DHCP functionality.
 
 ---
@@ -177,139 +176,63 @@ You have now:
 
 This lab is now ready for **hands-on practice** with cybersecurity tools like Nessus, Security Onion, and more.
 
+---
 
 # Phase 2
 ----
 
-**Episode 2: Building Vulnerable Machines for the Cybersecurity Lab**
+### **Episode 2: Building Vulnerable Machines for the Cybersecurity Lab**
 
 Welcome back to _Episode 2_ of the _Ultimate Cybersecurity Lab Project_. In the previous episode, we:
 
 1. Built the **PFSense Firewall** and configured VLANs, DHCP, and firewall rules.
 2. Set up **Kali Linux** and **Ubuntu VM** with Docker and Portainer installed.
 
-If you missed Episode 1, make sure to go back and watch it since it’s foundational for the network setup.
-
 ---
 
-### Part 1: Setting Up Metasploitable 2 VM
+### **Part 1: Setting Up Metasploitable 2 VM**
 
 1. **Create the VM in Proxmox**:
-    
-    - Change the VM ID to `204` and name it `prod_MS2`.
-    - Skip media, set the device to IDE, and assign the VM to **VLAN 10**.
-2. **Download and Convert Metasploitable Image**:
-    
-    - SSH into the Proxmox server:
-        
-        bash
-        
-        Copy code
-        
-        `ssh root@192.168.0.14 cd /var/lib/vz mkdir 204 && cd 204 wget <Metasploitable2_Link> unzip Metasploitable2.zip`
-        
-    - Convert the `.vmdk` file to `qcow2`:
-        
-        bash
-        
-        Copy code
-        
-        `qemu-img convert -f vmdk -O qcow2 Metasploitable.vmdk metasploitable.qcow2`
-        
-    - Update the VM config file to use the new `qcow2` disk.  
-        Example:
-        
-        bash
-        
-        Copy code
-        
-        `nano /etc/pve/qemu-server/204.conf`
-        
-        Replace the file path with the new `qcow2` file.
-3. **Verify the VM**:
-    
-    - Start the VM in Proxmox and log in with:
-        - Username: `msfadmin`
-        - Password: `msfadmin`.
-    - Confirm IP configuration:
-        
-        bash
-        
-        Copy code
-        
-        `ifconfig`
-        
-    - Ping the firewall and test DNS resolution.
+    ```bash
+    ssh root@192.168.0.14
+    cd /var/lib/vz
+    mkdir 204 && cd 204
+    wget <Metasploitable2_Link>
+    unzip Metasploitable2.zip
+    qemu-img convert -f vmdk -O qcow2 Metasploitable.vmdk metasploitable.qcow2
+    nano /etc/pve/qemu-server/204.conf
+    ```
 
 ---
 
-### Part 2: Deploying Containers with Portainer
+### **Part 2: Deploying Containers with Portainer**
 
-We will deploy three vulnerable web applications:
+1. **MACVLAN Setup**:
+    ```bash
+    ssh user@10.10.10.135
+    ip a
+    ```
 
-- **BWA** (BodgeIt Web App)
-- **DVWA** (Damn Vulnerable Web App)
-- **WebGoat**
-
-1. **Set Up MACVLAN for Containers**:
-    
-    - Create a new network in Portainer for VLAN 30.
-    - SSH into the Docker server to find the adapter name:
-        
-        bash
-        
-        Copy code
-        
-        `ssh user@10.10.10.135 ip a`
-        
-    - Add the MACVLAN network in Portainer using the following settings:
-        - Subnet: `10.10.30.0/24`
-        - Gateway: `10.10.30.254`
-        - Range: `10.10.30.128/27`
 2. **Deploy Containers**:
-    
-    - **BodgeIt Web App**:
-        
-        bash
-        
-        Copy code
-        
-        `docker run -d --name prod_bwa --network vlan30 <bwa_image>`
-        
+    - **BWA**:
+        ```bash
+        docker run -d --name prod_bwa --network vlan30 <bwa_image>
+        ```
     - **DVWA**:
-        
-        bash
-        
-        Copy code
-        
-        `docker run -d --name prod_dvwa --network vlan30 <dvwa_image>`
-        
+        ```bash
+        docker run -d --name prod_dvwa --network vlan30 <dvwa_image>
+        ```
     - **WebGoat**:
-        
-        bash
-        
-        Copy code
-        
-        `docker run -d --name prod_webgoat --network vlan30 <webgoat_image>`
-        
-    - Verify IPs and access the apps via the browser.
+        ```bash
+        docker run -d --name prod_webgoat --network vlan30 <webgoat_image>
+        ```
 
 ---
 
-### Part 3: Verifying the Containers
-
-- Test each container:
-    - Access BWA, DVWA, and WebGoat using their assigned IPs.
-    - Ensure all services are running and accessible.
-
----
-
-### What’s Next?
+### **What’s Next?**
 
 Now that we’ve built our **vulnerable machines**, we’ll move on to **deploying security tools** like:
 
 - **Wazuh**
 - **Nessus**
 - Other scanning tools.
-
-We’ll use these tools to scan the machines and expand the lab further with Windows systems.
