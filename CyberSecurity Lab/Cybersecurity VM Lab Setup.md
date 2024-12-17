@@ -236,3 +236,6 @@ Now that we’ve built our **vulnerable machines**, we’ll move on to **deployi
 - **Wazuh**
 - **Nessus**
 - Other scanning tools.
+
+
+# Phase 3
