@@ -239,3 +239,209 @@ Now that we’ve built our **vulnerable machines**, we’ll move on to **deployi
 
 
 # Phase 3
+
+# Ultimate SEAR Security Lab Project: Episode 3
+
+Welcome back to the **Ultimate SEAR Security Lab Project**! Here's a quick recap:
+
+- **Episode 1:** We built the pfSense firewall, Kali Linux instance, Docker server, and Active Directory.
+- **Episode 2:** We deployed several vulnerable machines, including Metasploitable2 and various vulnerable Docker containers.
+- **Episode 3 (Current):** We’ll build **Wazuh** (SIEM and XDR tool) and **Nessus** (vulnerability scanner).
+
+If you’re new here, I recommend watching the earlier episodes, as each builds on the previous one.
+
+---
+
+## Wazuh Installation
+
+### Step 1: Build the Wazuh VM
+
+1. **VM Setup:**
+    
+    - Use **Ubuntu** as the base image.
+    - Assign **ID: 205**, set the name to `prod-wazuh`, and allocate 160 GB storage for logs.
+    - Configure 4 vCPUs, 8 GB RAM, and assign a static IP (e.g., `10.1.1.51`).
+2. **Ubuntu Build Process:**
+    
+    - Set up a static IP:
+        - Subnet: `10.10.10/24`
+        - Gateway: `10.1.1.254`
+        - DNS: Use your firewall IP (`10.1.1.254`) and Google DNS.
+    - Complete the setup, create user credentials, install OpenSSH, and reboot.
+3. **Update the OS:**
+    
+    bash
+    
+    Copy code
+    
+    `sudo apt update && sudo apt upgrade`
+    
+
+---
+
+### Step 2: Install Wazuh
+
+1. **Run the installation command:**  
+    Copy the one-liner command from the Wazuh documentation and execute it.
+2. **Access the Wazuh web interface:**
+    - Open the browser and navigate to `https://10.1.1.51`.
+    - Log in using the credentials provided during installation.
+
+---
+
+### Step 3: Configure Agents
+
+#### (A) **Kali Linux Agent**
+
+1. On the Kali Linux machine:
+    
+    - Elevate to root:
+        
+        bash
+        
+        Copy code
+        
+        `sudo -i`
+        
+    - Execute the installation commands:
+        
+        bash
+        
+        Copy code
+        
+        `wget <agent-repo-url> sudo apt update sudo apt install wazuh-agent`
+        
+    - Configure the agent to point to the Wazuh server (`10.1.1.51`).
+    - Start the agent.
+2. Verify in the Wazuh web interface:
+    
+    - Go to **Agents** and ensure the Kali Linux agent is connected.
+
+#### (B) **Docker Server Agent**
+
+1. SSH into the Docker server and repeat the same process as above:
+    
+    - Install the agent and configure it to point to the Wazuh server.
+    - Enable and start the agent.
+2. Enable Docker container monitoring:
+    
+    - Install the Docker listener on the Wazuh server.
+    - Update the Wazuh agent config file with Docker monitoring settings.
+
+---
+
+### Step 4: pfSense Firewall Integration
+
+1. **Enable SSH on pfSense:**
+    
+    - Log in to the pfSense web interface, go to **System > Advanced**, and enable Secure Shell.
+2. **Install Wazuh Agent:**
+    
+    - Enable FreeBSD package management.
+    - Install the Wazuh agent using the appropriate version.
+3. **Send Logs to Wazuh:**
+    
+    - Configure pfSense to forward logs (e.g., syslogs) to the Wazuh server.
+    - Create a Wazuh group and rules for pfSense-specific logs.
+4. **Verify:**
+    
+    - Check the Wazuh interface to ensure logs and events are populating correctly.
+
+---
+
+## Next Steps: Deploy Nessus
+
+The next tool to deploy in this lab is **Nessus**, a vulnerability scanner. This involves creating another VM and performing similar setup steps. Stay tuned for detailed instructions in the next segment!
+
+---
+
+Let me know if you’d like more details on any part!
+
+4o
+
+##### You said:
+
+change the last response to be markdown capatible
+
+###### ChatGPT said:
+
+ChatGPT
+
+Here’s the response formatted for Markdown compatibility:
+
+---
+
+## Markdown-Compatible Version
+
+### Overview of the Video
+
+In this video, we continue building our **Ultimate Security Lab Project**. Here's a quick summary of the previous episodes:
+
+- **Episode 1**: Built the pfSense firewall, Kali Linux instance, Docker server, and AD container.
+- **Episode 2**: Deployed vulnerable machines, including Metasploitable2 and various vulnerable containers.
+- **Episode 3 (This Episode)**: Focused on deploying **Wazuh** (SEIM/XDR tool) and **Nessus** (vulnerability scanner).
+
+If you're new, watch the previous episodes to follow the progression.
+
+---
+
+### Building the Wazuh VM
+
+1. **VM Setup**:
+    
+    - Created a new Ubuntu VM with:
+        - **ID**: 205
+        - **Name**: prod-wazuh
+        - **Storage**: 160GB (for log storage)
+        - **vCPUs**: 4
+        - **RAM**: 8GB (8192MB)
+        - **Network**: VLAN 1 (Static IP: `10.1.1.<next-available>`)
+2. **Configuration**:
+    
+    - Set static IP (`10.1.1.51`), gateway (`10.1.1.254`), and name servers (local firewall + Google DNS).
+    - Completed the Ubuntu installation, set up SSH, updated the system, and prepared for Wazuh installation.
+3. **Installing Wazuh**:
+    
+    - Ran a single command to install Wazuh Server.
+    - Logged into the Wazuh web interface and configured it.
+
+---
+
+### Deploying Wazuh Agents
+
+1. **Kali Linux Agent**:
+    
+    - Installed the Wazuh agent using provided commands.
+    - Configured the agent to communicate with the Wazuh server (`10.1.1.51`).
+    - Validated the agent connection in the Wazuh web interface.
+2. **Docker Server Agent**:
+    
+    - Repeated the installation process on the Docker server.
+    - Enabled the **Wazuh Docker Listener** to monitor container activity.
+3. **pfSense Firewall Agent**:
+    
+    - Enabled SSH and FreeBSD package manager.
+    - Installed the Wazuh agent and configured it to forward logs to the server.
+    - Created custom rules and decoders in Wazuh to process firewall logs.
+
+---
+
+### Monitoring and Logs
+
+1. **Agent Validation**:
+    
+    - Verified active agent connections in the Wazuh dashboard.
+    - Checked logs from the Kali Linux instance, Docker server, and pfSense firewall.
+2. **pfSense Log Customization**:
+    
+    - Enabled firewall drop events (disabled by default).
+    - Added new rules and decoders to improve log visibility in Wazuh.
+
+---
+
+### Next Steps
+
+With Wazuh fully deployed and integrated, the next task is to install **Nessus**. Stay tuned for the upcoming episode, where we'll:
+
+- Deploy Nessus as a VM.
+- Configure it for vulnerability scanning.
