@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity Lab/Cybersecurity VM Lab Setup.md",
+                "file": "GRC/Next Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybersecurity VM Lab Setup"
+              "title": "Next Steps"
             }
           },
           {
@@ -295,10 +295,10 @@
   },
   "active": "b8e84ba45b177d22",
   "lastOpenFiles": [
-    "GRC/Next Steps.md",
-    "CyberSecurity Lab/Cybersecurity VM Lab Setup.md",
-    "CyberSecurity Lab",
     "GRC/Resources.md",
+    "CyberSecurity Lab/Cybersecurity VM Lab Setup.md",
+    "GRC/Next Steps.md",
+    "CyberSecurity Lab",
     "GRC/Mod 3 IS Assessments, Remediation Planning, and Reporting.md",
     "GRC/Mod 2 Information Security Governance, Risk, and Compliance.md",
     "GRC/Mod 1 Information Security (IS) Fundamentals.md",

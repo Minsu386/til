@@ -1,4 +1,4 @@
-RC Analyst Course – What Next?  
+GRC Analyst Course – What Next?  
 What jobs use the skills from the GRC Analyst Course?  
 • There are two categories of jobs that you should consider: Internal & External GRC Analysts  
 o An internal GRC Analyst works for one company and could be asked to work with diBerent  
