@@ -34,3 +34,19 @@
     - Tailgating: Physical security breach where an unauthorized person gains access to a restricted area by following closely behind an authorized individual who has access privileges
 - **Malware**: Viruses, worms, trojans, ransomware, spyware
 - **Denial-of-Services (DOS) & Distributed DOS (DDoS)**: Overwhelming a system to disrupt services
+- **Man-in-the-Middle (MitM)**: Intercepting communication between two parties.
+- **SQL Injection**: Injecting malicious SQL queries into databases
+- **Zero-day Attack**: Exploiting unknown vulnerabilities
+
+# 1.5 Explain Security Assessments and testing
+- **Vulnerability Scanning**: Identifies weaknesses (non-intrusive)
+- **Penetration Testing**: Simulates real -world attacks (intrusive)
+- **Red Team vs Blue Team**: 
+    - Read Team: Offensive Security testers
+    - Blue Team: Defensive Security testers
+
+# 1.6 Summarize security frameworks and guidelines
+- **NIST (National Institute of Standards and Technology)**: Guidelines for cybersecurity best practices
+- **ISO 27001**: International standard for information Security Management Systems (ISMS).
+- **CIS Controls**: Best practices to defend against cyber threats
+- **SOC 2**: Security compliance for service providers
