@@ -21,3 +21,9 @@
 
 # 1.3 Explain the importance of security controls
 ----
+**Administrative Control**: Policies, training, risk assessments.
+**Technical Controls**: Firewalls, encryption, intrusion detection systems (IDS).
+**Physical Controls**: Locks, security guards, cameras
+
+# 1.4 Identify attack types and threats
+-
