@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Security+/Domain 1.0.md",
+                "file": "CompTIA Security+/Domain 1.0 General Security Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain 1.0"
+              "title": "Domain 1.0 General Security Concepts"
             }
           },
           {
@@ -296,7 +296,7 @@
   "active": "b8e84ba45b177d22",
   "lastOpenFiles": [
     "ZTM/NextJS/2. Fundamentals.md",
-    "CompTIA Security+/Domain 1.0.md",
+    "CompTIA Security+/Domain 1.0 General Security Concepts.md",
     "CompTIA Security+",
     "ZTM/NextJS/1. Introduction.md",
     "ZTM/Learning to Learn.md",
