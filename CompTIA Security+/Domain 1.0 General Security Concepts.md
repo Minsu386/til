@@ -15,4 +15,9 @@
 - **SOC Analyst**: Monitor security alerts and incidents
 - **Security Engineer**: Designs and implements security solutions.
 - **CISO (Chief Information Security Officer**):  Leads security strategy.
-- 
+- **Incident Responder**: Investigates and mitigates security incidents.
+- **Penetration Tester**: Simulates cyber-attacks to identify vulnerabilities.
+- **Forensic Analyst**: Collects and analyzes evidence after an incident
+
+# 1.3 Explain the importance of security controls
+----
