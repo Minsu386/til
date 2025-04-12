@@ -50,3 +50,9 @@
 - **ISO 27001**: International standard for information Security Management Systems (ISMS).
 - **CIS Controls**: Best practices to defend against cyber threats
 - **SOC 2**: Security compliance for service providers
+
+# 1.7 Explain security awareness and training
+- **Phishing Simulations**: Helps employees recognize fake emails
+- **Security Policies**: Guidelines on passwords, data handling, and incident reporting
+- **Security Awareness Training**: Educating users on cybersecurity risk
+
