@@ -45,4 +45,53 @@ A large multinational company uses a cloud-based document storage system. The sy
     D.Role-based access control
 
 The IT team of a medium-sized business is planning to enhance network security. They want to enforce minimum security controls and configurations across all network devices, including firewalls, routers, and switches. What should they establish to achieve this objective?
-    
+    **A.Network security baselines** 
+    B.Data encryption protocols 
+    C.Intrusion detection systems (IDS) 
+    D.Virtual private network (VPN)
+
+An organization is enhancing its security measures to combat email-based threats after being targeted in a whaling attack. Regarding email security, what uses tenets from authentication methods and encryption features to define rules for handling messages, such as moving messages to quarantine or spam, rejecting them entirely, or tagging them?
+    **A.DMARC**
+    B.EDR 
+    C.DKIM 
+    D.SPF
+
+The IT department of a medium-sized company explores various mobile solutions to improve productivity and enable employees to work efficiently on their mobile devices. What is considered a critical strategy that IT departments can use to manage, secure, and enforce policies on smartphones, tablets, and other endpoints?
+    **A. MDM**
+    B. COBO
+    C. COPE
+    D. CYOD
+
+An organization needs a solution for controlling and monitoring all inbound and outbound web content, analyzing web requests, blocking access based on various criteria, and offering detailed logging and reporting of web activity. Which of the following solutions is the MOST suitable in this situation?
+    A.Manual URL blocking 
+    B.Agent-based filtering 
+    **C.Centralized web filtering** 
+    D.Content categorization
+
+A software technician enhances the organization’s network by implementing various techniques to protect the company’s web traffic. Which centralized web filtering technique uses proxy servers to leverage continually updated databases that scores websites based on their observed behavior and history?
+    A.Content categorization 
+    B.Block Rules 
+    **C.Reputation-based filtering** 
+    D.URL scanning
+
+The CEO of a large defense contractor wants to validate that the organization's cybersecurity protections can effectively identify and defend against attacks by known threat actor groups. Which type of exercise is the BEST option to satisfy the CEO's requirements?
+    A.Training 
+    B.Walkthrough 
+    C.Tabletop exercise 
+    **D.Simulation**
+
+A cyber architect explores various automated methods for managing access for newly hired employees or employees transitioning into new roles. Which of the following benefits best represents the capabilities of automated user provisioning systems? (Select the two best options.)
+    **A.It can create, modify, or delete individual user accounts.** 
+    **B.It can create, modify, or delete individual users' access rights across IT systems.** 
+    C.It can deallocate IT servers to users. 
+    D.It can assist users by giving access to networks and storage.
+
+A system administrator is assessing the broader context of the company's IT security posture in light of recent expansions in both workstations and servers. This assessment includes understanding the impact of various external and internal factors on the organization's IT infrastructure. Aside from the organization's IT infrastructure itself, what are two other significant factors that should be considered in this assessment? (Select the two best options.)
+    **A.External threat landscape B.Regulatory/compliance environment** C.Prioritization 
+    D.Risk tolerance
+
+Your team is implementing multifactor authentication (MFA) options to improve security. Which method utilizes individuals' unique physical characteristics to verify their identity?
+    A.Smart cards 
+    B.SMS-based one-time passwords
+    **C.Biometrics** 
+    D.Passwords and PINs

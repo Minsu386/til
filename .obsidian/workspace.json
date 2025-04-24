@@ -106,6 +106,20 @@
             }
           },
           {
+            "id": "37673fb4f98acbba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Security+/Quizes/Domain 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain 3"
+            }
+          },
+          {
             "id": "4981f5fed8b6d4a8",
             "type": "leaf",
             "state": {
@@ -132,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -307,10 +321,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcc99448756d527f",
+  "active": "37673fb4f98acbba",
   "lastOpenFiles": [
-    "CompTIA Security+/Quizes/Domain 2.md",
+    "Untitled 1.md",
     "CompTIA Security+/Quizes/Domain 3.md",
+    "CompTIA Security+/Quizes/Domain 2.md",
     "CompTIA Security+/Quizes/Domain 1.md",
     "CompTIA Security+/Domain 1.0 General Security Concepts.md",
     "CompTIA Security+/Quizes",
@@ -320,7 +335,6 @@
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 4.0 Security Operations",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts",
     "CompTIA Security+/Sec+ SY0-701 Book",
-    "Untitled 1.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
