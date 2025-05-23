@@ -148,6 +148,16 @@
             }
           },
           {
+            "id": "96d5e52d9c91d542",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "4981f5fed8b6d4a8",
             "type": "leaf",
             "state": {
@@ -174,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -227,8 +237,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -350,10 +359,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb3bce0f4f7e29a7",
+  "active": "96d5e52d9c91d542",
   "lastOpenFiles": [
-    "AZ-104.md",
+    "PowerShell.md",
     "Bash.md",
+    "AZ-104.md",
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
     "CyberSecurity Lab/Cybersecurity VM Lab Setup.md",
     "BIO.md",
@@ -384,7 +394,6 @@
     "GRC/Mod 1 Information Security (IS) Fundamentals.md",
     "GRC/Mod 4 IS Gap Assessment.md",
     "GRC/Archive/Mod 2 Case Study.md",
-    "GRC/Employment leads.md",
     "Meta/Pasted image 20241126062534.png",
     "Meta/Pasted image 20241126062429.png",
     "Meta/Pasted image 20241126062329.png",
