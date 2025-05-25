@@ -12,10 +12,6 @@
 
 ## ARM Template File structure
 
-
-
-
-
 | Element            | Description                                                                                                                                                                                                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **schema**         | A required section that defines the location of the JSON schema file that describes the structure of JSON data. The version number you use depends on the scope of the deployment and your JSON editor.                                                                                                                                  |
@@ -28,6 +24,22 @@
 | **output**         | An optional section where you specify the values that are returned at the end of the deployment.                                                                                                                                                                                                                                         |
 
 
+## Deploy
+``` Azure CLI
+az login
+```
+
+``` PowerShell
+Connect-AzAccount
+```
+
+Define your resource group. You can obtain available location values from : `az account list-location` CLI or `Get-AzLocation` PowerShell.  You can config the default location using `az configure --defaults location=<location>`
+
+
+
 
 
 [AZ-104](AZ-104.md)
+
+
+
