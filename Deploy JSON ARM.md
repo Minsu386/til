@@ -35,7 +35,13 @@ Connect-AzAccount
 
 Define your resource group. You can obtain available location values from : `az account list-location` CLI or `Get-AzLocation` PowerShell.  You can config the default location using `az configure --defaults location=<location>`
 
+```azure cli
+az deployment group create --name {name of your resource group} --location "{location}"
+```
 
+```PowerShell
+New-AzResourceGroup -Name {name of your resource group} -Location "{location}"
+```
 
 
 
