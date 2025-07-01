@@ -1,0 +1,1 @@
+Regulatory feature of wireless access points that prevents use of certain 5 GHz channels when in range of a facility that uses radar.
