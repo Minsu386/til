@@ -45,7 +45,7 @@ New-AzResourceGroup -Name {name of your resource group} -Location "{location}"
 
 
 
-[AZ-104](AZ-104.md)
+[AZ-104](Certifications/AZ-104.md)
 
 
 

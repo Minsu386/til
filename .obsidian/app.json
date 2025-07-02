@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Meta",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,

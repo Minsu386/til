@@ -12,5 +12,5 @@ Get-Member
 # Resources
 - [Intro to PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/02-help-system?view=powershell-7.5)
 
-[AZ-104](AZ-104.md), [Bash](Bash.md)
+[AZ-104](Certifications/AZ-104.md), [Bash](Bash.md)
 
