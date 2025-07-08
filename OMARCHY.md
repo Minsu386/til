@@ -31,3 +31,6 @@ gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys FC918B335044912E
 
 or 
 `gpg --recv-keys 1C61A2656FB57B7E4DE0F4C1FC918B335044912E`
+
+install omarch
+`wget -qO- https://omarchy.org/install | bash`
