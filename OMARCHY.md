@@ -1,3 +1,10 @@
+wifi setup:
+`iwctl`
+`device list`
+`station wlan0 get-networks`
+`station wlan0 connect "your ssid"`
+
+
 update archinstall
 `pacman -Sy archinstall`
 
