@@ -14,3 +14,8 @@ curl -sS https://download.spotify.com/debian/pubkey_C85668DF69375001.gpg | gpg -
 ```
 
 public key dropbox
+```
+gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys FC918B335044912E
+
+```
+
