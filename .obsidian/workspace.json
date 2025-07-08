@@ -49,8 +49,7 @@
               "title": "OMARCHY"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4981f5fed8b6d4a8",
+  "active": "a817de2dabeaaefc",
   "lastOpenFiles": [
+    "OMARCHY.md",
     "AWS.md",
     "GRC/Employment leads.md",
-    "OMARCHY.md",
     "Certifications/AZ-104.md",
     "Bash.md",
     "CompTIA Security+/Quizes/Domain 4.md",
