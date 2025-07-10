@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2460dc98f85cf0f0",
+        "id": "9b9a37437ef5cd5a",
         "type": "tabs",
         "children": [
           {
-            "id": "fa5e038fd4694889",
+            "id": "ce11687388feead8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -192,8 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa5e038fd4694889",
+  "active": "ce11687388feead8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
     "OMARCHY.md",
     "Certifications/AZ-104.md",
     "AWS.md",
@@ -202,7 +209,6 @@
     "CompTIA Security+/Quizes/Domain 4.md",
     "CompTIA Security+/Domain 1.0 General Security Concepts.md",
     "GRC/Archive/Mod 3 What to Know.md",
-    "Untitled 1.md",
     "Certifications/MD-102 From Microsoft.md",
     "Certifications/MD-102 Endpoint Admin.md",
     "Deploy JSON ARM.md",
@@ -223,8 +229,6 @@
     "Untitled 3.md",
     "ZTM/NextJS/2. Fundamentals.md",
     "CompTIA Security+",
-    "ZTM/NextJS/1. Introduction.md",
-    "ZTM/Learning to Learn.md",
     "ZTM/NextJS",
     "CyberSecurity Lab",
     "Meta/Pasted image 20241126062534.png",
