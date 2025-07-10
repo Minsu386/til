@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "showLineNumber": true,
   "useTab": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "vimMode": true
 }
