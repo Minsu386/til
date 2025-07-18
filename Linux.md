@@ -12,4 +12,9 @@
 - change password
         `passwd`
 
+- Change hostname
+        `sudo hostnamectl set-hostname mylinuxname`
+    In cloud env, to preserve host name edit `/etc/cloud/cloud.cfg` and change "preserve_hostname" to true
+
+
 
