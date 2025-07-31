@@ -35,8 +35,7 @@
               "title": "Linux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42575fc3f07eaf19",
+  "active": "ce11687388feead8",
   "lastOpenFiles": [
-    "OMARCHY.md",
     "Linux.md",
+    "OMARCHY.md",
     "Untitled 2.md",
     "Untitled.md",
     "Certifications/AZ-104.md",
