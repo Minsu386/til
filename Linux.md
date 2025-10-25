@@ -17,4 +17,8 @@
     In cloud env, to preserve host name edit `/etc/cloud/cloud.cfg` and change "preserve_hostname" to true
 
 
+## Install files
+
+### tar.xz files
+----
 
