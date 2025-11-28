@@ -22,4 +22,11 @@ Classic Administrators is the original role system. You should use the new RBAC 
 **Classic Administrators have three types of roles:**
 1) **Account Administrator** - The billing owner of the subscription. Has no access to the Azure portal
 2) **Service Administrator** - Same access of a use assigned the Owner role at subscription scope. Full access to the azure portal.
-3) **Co-Administrator** - same access of a user who is assigned 
+3) **Co-Administrator** - same access of a user who is assigned the Owner role at the subscription scope
+
+A few important Built-In Azure AD roles I should know:
+- **Global Administrator**: Full access to everything
+- **User Administrator**: Full access to create and manage users
+- **Billing Administrator**: Make purchases, manage subscriptions and support tickets
+
+Must have Azure AD Premium P1 or P2 to create custom roles
