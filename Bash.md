@@ -15,4 +15,4 @@ How to use I/O Operators?
 
 
 
-[[Certifications/AZ-104]], [[Shell]], [[PowerShell]]
+[[Certifications/Arhive/AZ-104]], [[Shell]], [[PowerShell]]
