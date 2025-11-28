@@ -25,12 +25,14 @@
             "id": "5462d6d492f91fd8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Certifications/AZ-104/Azure Roles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Azure Roles"
             }
           }
         ],
@@ -213,8 +215,10 @@
   },
   "active": "5462d6d492f91fd8",
   "lastOpenFiles": [
-    "Certifications/AZ-104/1) Entra ID/Untitled.md",
+    "Untitled 1.md",
+    "Certifications/AZ-104/Azure Roles.md",
     "Certifications/AZ-104/Device Management.md",
+    "Certifications/AZ-104/1) Entra ID/Untitled.md",
     "Certifications/AZ-104/1) Entra ID",
     "Linux.md",
     "Certifications/Arhive/AZ-104.md",
@@ -242,11 +246,9 @@
     "CompTIA Security+/Quizes",
     "CompTIA Security+/Untitled.md",
     "CompTIA Security+/resources.md",
-    "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts/Compare and Contrast Various Types of Security Controls.md",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 4.0 Security Operations",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts",
     "CompTIA Security+/Sec+ SY0-701 Book",
-    "Untitled 4.md",
     "CompTIA Security+",
     "ZTM/NextJS",
     "Meta/Pasted image 20241126062534.png",
