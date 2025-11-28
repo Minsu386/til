@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Device Management"
             }
+          },
+          {
+            "id": "5462d6d492f91fd8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "456ccee7b3d198d7",
+  "active": "5462d6d492f91fd8",
   "lastOpenFiles": [
     "Certifications/AZ-104/1) Entra ID/Untitled.md",
     "Certifications/AZ-104/Device Management.md",

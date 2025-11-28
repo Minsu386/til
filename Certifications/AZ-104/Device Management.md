@@ -23,4 +23,4 @@ There are 3 main ways to enroll devices into Entra ID:
 
 ## MAM 
 - Controls only corporate apps -- not the entire device
-- Allows you 
+- Allows you to **publish, configure, protect, monitor, and update** apps across devices
