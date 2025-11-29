@@ -15,4 +15,8 @@ You can **Bring your own Linux** by creating a Linux Virtual Hard Disk (VHD)
 Azure VMs come in variety of sizes that are also optimized for specific use cases.
 - General Purpose, Compute Optimized, Memory Optimized, Storage Optimized, GPU, High Performance Compute
 
-**Azure Compute Unit (ACU)** provides a way of comparing compute (CPU)
+**Azure Compute Unit (ACU)** provides a way of comparing compute (CPU) performance across Azure SKUs
+ACU is currently standardized on a **Small (Standard_A1)**  VM with the value of 100
+All other SKUs then represent approximately how much faster that SKU can run a standard benchmark
+
+You can install the **Azure Mobile App**, and you can monitor your VMs on the go
