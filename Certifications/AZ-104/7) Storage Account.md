@@ -78,3 +78,18 @@
     - **At Rest**: Using Azure Storage Service Encryption (SSE)
     - **In Transit**: Using SMB 3.0+ with encryption or HTTPS
 - **Azure File Sync**: Cache Azure File shares on an on-premises Windows Server or Cloud VM
+
+**Azure Import/Export Service**
+- **Import Options**: Use your own disk drives or Microsoft-provided Drives.
+- **Disk Preparation**: Use the WAImportExport tool for preparing, copying, and encrypting data.
+- **Tool Compatibility**: Only with 64-Bit Windows
+- **Export jobs**: Ship up to 10 empty drives to Azure Per job
+
+**Shared Access Signatures (SAS)**
+- **Type**:
+    - **Account-Level SAS**: Access to one or more storage services.
+    - **Service-Level SAS**: Access to a single Storage account
+    - **User Delegation SAS**: Access using Azure AD Credentials, limited to Blob and Containers
+- **Formats**
+    - **Ad Hoc SAS**: Includes start time, expiry time, and permissions in the URI.
+    - **Service SAS with Stored Access Policy**: Defined on a resource container, can be associated with multiple SAS
