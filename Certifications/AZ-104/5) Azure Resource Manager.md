@@ -33,3 +33,18 @@ Scope is a Boundary of control for azure resources. It is a way to govern your r
 **Resource Groups** - A logical grouping of multiple resources
 
 **Resources** - An Azure service eg. Azure VMs
+
+**Resource Providers** - A list of possible services within Azure, some services are registered by default and others need to explicitly be registered.
+
+**Resource Tags** - Are a Key and Value pair that you can assign to Azure resources
+
+Resource locks prevent users from accidentally modifying for deleting resources at the Subscription, Resource Group or Resource Scope
+
+
+**CanNotDelete** - Authorized users can still read and modify a resource, but they can't delete the resource.
+
+**ReadOnly** - Authorized users can read a resource, but they can't delete or update the resource
+
+**Azure Blueprints** - Enables Quick creation of governed subscriptions.
+- Relationship between the blueprint definition (what should be deployed) and the blueprint assignment (what was deployed)
+- Can also upgrade several subscription at once that are governed by the same blueprint
