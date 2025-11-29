@@ -66,7 +66,20 @@ Azure offers 4 tiers of disk: Ultra Disk, Premium SSD, Standard SSD, Standard HD
         - Suited for data-intensive workloads such as SAP HANA, top tier databases, and transaction-heavy workloads
         - Can only be used as data disk (use a premium SSD for OS Disk). Only supported with very specific VM series
 2) Premium SSD high-performance and low-latency disk support for Azure VMs with input/output (IO)-intensive workloads
-        - Suitable for missio
-
+        - Suitable for mission-critical production applications
+        - Only be used with VM series that are premium storage-compatible
+        - Guaranteed IOPS, and throughput of that disk (standard tiers don't have IOPS guarantees)
+        - Designed to provide low single-digit ms latencies and target IOPS and throughput described in the preceding table 99.9% of the time
+3) Standard SSD cost-effective storage option optimized for workloads that need consistent performance at lower IOPS level
+        - Compared to standard HDDs, standard SSDs deliver better availability, consistency, reliability, and latency.
+        - Suitable for Web servers, low IOPS application servers, lightly used enterprise applications, and Dev/Test workloads
+        - Designed to provide single-digit ms latencies and the IOPS and throughput up to the limits described in the preceding table 99% of the time
+        - IOPS and throughput may vary sometimes depending on the traffic patterns, available on all Azure VMs
+4) Standard HDD reliable, low-cost disk support for VMs running latency-insensitive workloads
+        - Available on all Azure VMs
+        - Latency, IOPS , and throughput of standard HDD disk may vary more widely as compared to SSd-based disks
+        - designed to deliver write latencies under 10ms and read latencies under 20ms for mostIO operations
+        - available in all Azure regions and can be used with all Azure VMs
+        
 
 
