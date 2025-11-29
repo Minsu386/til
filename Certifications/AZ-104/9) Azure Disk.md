@@ -43,4 +43,24 @@ There are 3 main disk  roles in Azure, The data disk, the OS disk, the temporary
 - **Temporary Disk**
     - Most VMs contains a temporary disk, which is not managed disk.
     - Provides short-term storage for applications and processes, and is intended to only stgore data such as page or swap files
-    - Data on the temporary disk m
+    - Data on the temporary disk may be lost during a maintenance event or when you redeploy a VM
+    - During a successful standard reboot of the VM, data on the temporary disk will persist
+    - The temporary disk is typically /dev/sdb and on Linux and Windows VMs the temporary disk is D; by default
+    - Not encrypted by SSE unless you enable encryption at host
+
+A managed disk snapshot is a read-only crash-consistent full copy of a managed disk that is stored as a standard managed disk by default
+- Snapshots are point in time recovery
+- Snapshots exist independent of the source disk and can be used to create new managed disk
+- Snapshots are billed based on the used size
+- You can see the used size of your snapshots by looking at the Azure usage report
+
+A managed custom image creates an image of your disk from your VM. Contains all managed disk associated with a Vm, OS and data disk
+
+A snapshot doesn't have awareness of any disk except the one it contains.
+
+For a single disk use a **managed disk snapshot**, for multiple disk such as striping use a manged custom disk
+
+Azure offers 4 tiers of disk: Ultra Disk, Premium SSD, Standard SSD, Standard HDD
+
+
+
