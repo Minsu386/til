@@ -1,0 +1,1 @@
+**Azure Virtual Machine**: Allows you to create Linux and Windows virtual machines
