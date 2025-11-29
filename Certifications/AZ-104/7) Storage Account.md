@@ -55,4 +55,16 @@
 
 **Replication Types** 
 - **Primary Region Redundancy** 
-    - ****
+    - **Locally Redundant Storage (LRS)** - Copies data synchronously in the primary region. **Cheapest Option**
+    - **Zone-Redundant Storage (ZRS)** - Copies data synchronously across 3 AZs in the primary region
+- **Secondary Region Redundancy**
+    - **Geo-Redundant Storage (GRS)** - Copies data synchronously in the primary region, asynchronously to another region
+    - **Geo-Zone-Redundant Storage (GZRS)** - Copies data synchronously across 3 AZs in the primary region and asynchronously to another region.
+- **Read Access Redundancy** 
+    - **Read-Access Geo-Redundant Storage (RA-GRS)**
+    - **Read-Access Geo-Zone-Redundant Storage RA-GZRS)**
+
+
+**Azure Files**
+- **Managed File Shares** - Centralized server for storage with multiple connections.
+- **Mounting** - The file share's filesystem will be accessible within your directory tree
