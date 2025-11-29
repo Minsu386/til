@@ -40,4 +40,19 @@
 - **Premium Performance** - Stored on SDD
 - **Access Tiers** - Hot, Cool, Archive (standard only)
 
-**Types**
+**Types of Blobs**
+- **Block Blobs** - Store text and binary data, managed individually
+- **Append Blobs** - Optimized for append operations, ideal for logging data from virtual machine
+- **Page Blobs** - Store random access files up to 8 TB, serve as disks for Azure Virtual machine
+
+**Blob Lifecycle Management**
+- **Role-Based Policies** - Transition data to different tiers (e.g, after 30days move to cool storage)
+- **Operations** 
+    - **From Cooler Tier** - Billed as a write operation
+    - **From Hotter Tier** - Billed as a read operation
+- **Cool and Archive Early Deletion** - Early deletion charges may apply
+
+
+**Replication Types** 
+- **Primary Region Redundancy** 
+    - ****
