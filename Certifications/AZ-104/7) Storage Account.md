@@ -7,4 +7,13 @@
 - **Deployment Models** - ARM, Classic
 
 **General-Purpose v2** 
-- **Type** - 
+- **Type** - Blob, File, Queue, Table, Disk, Data Lake Gen2
+- **Performance Tiers** - Standard, Premium
+- **Access Tiers** - hot, Cool, Archive (standard only)
+- **Replication** - LRS, GRS, RA-GRS, ZRS, GZRS, RA-GZRS
+
+**Blob Storage (Legacy)** - 
+- **Type** - Blob (Block, Append) 
+- **Performance Tiers** - Standard
+- **Access Tiers** - Hot, Cool, Archive
+- **Replication** - LRS, GRS, RA-GRS
