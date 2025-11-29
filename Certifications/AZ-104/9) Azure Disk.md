@@ -61,6 +61,12 @@ A snapshot doesn't have awareness of any disk except the one it contains.
 For a single disk use a **managed disk snapshot**, for multiple disk such as striping use a manged custom disk
 
 Azure offers 4 tiers of disk: Ultra Disk, Premium SSD, Standard SSD, Standard HDD
+1) Ultra Disk deliver high throughput, high I/OPS, and consistent low latency disk storage for Azure VMs
+        - Dynamically Change the the performance of the disk, without the need to restart your VM
+        - Suited for data-intensive workloads such as SAP HANA, top tier databases, and transaction-heavy workloads
+        - Can only be used as data disk (use a premium SSD for OS Disk). Only supported with very specific VM series
+2) Premium SSD high-performance and low-latency disk support for Azure VMs with input/output (IO)-intensive workloads
+        - Suitable for missio
 
 
 
