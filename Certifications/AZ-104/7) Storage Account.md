@@ -68,3 +68,13 @@
 **Azure Files**
 - **Managed File Shares** - Centralized server for storage with multiple connections.
 - **Mounting** - The file share's filesystem will be accessible within your directory tree
+- **Backup** - Use shared snapshots for backup, retain for up to 10 years.
+- **Store Tiers**: 
+    - **Premium** - SSD with single-digit millisecond latency
+    - **Transaction Optimized** - HDD with heavy workload optimization
+    - **Hot** - Optimized for general-purpose file sharing.
+    - **Cool** - Cost-efficient storage on HDD for archive scenarios 
+- **Encryption**:
+    - **At Rest**: Using Azure Storage Service Encryption (SSE)
+    - **In Transit**: Using SMB 3.0+ with encryption or HTTPS
+- **Azure File Sync**: Cache Azure File shares on an on-premises Windows Server or Cloud VM
