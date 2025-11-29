@@ -28,4 +28,19 @@ You can use **Azure Private Links** to ensure traffic between Azure Disks and VM
     - Azure Disk Encryption (ADE) allows you to encrypt the OS and Data disks used by an IaaS Virtual Machine
     - For Windows Encryption is done by **BitLocker**
     - For Linux encryption is done by **DM-Crypt**
-- 
+
+There are 3 main disk  roles in Azure, The data disk, the OS disk, the temporary disk
+- **Data Disk**
+    - A managed disk that's attached to a virtual machine to store application data, or other data you need to keep
+    - Registered as SCSI drives and are labeled with a letter that you choose
+    - Has a max capacity of 32,767 gibibytes (GiB)
+    - The size of the VM determines how many data disks you can attach and the type of storage you can use
+- **OS DISK**
+    - Every virtual machine has one attached os disk
+    - That OS disk has a pre-installed OS, which was selected when the VM was created.
+    - The disk contains the boot volume
+    - This disk has a max capacity of 4,095 GiB
+- **Temporary Disk**
+    - Most VMs contains a temporary disk, which is not managed disk.
+    - Provides short-term storage for applications and processes, and is intended to only stgore data such as page or swap files
+    - Data on the temporary disk m
