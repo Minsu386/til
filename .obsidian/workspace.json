@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/2) Device Management.md",
+                "file": "Certifications/AZ-104/7) Storage Account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Device Management"
-            }
-          },
-          {
-            "id": "5462d6d492f91fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certifications/AZ-104/6) ARM Templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6) ARM Templates"
+              "title": "7) Storage Account"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,14 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5462d6d492f91fd8",
+  "active": "456ccee7b3d198d7",
   "lastOpenFiles": [
-    "Certifications/AZ-104/5) Azure Resource Manager.md",
     "Certifications/AZ-104/6) ARM Templates.md",
-    "Certifications/AZ-104/4) Azure Policies.md",
+    "Certifications/AZ-104/7) Storage Account.md",
     "Certifications/AZ-104/2) Device Management.md",
-    "Certifications/AZ-104/3) Azure Roles.md",
     "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Certifications/AZ-104/5) Azure Resource Manager.md",
+    "Certifications/AZ-104/4) Azure Policies.md",
+    "Certifications/AZ-104/3) Azure Roles.md",
     "Certifications/AZ-104/1) Entra ID/Untitled.md",
     "Certifications/AZ-104/1) Entra ID",
     "Linux.md",
@@ -229,8 +217,6 @@
     "Certifications/AZ-104",
     "Certifications/Arhive",
     "OMARCHY.md",
-    "Untitled 2.md",
-    "Untitled.md",
     "AWS.md",
     "GRC/Employment leads.md",
     "Bash.md",
@@ -244,7 +230,6 @@
     "CompTIA A+/Core 2/4.0 Operational Procedures/4.2 Explain basic change-management best practice.md",
     "CyberSecurity Lab/Cybersecurity VM Lab Setup.md",
     "BIO.md",
-    "CompTIA Security+/Quizes/Domain 2.md",
     "CompTIA Security+/Quizes",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 4.0 Security Operations",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts",
