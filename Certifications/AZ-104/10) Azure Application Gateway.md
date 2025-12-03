@@ -19,4 +19,5 @@ An Application Gateway is composed of Frontends, Routing Rules, and Backends:
                 - Requests are matched according to the order of the rules and the type of listener
                 - Add your basic listeners last otherwise it will capture all requests
         **Backend targets** Choose where a route should go either **Backend Pool** or **Redirection**
-            - To create a rule for B
+            - To create a rule for Backend Pool you need to create **HTTP Setting**
+                - Defines how we want to handle cookies, connection draining, port request time out and more. 

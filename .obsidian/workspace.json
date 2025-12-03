@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/10) Azure Application Gateway.md",
+                "file": "Certifications/AZ-104/11) Scale Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10) Azure Application Gateway"
+              "title": "11) Scale Sets"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "456ccee7b3d198d7",
   "lastOpenFiles": [
-    "Untitled.md",
     "Certifications/AZ-104/10) Azure Application Gateway.md",
+    "Certifications/AZ-104/11) Scale Sets.md",
+    "Untitled.md",
     "Certifications/AZ-104/9) Azure Disk.md",
     "Certifications/AZ-104/8) Virtual Machine.md",
     "Certifications/AZ-104/7) Storage Account.md",
@@ -229,7 +230,6 @@
     "Certifications/MD-102 From Microsoft.md",
     "Certifications/MD-102 Endpoint Admin.md",
     "Deploy JSON ARM.md",
-    "PowerShell.md",
     "CompTIA Security+/Quizes",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 4.0 Security Operations",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts",
