@@ -68,4 +68,13 @@ Application Insights is an Application Performance Management (APM) service it i
 - Includes powerful analytics tools to help you diagnose issues and to understand what users do with your app
 - Designed to help you continuously improve performance and usability
 - Works for apps on a for .NET, Node.JS, Java, Python hosted on -premises, hybrid, or any public cloud
-- 
+- Integrates with your DevOps process
+- Can monitor and analyze telemetry from mobile apps by integrating with Visual Studio App Center
+
+To use Application Insights you need to instrument your application
+- To instrument, you need to install the instrument package (SDK)
+- Or enable Application Insights using the Application Insights Agents when supported
+- Apps can be instrumented from anywhere
+- When you set up Application Insights monitoring for your web app, you create an Application Insights resource in Microsoft Azure.
+- You open this resource in the Azure portal in order to see and analyze the telemetry collected from your app. 
+- The resource is identified by an instrumentation key (iKey)
