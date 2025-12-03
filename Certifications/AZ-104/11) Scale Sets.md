@@ -17,5 +17,16 @@ A Load Balancer can be associated with a Scale Set
     - **Oldest VM** Delete the oldest VM, Balanced across Availability Zones (AZs)
 
 **Update Policy** Determines how VM instances are brought up-to-date with the latest scale set model 
--
+- **Automatic** Increasing with start upgrading immediately in random order
+- **Manual** Existing instances must be manually upgraded
+- **Rolling** Upgrades roll ou in batches with optional pause
+
+**Health Monitoring** can be enabled to determine if your server is healthy or unhealthy
+
+There are 2 modes of Health monitoring:
+1) Application health extension: Ping an HTTP request to a specific path and expect a status of 200
+2) Load Balancer Probe: Allow you to check based on TCP, UDP, or HTTP requests
+
+**Automatic repair policy** if an instance is found to be unhealthy then delete it and launch a new instance
+
 
