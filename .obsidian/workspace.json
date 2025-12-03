@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/12) Azure App Services.md",
+                "file": "Certifications/AZ-104/14) Azure Monitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12) Azure App Services"
+              "title": "14) Azure Monitor"
             }
           }
         ]
@@ -200,8 +200,10 @@
   },
   "active": "456ccee7b3d198d7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Certifications/AZ-104/13) See 13 in Labs.md",
+    "Certifications/AZ-104/14) Azure Monitor.md",
     "Certifications/AZ-104/12) Azure App Services.md",
+    "Untitled.md",
     "Certifications/AZ-104/11) Scale Sets.md",
     "Certifications/AZ-104/10) Azure Application Gateway.md",
     "Certifications/AZ-104/9) Azure Disk.md",
@@ -228,8 +230,6 @@
     "CompTIA Security+/Quizes/Domain 4.md",
     "CompTIA Security+/Domain 1.0 General Security Concepts.md",
     "GRC/Archive/Mod 3 What to Know.md",
-    "Certifications/MD-102 From Microsoft.md",
-    "Certifications/MD-102 Endpoint Admin.md",
     "CompTIA Security+/Quizes",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 4.0 Security Operations",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts",
