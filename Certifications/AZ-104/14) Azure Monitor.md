@@ -40,4 +40,32 @@ Kusto is based on relational database management systems and supports entities s
 - Kusto is generally composed of the following entites: Clusters, Databases, Tables, Columns, Functions
     - Clusters are entities that hold databases
     - Databases are named entities that hold tables and stored functions
-    - Stored functions are named entities that allow
+    - Stored functions are named entities that allowreuse of Kusto queries or query parts
+    - Tables are named entities that hold data
+    - Columns are named entities that have a scalar data type
+    - External tables are entities that reference data stored outside kusto database
+
+Metrics Explorer is a sub-service of Azure Monitor that allows you to plot charts, visualize correlating trends, and investigate spikes and dips in metrics values. To Visualize a metric you need to define: 
+- Scope: You can select *resource(s)
+- Namespace: A specific group of metric data within a resource
+- Metric: The actual value you are interested in visualizing
+- Aggregation: How you want to group the values into the final result
+
+Alerts notify you when issues are found with your infrastructure or application
+- They allow you to identify and address issues before the users of your system notice them
+- Azure has 3 kinds of Alerts
+    - 1) Metric Alerts
+    - 2) Log Alerts
+    - 3) Activity Log Alerts
+
+  Azure Dashboards are virtual workspaces to quickly launch tasks for day-to-day operations and monitor resources
+
+Azure Workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal
+- It tells a story about the performance and availability of your applications and service
+
+Application Insights is an Application Performance Management (APM) service it is a sub-service of Azure Monitor
+- Automatically detec performance anomalies
+- Includes powerful analytics tools to help you diagnose issues and to understand what users do with your app
+- Designed to help you continuously improve performance and usability
+- Works for apps on a for .NET, Node.JS, Java, Python hosted on -premises, hybrid, or any public cloud
+- 
