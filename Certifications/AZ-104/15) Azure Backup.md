@@ -18,4 +18,10 @@ Azure Recovery Service (ARS) Vault is  a storage entity in Azure that houses dat
 - Central Monitoring for your hybrid IT environment
 - Azure role-based access control (Azure RBAC) 
 - Soft Delete
-- Cross r
+- Cross Region Restore
+
+Microsoft Azure Recovery Services (MARS) agent backups files, folders, and systems state from windows on-prem machines and Azure VMs
+- Backups are stored in a Recovery Services vault in Azure
+- MARS agent is also known  as the Azure Backup Agent
+- The MARS agent does not support Linux OS
+- Azure Site Recovery (ASR) is a hybrid backup solution for site-to-site recovery
