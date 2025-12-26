@@ -25,3 +25,12 @@ This forms a connection in the person mind
 
 #### Coffee Chat
 Email follow up 1 week > Email follow up 2 weeks > last email 1 month
+1. I really appreciate getting to know you. I thought a lot about the conversation we had a week ago,  It seems like you're at in your career where I want to be in the next couple of years. Would you be open to giving me 15-20 minutes of your time to have a deeper conversation of how you got to where you got to where you are right now. 
+
+
+
+
+
+##
+google.com/alerts
+
