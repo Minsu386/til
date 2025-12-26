@@ -12,3 +12,6 @@ Start on Meetup.com and then find local boards
 
 build a one-tab.com link of local boards
 
+Conference - Volunteer, Email organization
+Email - Hey i'm new, broke as a joke, is there any discount or potentially for free
+
