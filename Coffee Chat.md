@@ -10,4 +10,5 @@ Start on Meetup.com and then find local boards
 - Meet people and say hello WITH Their name. 
     - Saying their name 3x can turn someone from Stranger to acquaintance
 
+build a one-tab.com link of local boards
 
