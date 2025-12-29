@@ -1,0 +1,1 @@
+Virtual Network (vNet) is a logically isolated section of the Azure Network where you launch your Azure resource
