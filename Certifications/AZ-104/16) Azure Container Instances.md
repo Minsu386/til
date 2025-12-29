@@ -37,4 +37,11 @@ When a containers crashes or stops all state is lost
 
 To persist state, you need to mount an external volume
 - You can mount the following external volumes:
-    - Azure Files (file share), Secret Volume, Empty Direcotry, Cl
+    - Azure Files (file share), Secret Volume, Empty Directory, Cloud git repo
+
+Container troubleshooting (Azure CLI commands I need to know)
+- **az container log** - pull logs
+- **az container attach** - diagnostic information during container startup
+- **az container exec** - Interactive container run
+- **az monitor metrics list** get metrics such as CPU usage
+
