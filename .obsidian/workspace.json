@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "01 Sep 23"
             }
+          },
+          {
+            "id": "703246f73e569e6b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "020050d72dae23db",
+  "active": "703246f73e569e6b",
   "lastOpenFiles": [
-    "Certifications/AZ-104/20) Azure Network Watcher.md",
     "Certifications/AZ-104/21) Networking.md",
+    "Certifications/AZ-104/20) Azure Network Watcher.md",
     "Certifications/AZ-104/19) Azure DNS.md",
     "Certifications/AZ-104/18) Azure Kubernetes Services.md",
     "Certifications/AZ-104/17 ) Azure Container Registry.md",
