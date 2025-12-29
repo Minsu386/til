@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coffee Chat.md",
+                "file": "Certifications/AZ-104/16) Azure Container Instances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coffee Chat"
+              "title": "16) Azure Container Instances"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo/Jobsearch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,8 +220,8 @@
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
@@ -230,13 +229,16 @@
   },
   "active": "020050d72dae23db",
   "lastOpenFiles": [
-    "Job Search.md",
     "Certifications/AZ-104/15) Azure Backup.md",
+    "Certifications/AZ-104/16) Azure Container Instances.md",
+    "2025-12-29.md",
+    "Untitled.base",
+    "Coffee Chat.md",
+    "Job Search.md",
     "Daily Journal/01 Sep 23.md",
     "Daily Journal/01 Aug 23.md",
     "Daily Journal/03 Aug 23.md",
     "Daily Journal/02 Aug 23.md",
-    "Coffee Chat.md",
     "Certifications/AZ-104/14) Azure Monitor.md",
     "Certifications/AZ-104/13) See 13 in Labs.md",
     "Certifications/AZ-104/12) Azure App Services.md",
@@ -255,17 +257,14 @@
     "Certifications/AZ-104/1) Entra ID/Untitled.md",
     "Certifications/AZ-104/1) Entra ID",
     "Linux.md",
-    "Certifications/Arhive/AZ-104.md",
     "Certifications/AZ-104/Labs",
     "Certifications/AZ-104",
     "Certifications/Arhive",
-    "OMARCHY.md",
     "CompTIA Security+/Quizes",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 4.0 Security Operations",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts",
     "CompTIA Security+/Sec+ SY0-701 Book",
     "CompTIA Security+",
-    "ZTM/NextJS",
     "Meta/Pasted image 20241126062534.png",
     "Meta/Pasted image 20241126062429.png",
     "Meta/Pasted image 20241126062329.png",
