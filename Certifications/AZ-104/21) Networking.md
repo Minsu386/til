@@ -27,3 +27,5 @@ The amount of IP addresses available is determined based on the CIDR range notat
 A Subnet is a logical division of an address space
 
 A subnet needs a route table so it can access
+
+Azure has no concept of private and public subnets and its up to you to configure our subnets to ensure they do not reach the internet by ensuring they have no route via thei
