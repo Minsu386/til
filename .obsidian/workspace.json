@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/24) Azure Virtual Network Gateway.md",
-                "mode": "source",
+                "file": "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24) Azure Virtual Network Gateway"
+              "title": "a) Createa Tenant"
             }
           }
         ],
@@ -257,8 +257,10 @@
   },
   "active": "625b410a8835513d",
   "lastOpenFiles": [
-    "Certifications/AZ-104/Resources.md",
     "Certifications/AZ-104/24) Azure Virtual Network Gateway.md",
+    "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
+    "Certifications/AZ-104/Labs/1) Microsoft Entra  ID",
+    "Certifications/AZ-104/Resources.md",
     "Certifications/AZ-104/23) Virtual WAN.md",
     "Certifications/AZ-104/22) Azure Network Security Groups.md",
     "Certifications/AZ-104/21) Networking.md",
@@ -283,7 +285,6 @@
     "Job Search.md",
     "Daily Journal/01 Sep 23.md",
     "Daily Journal/01 Aug 23.md",
-    "Daily Journal/03 Aug 23.md",
     "Certifications/AZ-104/1) Entra ID",
     "Certifications/AZ-104/Labs",
     "Certifications/AZ-104",
@@ -292,7 +293,6 @@
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 4.0 Security Operations",
     "CompTIA Security+/Sec+ SY0-701 Book/Domain 1.0 General Security Concepts",
     "CompTIA Security+/Sec+ SY0-701 Book",
-    "CompTIA Security+",
     "Meta/Pasted image 20241126062534.png",
     "Meta/Pasted image 20241126062429.png",
     "Meta/Pasted image 20241126062329.png",
