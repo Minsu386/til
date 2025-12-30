@@ -65,4 +65,4 @@ Connectivity can be from an:
 - a point-to-point Ethernet Network
 - Virtual Cross-connection through a connectivity provider at a colocation facility
 
-ExpressRoute Dir
+ExpressRoute Direct allows for greater Bandwidth Connections from 50 Mbps to 10Gbps
