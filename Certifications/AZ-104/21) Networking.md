@@ -44,3 +44,25 @@ Azure Firewall is managed, cloud-based network security service that protects yo
 It is a Fully Stateful Firewall as a Service (FWaas) with:
 - Built-In High availability
 - Unrestricted Cloud Scalability
+You can centrally create, enforce, and log application and network connectivity policies across subscriptions and VMs
+
+Azure Firewall uses a static public IP address for your VNet resources allowing outside firewalls to identify traffic originating from your Virtual Network
+
+The service is fully integrated w/ Azure monitor for logging and analytics
+
+Traffic Filtering
+
+Traffic is denied by default
+- You launch an Azure Firewall in its own VNet
+- Other VNets pass through this Central Vnet
+- You get Microsoft Threat Intelligence
+    - Blocks known malicious IPs and FQDNs
+
+Azure ExpressRoutes create private connections between Azure Datacenters and infrastructure on your premises or in colocation environment
+
+Connectivity can be from an:
+- any-to-any (IP VPN) network
+- a point-to-point Ethernet Network
+- Virtual Cross-connection through a connectivity provider at a colocation facility
+
+ExpressRoute Dir
