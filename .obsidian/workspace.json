@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/Labs/7) Storage Accounts/e) Enable Soft Delete.md",
+                "file": "Certifications/AZ-104/Labs/9) Azure Disk/a) Attaching, Partitioning and Monitoring a Disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "e) Enable Soft Delete"
+              "title": "a) Attaching, Partitioning and Monitoring a Disk"
             }
           }
         ],
@@ -257,8 +257,16 @@
   },
   "active": "625b410a8835513d",
   "lastOpenFiles": [
-    "Certifications/AZ-104/Labs/7) Storage Accounts/d) Setup Azure Files Sync.md",
+    "Certifications/AZ-104/Labs/8) Virtual Machine/d) Follow Along VM Monitoring.md",
+    "Certifications/AZ-104/Labs/9) Azure Disk/a) Attaching, Partitioning and Monitoring a Disk.md",
+    "Certifications/AZ-104/Labs/9) Azure Disk",
+    "Certifications/AZ-104/Labs/8) Virtual Machine/c) Create a Linux VM and SSH.md",
+    "Certifications/AZ-104/Labs/8) Virtual Machine/b) Create a Windows VM and RDP.md",
+    "Certifications/AZ-104/Labs/8) Virtual Machine/a) Create a Bastion.md",
     "Certifications/AZ-104/Labs/7) Storage Accounts/e) Enable Soft Delete.md",
+    "Certifications/AZ-104/Labs/8) Virtual Machine",
+    "Certifications/AZ-104/Labs/7) Storage Accounts/Untitled",
+    "Certifications/AZ-104/Labs/7) Storage Accounts/d) Setup Azure Files Sync.md",
     "Certifications/AZ-104/Labs/7) Storage Accounts/c) Create a File Share with Azure Files.md",
     "Certifications/AZ-104/Labs/7) Storage Accounts/b) Use AZCopy to copy files to Storage Accounts.md",
     "Certifications/AZ-104/Labs/7) Storage Accounts/a) Azure Storage Blob Service.md",
@@ -282,17 +290,9 @@
     "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/b) Upgrade License.md",
     "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
     "Certifications/AZ-104/24) Azure Virtual Network Gateway.md",
-    "Certifications/AZ-104/Labs/1) Microsoft Entra  ID",
     "Certifications/AZ-104/Resources.md",
     "Certifications/AZ-104/23) Virtual WAN.md",
     "Certifications/AZ-104/22) Azure Network Security Groups.md",
-    "Certifications/AZ-104/21) Networking.md",
-    "Certifications/AZ-104/16) Azure Container Instances.md",
-    "Certifications/AZ-104/15) Azure Backup.md",
-    "Certifications/AZ-104/14) Azure Monitor.md",
-    "Certifications/AZ-104/13) See 13 in Labs.md",
-    "Untitled.base",
-    "Certifications/AZ-104/1) Entra ID",
     "Meta/Pasted image 20241126062534.png",
     "Meta/Pasted image 20241126062429.png",
     "Meta/Pasted image 20241126062329.png",
