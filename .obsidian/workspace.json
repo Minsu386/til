@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/Labs/20) Azure Networking/c) Setup Test Server for Network Watcher.md",
-                "mode": "source",
+                "file": "Certifications/AZ-104/2) Device Management.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c) Setup Test Server for Network Watcher"
+              "title": "2) Device Management"
             }
           },
           {
@@ -270,8 +270,15 @@
   },
   "active": "456ccee7b3d198d7",
   "lastOpenFiles": [
-    "Certifications/AZ-104/Labs/20) Azure Networking/b) Setup a peering VPC.md",
+    "Certifications/AZ-104/Labs/21 ) Azure Virtual WAN/a) Create and Configure Network Security Groups.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/h) ANW Cleanup.md",
+    "Certifications/AZ-104/Labs/21 ) Azure Virtual WAN",
+    "Certifications/AZ-104/Labs/20) Azure Networking/g) Capture NSG Flow Logs.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/f) Capture Packets.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/e) Debut NSG via Diagnostic Tools.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/d) IP Flow Verify via Network Watcher.md",
     "Certifications/AZ-104/Labs/20) Azure Networking/c) Setup Test Server for Network Watcher.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/b) Setup a peering VPC.md",
     "Certifications/AZ-104/Labs/20) Azure Networking/a) Setup an Azure Firewall.md",
     "Certifications/AZ-104/Labs/19) Azure DNS/a) Create a DNS Zone and Record Set.md",
     "Certifications/AZ-104/Labs/20) Azure Networking",
@@ -297,15 +304,8 @@
     "Certifications/AZ-104/Labs/12) Azure App Services/b) Trigger a Deploy via Github Action.md",
     "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/b) Upgrade License.md",
     "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
-    "Certifications/AZ-104/Labs/12) Azure App Services/a) Configure and Deploy App Service.md",
-    "Certifications/AZ-104/Labs/11) Scale Set/b) Setting up Internal Load Balancing for VM.md",
     "Certifications/AZ-104/Labs/12) Azure App Services",
-    "Certifications/AZ-104/15) Azure Backup.md",
-    "Learn with Leon/Job Hunt.md",
-    "BIO.md",
-    "Bash.md",
     "Untitled",
-    "Learn with Leon",
     "Meta/Pasted image 20241126062534.png",
     "Meta/Pasted image 20241126062429.png",
     "Meta/Pasted image 20241126062329.png",
