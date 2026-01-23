@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Job Hunt"
             }
+          },
+          {
+            "id": "c0ecdaf41ac449ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -269,7 +281,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e0ee56e9d2d4fcb",
+  "active": "c0ecdaf41ac449ac",
   "lastOpenFiles": [
     "BIO.md",
     "Bash.md",
