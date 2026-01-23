@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/Labs/15) Azure Backup/b) Back up a VM in Azure.md",
+                "file": "Certifications/AZ-104/Labs/20) Azure Networking/c) Setup Test Server for Network Watcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b) Back up a VM in Azure"
+              "title": "c) Setup Test Server for Network Watcher"
             }
           },
           {
@@ -270,8 +270,19 @@
   },
   "active": "456ccee7b3d198d7",
   "lastOpenFiles": [
-    "Certifications/AZ-104/Labs/15) Azure Backup/a) Create a Recovery Services Vault.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/b) Setup a peering VPC.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/c) Setup Test Server for Network Watcher.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking/a) Setup an Azure Firewall.md",
+    "Certifications/AZ-104/Labs/19) Azure DNS/a) Create a DNS Zone and Record Set.md",
+    "Certifications/AZ-104/Labs/20) Azure Networking",
+    "Certifications/AZ-104/Labs/18) Azure Kuberenetes Service/a) Create a Kubernetes Cluster.md",
+    "Certifications/AZ-104/Labs/19) Azure DNS",
+    "Certifications/AZ-104/Labs/16) Azure Container Instances/a) Create an Azure Container Instances.md",
+    "Certifications/AZ-104/Labs/18) Azure Kuberenetes Service",
+    "Certifications/AZ-104/Labs/15) Azure Backup/c) Azure Site Recovery.md",
+    "Certifications/AZ-104/Labs/16) Azure Container Instances",
     "Certifications/AZ-104/Labs/15) Azure Backup/b) Back up a VM in Azure.md",
+    "Certifications/AZ-104/Labs/15) Azure Backup/a) Create a Recovery Services Vault.md",
     "Certifications/AZ-104/Labs/14) Azure Monitor/b) Azure Advisor.md",
     "Certifications/AZ-104/Labs/15) Azure Backup",
     "Certifications/AZ-104/Labs/14) Azure Monitor/a) Diagnostic Settings in Azure Monitor.md",
@@ -293,19 +304,8 @@
     "Learn with Leon/Job Hunt.md",
     "BIO.md",
     "Bash.md",
-    "Backend.md",
-    "Learning/FSA/Week 1/Servers and Databases.md",
-    "Daily Journal/2026-01-09.md",
-    "2025-12-29.md",
-    "Daily Journal/01 Aug 23.md",
-    "Book Review/Modern Software Engineering/Unorganized.md",
-    "How to Network.md",
     "Untitled",
     "Learn with Leon",
-    "Certifications/AZ-104/Labs/11) Scale Set",
-    "Certifications/AZ-104/Labs/9) Azure Disk",
-    "Certifications/AZ-104/Labs/8) Virtual Machine",
-    "Certifications/AZ-104/Labs/7) Storage Accounts/Untitled",
     "Meta/Pasted image 20241126062534.png",
     "Meta/Pasted image 20241126062429.png",
     "Meta/Pasted image 20241126062329.png",
