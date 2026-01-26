@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
+                "file": "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/f) MFA.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a) Createa Tenant"
+              "title": "f) MFA"
             }
           },
           {
@@ -285,6 +285,8 @@
   },
   "active": "fbe621b38d2d4048",
   "lastOpenFiles": [
+    "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/e) Mass Imports.md",
+    "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
     "Certifications/AZ-104/Resources.md",
     "Certifications/AZ-104/7) Storage Account.md",
     "Certifications/AZ-104/5) Azure Resource Manager.md",
@@ -316,8 +318,6 @@
     "Certifications/AZ-104/Labs/14) Azure Monitor/a) Diagnostic Settings in Azure Monitor.md",
     "Certifications/AZ-104/Labs/13) Availability Follow Along/d) Create an Application Gateway.md",
     "Certifications/AZ-104/Labs/14) Azure Monitor",
-    "Certifications/AZ-104/Labs/13) Availability Follow Along/c) Create a Scale Sets.md",
-    "Certifications/AZ-104/Labs/13) Availability Follow Along/b) Review Availability Sets.md",
     "Certifications/AZ-104/Labs/13) Availability Follow Along",
     "Certifications/AZ-104/Labs/12) Azure App Services",
     "Untitled",
