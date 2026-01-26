@@ -25,12 +25,14 @@
             "id": "fbe621b38d2d4048",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "a) Createa Tenant"
             }
           },
           {
@@ -283,6 +285,7 @@
   },
   "active": "fbe621b38d2d4048",
   "lastOpenFiles": [
+    "Certifications/AZ-104/Resources.md",
     "Certifications/AZ-104/7) Storage Account.md",
     "Certifications/AZ-104/5) Azure Resource Manager.md",
     "Certifications/AZ-104/4) Azure Policies.md",
@@ -315,7 +318,6 @@
     "Certifications/AZ-104/Labs/14) Azure Monitor",
     "Certifications/AZ-104/Labs/13) Availability Follow Along/c) Create a Scale Sets.md",
     "Certifications/AZ-104/Labs/13) Availability Follow Along/b) Review Availability Sets.md",
-    "Certifications/AZ-104/Labs/13) Availability Follow Along/a) Backup VM using Images.md",
     "Certifications/AZ-104/Labs/13) Availability Follow Along",
     "Certifications/AZ-104/Labs/12) Azure App Services",
     "Untitled",
