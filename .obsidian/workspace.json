@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "e0b761021b9d3da8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "020050d72dae23db",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,7 +295,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbe621b38d2d4048",
+  "active": "e0b761021b9d3da8",
   "lastOpenFiles": [
     "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/a) Createa Tenant.md",
     "Certifications/AZ-104/Labs/6) ARM Templates/a) Launching an ARM Template.md",
