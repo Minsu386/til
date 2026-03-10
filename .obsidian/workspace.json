@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/Labs/5) Azure Resource Manager/a) Moving Resources.md",
+                "file": "Certifications/AZ-104/Labs/6) ARM Templates/a) Launching an ARM Template.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a) Moving Resources"
+              "title": "a) Launching an ARM Template"
             }
           },
           {
@@ -268,9 +268,9 @@
   },
   "active": "fbe621b38d2d4048",
   "lastOpenFiles": [
+    "Certifications/AZ-104/Labs/5) Azure Resource Manager/a) Moving Resources.md",
     "Certifications/AZ-104/Labs/4) Azure Policies/a) Configure Azure Policy.md",
     "Certifications/AZ-104/Labs/3) Azure Roles/a) Assign Azure Roles using the Azure Portal.md",
-    "Certifications/AZ-104/Labs/5) Azure Resource Manager/a) Moving Resources.md",
     "Certifications/AZ-104/Labs/6) ARM Templates/a) Launching an ARM Template.md",
     "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/b) Upgrade License.md",
     "Certifications/AZ-104/8) Virtual Machine.md",
