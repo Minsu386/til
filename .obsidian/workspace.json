@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AZ-104/Labs/3) Azure Roles/a) Assign Azure Roles using the Azure Portal.md",
+                "file": "Certifications/AZ-104/Labs/5) Azure Resource Manager/a) Moving Resources.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a) Assign Azure Roles using the Azure Portal"
+              "title": "a) Moving Resources"
             }
           },
           {
@@ -269,6 +269,7 @@
   "active": "fbe621b38d2d4048",
   "lastOpenFiles": [
     "Certifications/AZ-104/Labs/4) Azure Policies/a) Configure Azure Policy.md",
+    "Certifications/AZ-104/Labs/3) Azure Roles/a) Assign Azure Roles using the Azure Portal.md",
     "Certifications/AZ-104/Labs/5) Azure Resource Manager/a) Moving Resources.md",
     "Certifications/AZ-104/Labs/6) ARM Templates/a) Launching an ARM Template.md",
     "Certifications/AZ-104/Labs/1) Microsoft Entra  ID/b) Upgrade License.md",
@@ -294,7 +295,6 @@
     "Certifications/AZ-104/Labs/20) Azure Networking/f) Capture Packets.md",
     "Certifications/AZ-104/Labs/20) Azure Networking/e) Debut NSG via Diagnostic Tools.md",
     "Certifications/AZ-104/Labs/20) Azure Networking/d) IP Flow Verify via Network Watcher.md",
-    "Certifications/AZ-104/Labs/20) Azure Networking/c) Setup Test Server for Network Watcher.md",
     "Certifications/AZ-104/Labs/20) Azure Networking",
     "Certifications/AZ-104/Labs/19) Azure DNS",
     "Certifications/AZ-104/Labs/18) Azure Kuberenetes Service",
